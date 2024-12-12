@@ -3,9 +3,6 @@ Problem Number: 1. Two Sum
 Difficulty Level: Easy
 https://leetcode.com/problems/two-sum/
 
-Time Complexity: O(n)
-Space Complexity: O(n)
-
 ********************************************************************************
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -41,3 +38,6 @@ class Solution:
             if target - num in pairs:
                 return [pairs[target - num], idx]
             pairs[num] = idx
+            
+# Time Complexity: O(n)
+# Space Complexity: O(n)
