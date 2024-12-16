@@ -18,8 +18,8 @@ This repository contains solutions to various data structure and algorithm probl
 ├── Arrays
 │   ├── 1.two_sum.py
 │   └── 35.search_insert_position.py
-├── Strings
-│   └── 3.longest_substring_without_repeating_characters.py
+├── LinkedList
+│   └── 206.reverse-linked-list.py
 ├── Trees
 │   └── 100.same_tree.py
 ├── README.md
