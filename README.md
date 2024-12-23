@@ -6,24 +6,26 @@ This repository contains solutions to various data structure and algorithm probl
 
 ## Repository Structure
 
-- Each solution is stored in a separate Python file, named according to the problem number and title. For example:
-  - `1.two_sum.py` for Problem 1: Two Sum
-  - `35.search_insert_position.py` for Problem 35: Search Insert Position
+- Each solution is stored in a separate Python file, named according to the problem number and title.
 - Solutions are organized into categories based on the problem type, such as Arrays, Strings, Trees, Graphs, etc.
 
 ### Directory Layout
 
 ```
 .
-├── Arrays
-│   ├── 1.two_sum.py
-│   └── 35.search_insert_position.py
+├── Array
+│   ├── 1.two-sum.py
+│   ├── 1464.maximum-product-of-two-elements-in-an-array.py
+│   ├── 35.search-insert-position.py
+│   └── 48.rotate-image.py
 ├── LinkedList
-│   └── 206.reverse-linked-list.py
-├── Trees
-│   └── 100.same_tree.py
+│   ├── 206.reverse-linked-list.py
+│   ├── 83.remove-duplicates-from-sorted-list.py
+│   └── 876.middle-of-the-linked-list.py
+├── String
+│   └── text.py
 ├── README.md
-└── .gitignore
+└── script.py
 ```
 
 ---
