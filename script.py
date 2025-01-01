@@ -116,4 +116,5 @@ def main():
         print("No new or deleted files to update README.")
         
 if __name__ == "__main__":
-    main()
+    # main()
+    update_readme()

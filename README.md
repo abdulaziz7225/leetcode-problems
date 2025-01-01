@@ -20,10 +20,11 @@ This repository contains solutions to various data structure and algorithm probl
 │   └── 48.rotate-image.py
 ├── LinkedList
 │   ├── 206.reverse-linked-list.py
+│   ├── 82.remove-duplicates-from-sorted-list-ii.py
 │   ├── 83.remove-duplicates-from-sorted-list.py
 │   └── 876.middle-of-the-linked-list.py
 ├── String
-│   └── text.py
+│   └── 1422.maximum-score-after-splitting-a-string.py
 ├── README.md
 └── script.py
 ```
