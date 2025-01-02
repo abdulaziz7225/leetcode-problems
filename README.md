@@ -16,6 +16,7 @@ This repository contains solutions to various data structure and algorithm probl
 ├── Array
 │   ├── 1.two-sum.py
 │   ├── 1464.maximum-product-of-two-elements-in-an-array.py
+│   ├── 2559.count-vowel-strings-in-ranges.py
 │   ├── 35.search-insert-position.py
 │   └── 48.rotate-image.py
 ├── LinkedList
