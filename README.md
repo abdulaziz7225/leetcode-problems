@@ -16,14 +16,16 @@ This repository contains solutions to various data structure and algorithm probl
 ├── Array
 │   ├── 1.two-sum.py
 │   ├── 1464.maximum-product-of-two-elements-in-an-array.py
-│   ├── 2559.count-vowel-strings-in-ranges.py
 │   ├── 35.search-insert-position.py
 │   └── 48.rotate-image.py
-├── LinkedList
+├── Linked_List
 │   ├── 206.reverse-linked-list.py
 │   ├── 82.remove-duplicates-from-sorted-list-ii.py
 │   ├── 83.remove-duplicates-from-sorted-list.py
 │   └── 876.middle-of-the-linked-list.py
+├── Prefix_Sum
+│   ├── 2270.number-of-ways-to-split-array.py
+│   └── 2559.count-vowel-strings-in-ranges.py
 ├── String
 │   └── 1422.maximum-score-after-splitting-a-string.py
 ├── README.md
