@@ -48,11 +48,15 @@ class Solution:
                 first_and_last[char] = [idx, idx]
 
         result = 0
-        for char, val in first_and_last.items():
-            if val[0] + 1 < val[1]:
+        for left, right in first_and_last.values():
+            if left + 1 < right:
                 unique_chars = set()
-                for i in range(val[0]+1, val[1]):
+                for i in range(left+1, right):
                     unique_chars.add(s[i])
+                    if len(unique_chars) == 26:
+                        break
                 result += len(unique_chars)
         return result
-        
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
