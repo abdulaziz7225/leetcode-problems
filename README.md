@@ -18,6 +18,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 1464.maximum-product-of-two-elements-in-an-array.py
 │   ├── 35.search-insert-position.py
 │   └── 48.rotate-image.py
+├── Hash_Table
+│   └── 1930.unique-length-3-palindromic-subsequences.py
 ├── Linked_List
 │   ├── 206.reverse-linked-list.py
 │   ├── 82.remove-duplicates-from-sorted-list-ii.py
