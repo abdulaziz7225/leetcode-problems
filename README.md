@@ -27,11 +27,13 @@ This repository contains solutions to various data structure and algorithm probl
 │   └── 876.middle-of-the-linked-list.py
 ├── Prefix_Sum
 │   ├── 2270.number-of-ways-to-split-array.py
+│   ├── 2381.shifting-letters-ii.py
 │   └── 2559.count-vowel-strings-in-ranges.py
 ├── String
 │   └── 1422.maximum-score-after-splitting-a-string.py
 ├── README.md
-└── script.py
+├── directory_layout_script.py
+└── problem_description_script.py
 ```
 
 ---
