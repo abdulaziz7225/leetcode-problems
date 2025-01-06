@@ -38,16 +38,15 @@ class Solution:
         result = []
         
         for shift in shifts:
-            start, end, direction = shift
-            temp = 1 if direction == 1 else -1
-            prefix[start] += temp
-            if end + 1 < len(prefix):
-                prefix [end + 1] -= temp
+            temp = 1 if shift[2] == 1 else -1
+            prefix[shift[0]] += temp
+            if shift[1] + 1 < len(prefix):
+                prefix [shift[1] + 1] -= temp
         
-        final_shift = 0
-        for idx, shift in enumerate(prefix):
-            final_shift += shift
-            temp = (ord(s[idx]) - 97) + final_shift
+        curr_shift = 0
+        for idx in range(len(prefix)):
+            curr_shift += prefix[idx]
+            temp = (ord(s[idx]) - 97) + curr_shift
             result.append(chr(temp % 26 + 97))
         return "".join(result)
     

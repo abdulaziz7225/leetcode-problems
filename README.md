@@ -26,6 +26,7 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 83.remove-duplicates-from-sorted-list.py
 │   └── 876.middle-of-the-linked-list.py
 ├── Prefix_Sum
+│   ├── 1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py
 │   ├── 2270.number-of-ways-to-split-array.py
 │   ├── 2381.shifting-letters-ii.py
 │   └── 2559.count-vowel-strings-in-ranges.py
