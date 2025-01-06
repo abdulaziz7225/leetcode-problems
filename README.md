@@ -25,6 +25,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 82.remove-duplicates-from-sorted-list-ii.py
 │   ├── 83.remove-duplicates-from-sorted-list.py
 │   └── 876.middle-of-the-linked-list.py
+├── Math
+│   └── 1217.minimum-cost-to-move-chips-to-the-same-position.py
 ├── Prefix_Sum
 │   ├── 1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py
 │   ├── 2270.number-of-ways-to-split-array.py
