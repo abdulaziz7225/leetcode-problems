@@ -34,6 +34,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   └── 2559.count-vowel-strings-in-ranges.py
 ├── String
 │   └── 1422.maximum-score-after-splitting-a-string.py
+├── String_Matching
+│   └── 1408.string-matching-in-an-array.py
 ├── README.md
 ├── directory_layout_script.py
 └── problem_description_script.py
