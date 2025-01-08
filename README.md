@@ -36,6 +36,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   └── 1422.maximum-score-after-splitting-a-string.py
 ├── String_Matching
 │   └── 1408.string-matching-in-an-array.py
+├── Trie
+│   └── 3042.count-prefix-and-suffix-pairs-i.py
 ├── README.md
 ├── directory_layout_script.py
 └── problem_description_script.py
