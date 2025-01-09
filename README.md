@@ -33,12 +33,16 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 2381.shifting-letters-ii.py
 │   └── 2559.count-vowel-strings-in-ranges.py
 ├── String
-│   └── 1422.maximum-score-after-splitting-a-string.py
+│   ├── 1422.maximum-score-after-splitting-a-string.py
+│   └── 2255.count-prefixes-of-a-given-string.py
 ├── String_Matching
 │   └── 1408.string-matching-in-an-array.py
 ├── Trie
+│   ├── 1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py
+│   ├── 2185.counting-words-with-a-given-prefix.py
 │   └── 3042.count-prefix-and-suffix-pairs-i.py
 ├── README.md
+├── TODO.md
 ├── directory_layout_script.py
 └── problem_description_script.py
 ```
