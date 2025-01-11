@@ -19,7 +19,9 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 35.search-insert-position.py
 │   └── 48.rotate-image.py
 ├── Hash_Table
-│   └── 1930.unique-length-3-palindromic-subsequences.py
+│   ├── 1400.construct-k-palindrome-strings.py
+│   ├── 1930.unique-length-3-palindromic-subsequences.py
+│   └── 916.word-subsets.py
 ├── Linked_List
 │   ├── 206.reverse-linked-list.py
 │   ├── 82.remove-duplicates-from-sorted-list-ii.py
