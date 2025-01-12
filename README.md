@@ -18,6 +18,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 1464.maximum-product-of-two-elements-in-an-array.py
 │   ├── 35.search-insert-position.py
 │   └── 48.rotate-image.py
+├── Greedy_Algorithm
+│   └── 452.minimum-number-of-arrows-to-burst-balloons.py
 ├── Hash_Table
 │   ├── 1400.construct-k-palindrome-strings.py
 │   ├── 1930.unique-length-3-palindromic-subsequences.py
