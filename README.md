@@ -34,6 +34,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   ├── 2270.number-of-ways-to-split-array.py
 │   ├── 2381.shifting-letters-ii.py
 │   └── 2559.count-vowel-strings-in-ranges.py
+├── Stack
+│   └── 20.valid-parentheses.py
 ├── String
 │   ├── 1422.maximum-score-after-splitting-a-string.py
 │   └── 2255.count-prefixes-of-a-given-string.py
