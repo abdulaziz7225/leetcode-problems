@@ -24,6 +24,7 @@ This repository contains solutions to various data structure and algorithm probl
 ├── Hash_Table
 │   ├── 1400.construct-k-palindrome-strings.py
 │   ├── 1930.unique-length-3-palindromic-subsequences.py
+│   ├── 3223.minimum-length-of-string-after-operations.py
 │   └── 916.word-subsets.py
 ├── Linked_List
 │   ├── 206.reverse-linked-list.py
