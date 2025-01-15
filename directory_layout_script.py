@@ -73,7 +73,7 @@ def update_readme(readme_path="README.md", layout_section="### Directory Layout\
             first_backtick = readme_content.find("```", start_index + len(layout_section))
             second_backtick = readme_content.find("```", first_backtick + 3)
             
-            updated_content = readme_content[:first_backtick] + "```\n" + layout + "\n```" + readme_content[second_backtick + 3:]
+            updated_content = readme_content[:first_backtick] + "```README\n" + layout + "\n```" + readme_content[second_backtick + 3:]
         else:
             updated_content = readme_content + new_content
     else:

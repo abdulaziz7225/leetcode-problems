@@ -11,13 +11,15 @@ This repository contains solutions to various data structure and algorithm probl
 
 ### Directory Layout
 
-```
+```README
 .
 ├── Array
 │   ├── 1.two-sum.py
 │   ├── 1464.maximum-product-of-two-elements-in-an-array.py
 │   ├── 35.search-insert-position.py
 │   └── 48.rotate-image.py
+├── Bit_Manipulation
+│   └── 3304.find-the-k-th-character-in-string-game-i.py
 ├── Greedy_Algorithm
 │   ├── 2116.check-if-a-parentheses-string-can-be-valid.py
 │   └── 452.minimum-number-of-arrows-to-burst-balloons.py
