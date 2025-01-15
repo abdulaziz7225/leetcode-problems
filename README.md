@@ -11,52 +11,52 @@ This repository contains solutions to various data structure and algorithm probl
 
 ### Directory Layout
 
-```README
+<pre><code>
 .
 ├── Array
-│   ├── 1.two-sum.py
-│   ├── 1464.maximum-product-of-two-elements-in-an-array.py
-│   ├── 35.search-insert-position.py
-│   └── 48.rotate-image.py
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1.two-sum.py">1.two-sum.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
 ├── Bit_Manipulation
-│   └── 3304.find-the-k-th-character-in-string-game-i.py
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/3304.find-the-k-th-character-in-string-game-i.py">3304.find-the-k-th-character-in-string-game-i.py</a>
 ├── Greedy_Algorithm
-│   ├── 2116.check-if-a-parentheses-string-can-be-valid.py
-│   └── 452.minimum-number-of-arrows-to-burst-balloons.py
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/2116.check-if-a-parentheses-string-can-be-valid.py">2116.check-if-a-parentheses-string-can-be-valid.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>
 ├── Hash_Table
-│   ├── 1400.construct-k-palindrome-strings.py
-│   ├── 1930.unique-length-3-palindromic-subsequences.py
-│   ├── 2657.find-the-prefix-common-array-of-two-arrays.py
-│   ├── 3223.minimum-length-of-string-after-operations.py
-│   └── 916.word-subsets.py
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1400.construct-k-palindrome-strings.py">1400.construct-k-palindrome-strings.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1930.unique-length-3-palindromic-subsequences.py">1930.unique-length-3-palindromic-subsequences.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/2657.find-the-prefix-common-array-of-two-arrays.py">2657.find-the-prefix-common-array-of-two-arrays.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/916.word-subsets.py">916.word-subsets.py</a>
 ├── Linked_List
-│   ├── 206.reverse-linked-list.py
-│   ├── 82.remove-duplicates-from-sorted-list-ii.py
-│   ├── 83.remove-duplicates-from-sorted-list.py
-│   └── 876.middle-of-the-linked-list.py
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/206.reverse-linked-list.py">206.reverse-linked-list.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/82.remove-duplicates-from-sorted-list-ii.py">82.remove-duplicates-from-sorted-list-ii.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/83.remove-duplicates-from-sorted-list.py">83.remove-duplicates-from-sorted-list.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/876.middle-of-the-linked-list.py">876.middle-of-the-linked-list.py</a>
 ├── Math
-│   └── 1217.minimum-cost-to-move-chips-to-the-same-position.py
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
 ├── Prefix_Sum
-│   ├── 1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py
-│   ├── 2270.number-of-ways-to-split-array.py
-│   ├── 2381.shifting-letters-ii.py
-│   └── 2559.count-vowel-strings-in-ranges.py
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2270.number-of-ways-to-split-array.py">2270.number-of-ways-to-split-array.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2381.shifting-letters-ii.py">2381.shifting-letters-ii.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2559.count-vowel-strings-in-ranges.py">2559.count-vowel-strings-in-ranges.py</a>
 ├── Stack
-│   └── 20.valid-parentheses.py
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
 ├── String
-│   ├── 1422.maximum-score-after-splitting-a-string.py
-│   └── 2255.count-prefixes-of-a-given-string.py
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
 ├── String_Matching
-│   └── 1408.string-matching-in-an-array.py
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
 ├── Trie
-│   ├── 1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py
-│   ├── 2185.counting-words-with-a-given-prefix.py
-│   └── 3042.count-prefix-and-suffix-pairs-i.py
-├── README.md
-├── TODO.md
-├── directory_layout_script.py
-└── problem_description_script.py
-```
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py">1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/2185.counting-words-with-a-given-prefix.py">2185.counting-words-with-a-given-prefix.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/3042.count-prefix-and-suffix-pairs-i.py">3042.count-prefix-and-suffix-pairs-i.py</a>
+├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/README.md">README.md</a>
+├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/TODO.md">TODO.md</a>
+├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/directory_layout_script.py">directory_layout_script.py</a>
+└── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/problem_description_script.py">problem_description_script.py</a>
+</code></pre>
 
 ---
 
