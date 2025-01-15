@@ -95,40 +95,5 @@ def update_readme(readme_path="README.md", layout_section="### Directory Layout\
     print("README.md updated successfully.")
 
 
-def get_added_and_deleted_files():
-    """
-    Get the list of newly added files (status 'A' from git).
-    """
-    try:
-        # Run git status in porcelain mode to get the status of files
-        result = subprocess.run(
-            ["git", "status", "--porcelain"], capture_output=True, text=True)
-        result.check_returncode()
-
-        # Filter out the added ('A') and deleted ('D') files
-        added_files = [line[3:]
-                       for line in result.stdout.splitlines() if line.startswith("A ")]
-        deleted_files = [line[3:]
-                         for line in result.stdout.splitlines() if line.startswith("D ")]
-
-        return added_files, deleted_files
-    except subprocess.CalledProcessError as e:
-        print(f"Error checking git status: {e}")
-        return []
-
-
-def main():
-    # Get newly added and deleted files in the repository
-    added_files, deleted_files = get_added_and_deleted_files()
-
-    if added_files or deleted_files:
-        print("New or deleted files detected:")
-        print("Added:", added_files)
-        print("Deleted:", deleted_files)
-        update_readme()  # Update README if new files are added
-    else:
-        print("No new or deleted files to update README.")
-
-
 if __name__ == "__main__":
     update_readme()
