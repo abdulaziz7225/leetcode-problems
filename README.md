@@ -20,6 +20,8 @@ This repository contains solutions to various data structure and algorithm probl
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
 ├── Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2425.bitwise-xor-of-all-pairings.py">2425.bitwise-xor-of-all-pairings.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2429.minimize-xor.py">2429.minimize-xor.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/3304.find-the-k-th-character-in-string-game-i.py">3304.find-the-k-th-character-in-string-game-i.py</a>
 ├── Greedy_Algorithm
