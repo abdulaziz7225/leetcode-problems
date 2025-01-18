@@ -1,61 +1,61 @@
 # Solving Data Structure and Algorithm Problems on LeetCode Using Python
 
-This repository contains solutions to various data structure and algorithm problems from [LeetCode](https://leetcode.com/). All solutions are implemented in **Python** and are structured for easy understanding and reusability.
+This repository contains 🌟 **solutions** to various data structure and algorithm problems from [LeetCode](https://leetcode.com/). All solutions are implemented in **Python** and are structured for easy understanding and reusability.
 
 ---
 
-## Repository Structure
+## 🗂️ Repository Structure
 
-- Each solution is stored in a separate Python file, named according to the problem number and title.
-- Solutions are organized into categories based on the problem type, such as Arrays, Strings, Trees, Graphs, etc.
+- 📂 **Each solution** is stored in a separate Python file, named according to the problem number and title.
+- 🏷️ **Organized by category**: Arrays, Strings, Trees, Graphs, and more.
 
 ### Directory Layout
 
 <pre><code>
-.
-├── Array
+📂 .
+├── 📁 Array
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1.two-sum.py">1.two-sum.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
-├── Bit_Manipulation
+├── 📁 Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2425.bitwise-xor-of-all-pairings.py">2425.bitwise-xor-of-all-pairings.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2429.minimize-xor.py">2429.minimize-xor.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2683.neighboring-bitwise-xor.py">2683.neighboring-bitwise-xor.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/3304.find-the-k-th-character-in-string-game-i.py">3304.find-the-k-th-character-in-string-game-i.py</a>
-├── Greedy_Algorithm
+├── 📁 Greedy_Algorithm
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/2116.check-if-a-parentheses-string-can-be-valid.py">2116.check-if-a-parentheses-string-can-be-valid.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>
-├── Hash_Table
+├── 📁 Hash_Table
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1400.construct-k-palindrome-strings.py">1400.construct-k-palindrome-strings.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1930.unique-length-3-palindromic-subsequences.py">1930.unique-length-3-palindromic-subsequences.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/2657.find-the-prefix-common-array-of-two-arrays.py">2657.find-the-prefix-common-array-of-two-arrays.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/916.word-subsets.py">916.word-subsets.py</a>
-├── Linked_List
+├── 📁 Linked_List
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/206.reverse-linked-list.py">206.reverse-linked-list.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/82.remove-duplicates-from-sorted-list-ii.py">82.remove-duplicates-from-sorted-list-ii.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/83.remove-duplicates-from-sorted-list.py">83.remove-duplicates-from-sorted-list.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/876.middle-of-the-linked-list.py">876.middle-of-the-linked-list.py</a>
-├── Math
+├── 📁 Math
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
-├── Prefix_Sum
+├── 📁 Prefix_Sum
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2270.number-of-ways-to-split-array.py">2270.number-of-ways-to-split-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2381.shifting-letters-ii.py">2381.shifting-letters-ii.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2559.count-vowel-strings-in-ranges.py">2559.count-vowel-strings-in-ranges.py</a>
-├── Sliding_Window
+├── 📁 Sliding_Window
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/3.longest-substring-without-repeating-characters.py">3.longest-substring-without-repeating-characters.py</a>
-├── Stack
+├── 📁 Stack
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
-├── String
+├── 📁 String
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
-├── String_Matching
+├── 📁 String_Matching
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
-├── Trie
+├── 📁 Trie
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py">1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/2185.counting-words-with-a-given-prefix.py">2185.counting-words-with-a-given-prefix.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/3042.count-prefix-and-suffix-pairs-i.py">3042.count-prefix-and-suffix-pairs-i.py</a>
@@ -65,20 +65,24 @@ This repository contains solutions to various data structure and algorithm probl
 └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/problem_description_script.py">problem_description_script.py</a>
 </code></pre>
 
----
-
-## Problem Categories
-
-- **Arrays**: Solutions to problems involving arrays, such as searching, sorting, and subarray sums.
-- **Strings**: Problems focusing on string manipulations, substrings, and pattern matching.
-- **Linked Lists**: Challenges dealing with singly and doubly linked lists.
-- **Trees**: Binary trees, binary search trees, and n-ary trees.
-- **Graphs**: Graph traversal, shortest path, and connectivity.
-- **Dynamic Programming**: Problems requiring optimal substructure and overlapping subproblems.
+💡 **Pro Tip**: Click the filenames to view each solution directly on GitHub!
 
 ---
 
-## Solution Format
+## 🔑 Problem Categories
+
+| 📂 **Category**            | 📜 **Description**                                      |
+| -------------------------- | ------------------------------------------------------- |
+| 📊 **Arrays**              | Searching, sorting, subarray sums, and more.            |
+| 🧵 **Strings**             | String manipulations, substrings, and pattern matching. |
+| 🔗 **Linked Lists**        | Singly, doubly linked list problems.                    |
+| 🌲 **Trees**               | Binary trees, search trees, and n-ary trees.            |
+| 🗺️ **Graphs**              | Traversals, shortest paths, and connectivity.           |
+| 🚀 **Dynamic Programming** | Optimal substructure and overlapping subproblems.       |
+
+---
+
+## 🛠️ Solution Format
 
 Each solution file contains:
 

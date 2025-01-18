@@ -36,10 +36,10 @@ def generate_directory_layout(root_dir=".", current_path=None, indent_level=0, l
 
     # Add directory name (current directory)
     if relative_path == ".":
-        layout.append(".")
+        layout.append("📂 .")
     else:
         layout.append(f"{'│   ' * (indent_level-1)
-                         }├── {os.path.basename(current_path)}")
+                         }├── 📁 {os.path.basename(current_path)}")
 
     # Recursively call for each subdirectory (deepest first)
     for dir in dirnames:
