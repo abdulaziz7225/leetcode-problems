@@ -7,4 +7,5 @@
 - 2116. Check if a Parentheses String Can Be Valid
 - 2429. Minimize XOR
 - 3354. Make Array Elements Equal to Zero
+- 342. Power of Four
 ```
