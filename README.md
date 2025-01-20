@@ -43,7 +43,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Math
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
 ├── 📁 Matrix
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
 ├── 📁 Prefix_Sum
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2270.number-of-ways-to-split-array.py">2270.number-of-ways-to-split-array.py</a>
