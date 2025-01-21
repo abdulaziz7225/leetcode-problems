@@ -54,6 +54,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/3354.make-array-elements-equal-to-zero.py">3354.make-array-elements-equal-to-zero.py</a>
 ├── 📁 Sliding_Window
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/3.longest-substring-without-repeating-characters.py">3.longest-substring-without-repeating-characters.py</a>
+├── 📁 Sorting
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
 ├── 📁 Stack
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
 ├── 📁 String
