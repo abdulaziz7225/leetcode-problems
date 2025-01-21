@@ -65,6 +65,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py">1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/2185.counting-words-with-a-given-prefix.py">2185.counting-words-with-a-given-prefix.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/3042.count-prefix-and-suffix-pairs-i.py">3042.count-prefix-and-suffix-pairs-i.py</a>
+├── 📁 Two_Pointers
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/README.md">README.md</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/TODO.md">TODO.md</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/directory_layout_script.py">directory_layout_script.py</a>

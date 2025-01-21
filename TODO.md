@@ -8,4 +8,5 @@
 - 2429. Minimize XOR
 - 3354. Make Array Elements Equal to Zero
 - 342. Power of Four
+- 1368. Minimum Cost to Make at Least One Valid Path in a Grid (HARD)
 ```
