@@ -2,12 +2,13 @@
 
 This repository contains 🌟 **solutions** to various data structure and algorithm problems from [LeetCode](https://leetcode.com/). All solutions are implemented in **Python** and are structured for easy understanding and reusability.
 
----
+> A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)
 
 ## 🗂️ Repository Structure
 
 - 📂 **Each solution** is stored in a separate Python file, named according to the problem number and title.
 - 🏷️ **Organized by category**: Arrays, Strings, Trees, Graphs, and more.
+
 
 ### Directory Layout
 
@@ -17,7 +18,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1.two-sum.py">1.two-sum.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
 ├── 📁 Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
