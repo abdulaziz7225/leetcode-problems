@@ -24,6 +24,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/191.number-of-1-bits.py">191.number-of-1-bits.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2425.bitwise-xor-of-all-pairings.py">2425.bitwise-xor-of-all-pairings.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2429.minimize-xor.py">2429.minimize-xor.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2683.neighboring-bitwise-xor.py">2683.neighboring-bitwise-xor.py</a>
@@ -45,6 +46,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/876.middle-of-the-linked-list.py">876.middle-of-the-linked-list.py</a>
 ├── 📁 Math
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1281.subtract-the-product-and-sum-of-digits-of-an-integer.py">1281.subtract-the-product-and-sum-of-digits-of-an-integer.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1523.count-odd-numbers-in-an-interval-range.py">1523.count-odd-numbers-in-an-interval-range.py</a>
 ├── 📁 Matrix
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
