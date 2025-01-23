@@ -18,6 +18,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1.two-sum.py">1.two-sum.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1491.average-salary-excluding-the-minimum-and-maximum-salary.py">1491.average-salary-excluding-the-minimum-and-maximum-salary.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
@@ -47,7 +48,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Math
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1281.subtract-the-product-and-sum-of-digits-of-an-integer.py">1281.subtract-the-product-and-sum-of-digits-of-an-integer.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1523.count-odd-numbers-in-an-interval-range.py">1523.count-odd-numbers-in-an-interval-range.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1523.count-odd-numbers-in-an-interval-range.py">1523.count-odd-numbers-in-an-interval-range.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1822.sign-of-the-product-of-an-array.py">1822.sign-of-the-product-of-an-array.py</a>
 ├── 📁 Matrix
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
