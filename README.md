@@ -31,6 +31,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2683.neighboring-bitwise-xor.py">2683.neighboring-bitwise-xor.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/3304.find-the-k-th-character-in-string-game-i.py">3304.find-the-k-th-character-in-string-game-i.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/342.power-of-four.py">342.power-of-four.py</a>
+├── 📁 Counting
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Counting/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
 ├── 📁 Greedy_Algorithm
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/2116.check-if-a-parentheses-string-can-be-valid.py">2116.check-if-a-parentheses-string-can-be-valid.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>
