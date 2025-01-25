@@ -78,6 +78,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
 ├── 📁 String_Matching
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
+├── 📁 Tree
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Tree/589.n-ary-tree-preorder-traversal.py">589.n-ary-tree-preorder-traversal.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Tree/590.n-ary-tree-postorder-traversal.py">590.n-ary-tree-postorder-traversal.py</a>
 ├── 📁 Trie
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py">1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/2185.counting-words-with-a-given-prefix.py">2185.counting-words-with-a-given-prefix.py</a>

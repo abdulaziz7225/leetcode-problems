@@ -20,6 +20,13 @@
 - 145. Binary Tree Postorder Traversal
 ```
 
+## N-ary Tree
+
+```markdown
+- 589. N-ary Tree Preorder Traversal
+- 590. N-ary Tree Postorder Traversal
+```
+
 ## Topics that need revising again
 
 [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
