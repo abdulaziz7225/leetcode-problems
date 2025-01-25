@@ -22,6 +22,10 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
+├── 📁 Binary_Tree
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/145.binary-tree-postorder-traversal.py">145.binary-tree-postorder-traversal.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/94.binary-tree-inorder-traversal.py">94.binary-tree-inorder-traversal.py</a>
 ├── 📁 Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>

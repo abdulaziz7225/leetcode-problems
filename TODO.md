@@ -11,3 +11,15 @@
 - 1368. Minimum Cost to Make at Least One Valid Path in a Grid (HARD)
 - 1502. Can Make Arithmetic Progression From Sequence
 ```
+
+## Binary Tree
+
+```markdown
+- 144. Binary Tree Preorder Traversal
+- 94. Binary Tree Inorder Traversal
+- 145. Binary Tree Postorder Traversal
+```
+
+## Topics that need revising again
+
+[Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
