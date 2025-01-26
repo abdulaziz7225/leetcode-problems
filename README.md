@@ -60,6 +60,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Matrix
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
+├── 📁 Monotonic_Stack
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/496.next-greater-element-i.py">496.next-greater-element-i.py</a>
 ├── 📁 Prefix_Sum
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2270.number-of-ways-to-split-array.py">2270.number-of-ways-to-split-array.py</a>
