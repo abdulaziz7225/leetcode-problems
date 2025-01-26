@@ -31,6 +31,7 @@ Only one valid answer exists.
 
 from typing import List
 
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         pairs = dict()
@@ -38,6 +39,6 @@ class Solution:
             if target - num in pairs:
                 return [pairs[target - num], idx]
             pairs[num] = idx
-            
+
 # Time Complexity: O(n)
 # Space Complexity: O(n)

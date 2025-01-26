@@ -42,3 +42,6 @@ class Solution:
 
         total -= min_salary + max_salary
         return total / (len(salary) - 2)
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)

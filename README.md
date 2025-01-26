@@ -37,6 +37,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/342.power-of-four.py">342.power-of-four.py</a>
 ├── 📁 Counting
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Counting/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
+├── 📁 Geometry
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Geometry/1232.check-if-it-is-a-straight-line.py">1232.check-if-it-is-a-straight-line.py</a>
 ├── 📁 Greedy_Algorithm
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/2116.check-if-a-parentheses-string-can-be-valid.py">2116.check-if-a-parentheses-string-can-be-valid.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>

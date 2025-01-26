@@ -25,6 +25,7 @@ n == matrix.length == matrix[i].length
 
 from typing import List
 
+
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
         """
@@ -33,8 +34,9 @@ class Solution:
         length = len(matrix)
         # Flip the matrix upside down.
         for r_idx in range(length//2):
-            matrix[r_idx], matrix[length - r_idx - 1] = matrix[length - r_idx - 1], matrix[r_idx]
-        
+            matrix[r_idx], matrix[length - r_idx -
+                                  1] = matrix[length - r_idx - 1], matrix[r_idx]
+
         # Transpose the matrix
         for r_idx in range(length):
             for c_idx in range(r_idx + 1, length):

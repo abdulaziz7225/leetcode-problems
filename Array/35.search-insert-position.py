@@ -29,6 +29,7 @@ nums contains distinct values sorted in ascending order.
 
 from typing import List
 
+
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         start_index, end_index = 0, len(nums)
@@ -41,7 +42,7 @@ class Solution:
                 start_index = mid + 1
             else:
                 end_index = mid
-                
+
         return start_index
 
 # Time Complexity: O(log(n))

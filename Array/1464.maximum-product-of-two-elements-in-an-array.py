@@ -28,10 +28,11 @@ Constraints:
 
 from typing import List
 
+
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         max_val = second_max_val = 0
-        
+
         for elem in nums:
             if elem > max_val:
                 second_max_val = max_val
@@ -39,7 +40,7 @@ class Solution:
             elif elem > second_max_val:
                 second_max_val = elem
 
-        return (max_val-1) * (second_max_val-1)   
+        return (max_val-1) * (second_max_val-1)
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)
