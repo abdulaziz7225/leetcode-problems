@@ -60,8 +60,11 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1822.sign-of-the-product-of-an-array.py">1822.sign-of-the-product-of-an-array.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/2520.count-the-digits-that-divide-a-number.py">2520.count-the-digits-that-divide-a-number.py</a>
 ├── 📁 Matrix
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/1572.matrix-diagonal-sum.py">1572.matrix-diagonal-sum.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/1672.richest-customer-wealth.py">1672.richest-customer-wealth.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/566.reshape-the-matrix.py">566.reshape-the-matrix.py</a>
 ├── 📁 Monotonic_Stack
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/496.next-greater-element-i.py">496.next-greater-element-i.py</a>
 ├── 📁 Prefix_Sum
