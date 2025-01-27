@@ -91,6 +91,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/3042.count-prefix-and-suffix-pairs-i.py">3042.count-prefix-and-suffix-pairs-i.py</a>
 ├── 📁 Two_Pointers
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/202.happy-number.py">202.happy-number.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/283.move-zeroes.py">283.move-zeroes.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/README.md">README.md</a>
