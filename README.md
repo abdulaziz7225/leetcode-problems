@@ -34,7 +34,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2429.minimize-xor.py">2429.minimize-xor.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2683.neighboring-bitwise-xor.py">2683.neighboring-bitwise-xor.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/3304.find-the-k-th-character-in-string-game-i.py">3304.find-the-k-th-character-in-string-game-i.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/342.power-of-four.py">342.power-of-four.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/342.power-of-four.py">342.power-of-four.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/389.find-the-difference.py">389.find-the-difference.py</a>
 ├── 📁 Counting
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Counting/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
 ├── 📁 Geometry
@@ -95,6 +96,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/2185.counting-words-with-a-given-prefix.py">2185.counting-words-with-a-given-prefix.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Trie/3042.count-prefix-and-suffix-pairs-i.py">3042.count-prefix-and-suffix-pairs-i.py</a>
 ├── 📁 Two_Pointers
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/1768.merge-strings-alternately.py">1768.merge-strings-alternately.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/202.happy-number.py">202.happy-number.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/283.move-zeroes.py">283.move-zeroes.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
