@@ -83,6 +83,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
 ├── 📁 String
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1678.goal-parser-interpretation.py">1678.goal-parser-interpretation.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/709.to-lower-case.py">709.to-lower-case.py</a>
@@ -144,9 +145,9 @@ https://leetcode.com/problems/two-sum/
 
 ********************************************************************************
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+Given an array of integers nums and an integer target, return indices of the two numbers 
+such that they add up to target. You may assume that each input would have exactly one 
+solution, and you may not use the same element twice. You can return the answer in any order
 
 Example 1:
 Input: nums = [2,7,11,15], target = 9
