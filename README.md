@@ -82,7 +82,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
 ├── 📁 String
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/709.to-lower-case.py">709.to-lower-case.py</a>
 ├── 📁 String_Matching
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
 ├── 📁 Tree
@@ -97,6 +99,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/283.move-zeroes.py">283.move-zeroes.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
+├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/LICENSE">LICENSE</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/README.md">README.md</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/TODO.md">TODO.md</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/directory_layout_script.py">directory_layout_script.py</a>
