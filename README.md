@@ -88,7 +88,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1678.goal-parser-interpretation.py">1678.goal-parser-interpretation.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/709.to-lower-case.py">709.to-lower-case.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/709.to-lower-case.py">709.to-lower-case.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/953.verifying-an-alien-dictionary.py">953.verifying-an-alien-dictionary.py</a>
 ├── 📁 String_Matching
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
 ├── 📁 Tree
