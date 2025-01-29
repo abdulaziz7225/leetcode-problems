@@ -50,6 +50,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/916.word-subsets.py">916.word-subsets.py</a>
 ├── 📁 Linked_List
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/1290.convert-binary-number-in-a-linked-list-to-integer.py">1290.convert-binary-number-in-a-linked-list-to-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/206.reverse-linked-list.py">206.reverse-linked-list.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/82.remove-duplicates-from-sorted-list-ii.py">82.remove-duplicates-from-sorted-list-ii.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/83.remove-duplicates-from-sorted-list.py">83.remove-duplicates-from-sorted-list.py</a>
