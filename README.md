@@ -59,6 +59,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1281.subtract-the-product-and-sum-of-digits-of-an-integer.py">1281.subtract-the-product-and-sum-of-digits-of-an-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1523.count-odd-numbers-in-an-interval-range.py">1523.count-odd-numbers-in-an-interval-range.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1588.sum-of-all-odd-length-subarrays.py">1588.sum-of-all-odd-length-subarrays.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/1822.sign-of-the-product-of-an-array.py">1822.sign-of-the-product-of-an-array.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/2520.count-the-digits-that-divide-a-number.py">2520.count-the-digits-that-divide-a-number.py</a>
 ├── 📁 Matrix

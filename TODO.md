@@ -12,6 +12,12 @@
 - 1502. Can Make Arithmetic Progression From Sequence
 ```
 
+## Math
+
+```markdown
+- 1588. Sum of All Odd Length Subarrays
+```
+
 ## Binary Tree
 
 ```markdown
