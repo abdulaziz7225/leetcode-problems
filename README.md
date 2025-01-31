@@ -104,6 +104,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Two_Pointers
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/1768.merge-strings-alternately.py">1768.merge-strings-alternately.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/202.happy-number.py">202.happy-number.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/2460.apply-operations-to-an-array.py">2460.apply-operations-to-an-array.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/26.remove-duplicates-from-sorted-array.py">26.remove-duplicates-from-sorted-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/27.remove-element.py">27.remove-element.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/283.move-zeroes.py">283.move-zeroes.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
