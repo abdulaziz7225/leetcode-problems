@@ -24,6 +24,7 @@
 - 144. Binary Tree Preorder Traversal
 - 94. Binary Tree Inorder Traversal
 - 145. Binary Tree Postorder Traversal
+- 404. Sum of Left Leaves
 ```
 
 ## N-ary Tree

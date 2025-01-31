@@ -89,6 +89,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1678.goal-parser-interpretation.py">1678.goal-parser-interpretation.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/242.valid-anagram.py">242.valid-anagram.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/709.to-lower-case.py">709.to-lower-case.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/953.verifying-an-alien-dictionary.py">953.verifying-an-alien-dictionary.py</a>
 ├── 📁 String_Matching
@@ -103,6 +104,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Two_Pointers
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/1768.merge-strings-alternately.py">1768.merge-strings-alternately.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/202.happy-number.py">202.happy-number.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/27.remove-element.py">27.remove-element.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/283.move-zeroes.py">283.move-zeroes.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
