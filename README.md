@@ -19,6 +19,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1491.average-salary-excluding-the-minimum-and-maximum-salary.py">1491.average-salary-excluding-the-minimum-and-maximum-salary.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/169.majority-element.py">169.majority-element.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3151.special-array-i.py">3151.special-array-i.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
@@ -110,6 +111,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/26.remove-duplicates-from-sorted-array.py">26.remove-duplicates-from-sorted-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/27.remove-element.py">27.remove-element.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/283.move-zeroes.py">283.move-zeroes.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/80.remove-duplicates-from-sorted-array-ii.py">80.remove-duplicates-from-sorted-array-ii.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
 ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/LICENSE">LICENSE</a>

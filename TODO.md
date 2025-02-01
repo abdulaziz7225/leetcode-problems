@@ -27,6 +27,12 @@
 - 404. Sum of Left Leaves
 ```
 
+## Boyer–Moore majority vote algorithm
+
+```markdown
+- 169. Majority Element
+```
+
 ## N-ary Tree
 
 ```markdown
@@ -34,6 +40,13 @@
 - 590. N-ary Tree Postorder Traversal
 ```
 
+## Two Pointers
+
+```markdown
+- 80. Remove Duplicates from Sorted Array II
+```
+
 ## Topics that need revising again
 
-[Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
+- [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
+- [Boyer–Moore majority vote algorithm](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
