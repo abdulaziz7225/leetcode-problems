@@ -19,6 +19,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1491.average-salary-excluding-the-minimum-and-maximum-salary.py">1491.average-salary-excluding-the-minimum-and-maximum-salary.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3151.special-array-i.py">3151.special-array-i.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
@@ -46,6 +47,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Hash_Table
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1400.construct-k-palindrome-strings.py">1400.construct-k-palindrome-strings.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1930.unique-length-3-palindromic-subsequences.py">1930.unique-length-3-palindromic-subsequences.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/217.contains-duplicate.py">217.contains-duplicate.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/2657.find-the-prefix-common-array-of-two-arrays.py">2657.find-the-prefix-common-array-of-two-arrays.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/916.word-subsets.py">916.word-subsets.py</a>
