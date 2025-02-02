@@ -20,6 +20,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1491.average-salary-excluding-the-minimum-and-maximum-salary.py">1491.average-salary-excluding-the-minimum-and-maximum-salary.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/169.majority-element.py">169.majority-element.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1752.check-if-array-is-sorted-and-rotated.py">1752.check-if-array-is-sorted-and-rotated.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3151.special-array-i.py">3151.special-array-i.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
@@ -90,6 +91,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1309.decrypt-string-from-alphabet-to-integer-mapping.py">1309.decrypt-string-from-alphabet-to-integer-mapping.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1678.goal-parser-interpretation.py">1678.goal-parser-interpretation.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2124.check-if-all-as-appears-before-all-bs.py">2124.check-if-all-as-appears-before-all-bs.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/242.valid-anagram.py">242.valid-anagram.py</a>
