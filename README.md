@@ -21,6 +21,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/169.majority-element.py">169.majority-element.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1752.check-if-array-is-sorted-and-rotated.py">1752.check-if-array-is-sorted-and-rotated.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py">3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3151.special-array-i.py">3151.special-array-i.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
@@ -31,6 +32,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/94.binary-tree-inorder-traversal.py">94.binary-tree-inorder-traversal.py</a>
 ├── 📁 Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/136.single-number.py">136.single-number.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/191.number-of-1-bits.py">191.number-of-1-bits.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/2425.bitwise-xor-of-all-pairings.py">2425.bitwise-xor-of-all-pairings.py</a>
