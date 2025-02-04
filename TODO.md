@@ -1,5 +1,15 @@
 # Need to look at these problems again
 
+## Topics to be revised again
+
+- [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
+- [Boyer–Moore majority vote algorithm](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
+- [Maximum Subarray Sum – Kadane’s Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+
+---
+
+### No-specific topic
+
 ```markdown
 - 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
 - 2185. Counting Words With a Given Prefix
@@ -12,13 +22,13 @@
 - 1502. Can Make Arithmetic Progression From Sequence
 ```
 
-## Math
+### Math
 
 ```markdown
 - 1588. Sum of All Odd Length Subarrays
 ```
 
-## Binary Tree
+### Binary Tree
 
 ```markdown
 - 144. Binary Tree Preorder Traversal
@@ -27,26 +37,27 @@
 - 404. Sum of Left Leaves
 ```
 
-## Boyer–Moore majority vote algorithm
+### Boyer–Moore majority vote algorithm
 
 ```markdown
 - 169. Majority Element
 ```
 
-## N-ary Tree
+### N-ary Tree
 
 ```markdown
 - 589. N-ary Tree Preorder Traversal
 - 590. N-ary Tree Postorder Traversal
 ```
 
-## Two Pointers
+### Maximum Subarray Sum – Kadane’s Algorithm
+
+```markdown
+- 1800. Maximum Ascending Subarray Sum
+```
+
+### Two Pointers
 
 ```markdown
 - 80. Remove Duplicates from Sorted Array II
 ```
-
-## Topics that need revising again
-
-- [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
-- [Boyer–Moore majority vote algorithm](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)

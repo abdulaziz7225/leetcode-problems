@@ -21,6 +21,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/169.majority-element.py">169.majority-element.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1752.check-if-array-is-sorted-and-rotated.py">1752.check-if-array-is-sorted-and-rotated.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/1800.maximum-ascending-subarray-sum.py">1800.maximum-ascending-subarray-sum.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py">3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3151.special-array-i.py">3151.special-array-i.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
