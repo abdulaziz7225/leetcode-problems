@@ -41,7 +41,7 @@ class Solution:
                 set1.add(s1[i])
                 set2.add(s2[i])
 
-        return len(set1) == 0 or set1 == set2
+        return set1 == set2
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)

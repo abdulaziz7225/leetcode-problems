@@ -79,10 +79,12 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/496.next-greater-element-i.py">496.next-greater-element-i.py</a>
 ├── 📁 Prefix_Sum
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2121.intervals-between-identical-elements.py">2121.intervals-between-identical-elements.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2270.number-of-ways-to-split-array.py">2270.number-of-ways-to-split-array.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2381.shifting-letters-ii.py">2381.shifting-letters-ii.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2559.count-vowel-strings-in-ranges.py">2559.count-vowel-strings-in-ranges.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2574.left-and-right-sum-differences.py">2574.left-and-right-sum-differences.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/2615.sum-of-distances.py">2615.sum-of-distances.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/3354.make-array-elements-equal-to-zero.py">3354.make-array-elements-equal-to-zero.py</a>
 ├── 📁 Sliding_Window
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/3.longest-substring-without-repeating-characters.py">3.longest-substring-without-repeating-characters.py</a>

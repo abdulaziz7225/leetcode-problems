@@ -56,6 +56,12 @@
 - 1800. Maximum Ascending Subarray Sum
 ```
 
+### Prefix Sum
+
+```markdown
+- 2615. Sum of Distances
+```
+
 ### Two Pointers
 
 ```markdown
