@@ -44,6 +44,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/389.find-the-difference.py">389.find-the-difference.py</a>
 ├── 📁 Counting
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Counting/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
+├── 📁 Design
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Design/380.insert-delete-getrandom-o1.py">380.insert-delete-getrandom-o1.py</a>
 ├── 📁 Geometry
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Geometry/1232.check-if-it-is-a-straight-line.py">1232.check-if-it-is-a-straight-line.py</a>
 ├── 📁 Greedy_Algorithm
