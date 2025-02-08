@@ -61,6 +61,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3160.find-the-number-of-distinct-colors-among-the-balls.py">3160.find-the-number-of-distinct-colors-among-the-balls.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/916.word-subsets.py">916.word-subsets.py</a>
+├── 📁 Heap_Priority_Queue
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Heap_Priority_Queue/2349.design-a-number-container-system.py">2349.design-a-number-container-system.py</a>
 ├── 📁 Linked_List
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/1290.convert-binary-number-in-a-linked-list-to-integer.py">1290.convert-binary-number-in-a-linked-list-to-integer.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/206.reverse-linked-list.py">206.reverse-linked-list.py</a>

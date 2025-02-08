@@ -43,6 +43,12 @@
 - 169. Majority Element
 ```
 
+### Heap Priority Queue
+
+```markdown
+- 2349. Design a Number Container System
+```
+
 ### N-ary Tree
 
 ```markdown
