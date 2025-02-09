@@ -57,6 +57,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1726.tuple-with-same-product.py">1726.tuple-with-same-product.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/1930.unique-length-3-palindromic-subsequences.py">1930.unique-length-3-palindromic-subsequences.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/217.contains-duplicate.py">217.contains-duplicate.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/2364.count-number-of-bad-pairs.py">2364.count-number-of-bad-pairs.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/2657.find-the-prefix-common-array-of-two-arrays.py">2657.find-the-prefix-common-array-of-two-arrays.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3160.find-the-number-of-distinct-colors-among-the-balls.py">3160.find-the-number-of-distinct-colors-among-the-balls.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
