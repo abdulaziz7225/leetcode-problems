@@ -100,7 +100,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Sorting
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
 ├── 📁 Stack
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/3174.clear-digits.py">3174.clear-digits.py</a>
 ├── 📁 String
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1309.decrypt-string-from-alphabet-to-integer-mapping.py">1309.decrypt-string-from-alphabet-to-integer-mapping.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
