@@ -101,6 +101,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Sorting
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
 ├── 📁 Stack
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/1910.remove-all-occurrences-of-a-substring.py">1910.remove-all-occurrences-of-a-substring.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/20.valid-parentheses.py">20.valid-parentheses.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/3174.clear-digits.py">3174.clear-digits.py</a>
 ├── 📁 String

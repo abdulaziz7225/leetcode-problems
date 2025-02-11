@@ -5,6 +5,7 @@
 - [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
 - [Boyer–Moore majority vote algorithm](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
 - [Maximum Subarray Sum – Kadane’s Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+- [Knuth-Morris-Pratt (KMP) Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 
 ---
 
@@ -48,6 +49,13 @@
 ```markdown
 - 2349. Design a Number Container System
 - 2342. Max Sum of a Pair With Equal Sum of Digits
+```
+
+### Knuth-Morris-Pratt (KMP) Algorithm
+
+```markdown
+- 1408. String Matching in an Array
+- 1910. Remove All Occurrences of a Substring
 ```
 
 ### N-ary Tree
