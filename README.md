@@ -30,6 +30,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Binary_Tree
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/145.binary-tree-postorder-traversal.py">145.binary-tree-postorder-traversal.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/404.sum-of-left-leaves.py">404.sum-of-left-leaves.py</a>
 │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/94.binary-tree-inorder-traversal.py">94.binary-tree-inorder-traversal.py</a>
 ├── 📁 Bit_Manipulation
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
