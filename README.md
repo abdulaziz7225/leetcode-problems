@@ -26,7 +26,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/3151.special-array-i.py">3151.special-array-i.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/35.search-insert-position.py">35.search-insert-position.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/48.rotate-image.py">48.rotate-image.py</a>
-│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
+│   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
+│   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/896.monotonic-array.py">896.monotonic-array.py</a>
 ├── 📁 Binary_Tree
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>
 │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/145.binary-tree-postorder-traversal.py">145.binary-tree-postorder-traversal.py</a>
