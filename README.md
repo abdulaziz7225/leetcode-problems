@@ -142,7 +142,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/953.verifying-an-alien-dictionary.py">953.verifying-an-alien-dictionary.py</a>
 ├── 📁 String_Matching
 │   ├── 📁 Easy
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/Easy/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/Easy/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String_Matching/Easy/28.find-the-index-of-the-first-occurrence-in-a-string.py">28.find-the-index-of-the-first-occurrence-in-a-string.py</a>
 ├── 📁 Tree
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Tree/Easy/589.n-ary-tree-preorder-traversal.py">589.n-ary-tree-preorder-traversal.py</a>

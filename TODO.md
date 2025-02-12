@@ -3,9 +3,10 @@
 ## Topics to be revised again
 
 - [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
-- [Boyer–Moore majority vote algorithm](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
-- [Maximum Subarray Sum – Kadane’s Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
-- [Knuth-Morris-Pratt (KMP) Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+- [Boyer–Moore Algorithm - Majority Voting](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
+- [Kadane’s Algorithm - Maximum Subarray Sum](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+- [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+- [Rabin-Karp Algorithm - Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
 ---
 
@@ -38,7 +39,7 @@
 - 404. Sum of Left Leaves
 ```
 
-### Boyer–Moore majority vote algorithm
+### Boyer–Moore Algorithm - Majority Voting
 
 ```markdown
 - 169. Majority Element
@@ -51,11 +52,18 @@
 - 2342. Max Sum of a Pair With Equal Sum of Digits
 ```
 
-### Knuth-Morris-Pratt (KMP) Algorithm
+### Kadane’s Algorithm - Maximum Subarray Sum
+
+```markdown
+- 1800. Maximum Ascending Subarray Sum
+```
+
+### Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching
 
 ```markdown
 - 1408. String Matching in an Array
 - 1910. Remove All Occurrences of a Substring
+- 28. Find the Index of the First Occurrence in a String
 ```
 
 ### N-ary Tree
@@ -65,16 +73,16 @@
 - 590. N-ary Tree Postorder Traversal
 ```
 
-### Maximum Subarray Sum – Kadane’s Algorithm
-
-```markdown
-- 1800. Maximum Ascending Subarray Sum
-```
-
 ### Prefix Sum
 
 ```markdown
 - 2615. Sum of Distances
+```
+
+### Rabin-Karp Algorithm - Pattern Searching
+
+```markdown
+- 28. Find the Index of the First Occurrence in a String
 ```
 
 ### Two Pointers
