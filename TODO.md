@@ -6,6 +6,7 @@
 - [Boyer–Moore Algorithm - Majority Voting](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
 - [Kadane’s Algorithm - Maximum Subarray Sum](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 - [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+- [Misra–Gries heavy hitters algorithm](https://en.wikipedia.org/wiki/Misra%E2%80%93Gries_heavy_hitters_algorithm)
 - [Rabin-Karp Algorithm - Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
 ---
@@ -22,12 +23,6 @@
 - 342. Power of Four
 - 1368. Minimum Cost to Make at Least One Valid Path in a Grid (HARD)
 - 1502. Can Make Arithmetic Progression From Sequence
-```
-
-### Math
-
-```markdown
-- 1588. Sum of All Odd Length Subarrays
 ```
 
 ### Binary Tree
@@ -64,6 +59,18 @@
 - 1408. String Matching in an Array
 - 1910. Remove All Occurrences of a Substring
 - 28. Find the Index of the First Occurrence in a String
+```
+
+### Math
+
+```markdown
+- 1588. Sum of All Odd Length Subarrays
+```
+
+### Misra–Gries heavy hitters algorithm
+
+```markdown
+- 229. Majority Element II
 ```
 
 ### N-ary Tree
