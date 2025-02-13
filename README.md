@@ -78,7 +78,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Heap_Priority_Queue
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Heap_Priority_Queue/Medium/2342.max-sum-of-a-pair-with-equal-sum-of-digits.py">2342.max-sum-of-a-pair-with-equal-sum-of-digits.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Heap_Priority_Queue/Medium/2349.design-a-number-container-system.py">2349.design-a-number-container-system.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Heap_Priority_Queue/Medium/2349.design-a-number-container-system.py">2349.design-a-number-container-system.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Heap_Priority_Queue/Medium/3066.minimum-operations-to-exceed-threshold-value-ii.py">3066.minimum-operations-to-exceed-threshold-value-ii.py</a>
 ├── 📁 Linked_List
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Linked_List/Easy/1290.convert-binary-number-in-a-linked-list-to-integer.py">1290.convert-binary-number-in-a-linked-list-to-integer.py</a>
