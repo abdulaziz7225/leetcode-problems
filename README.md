@@ -65,6 +65,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/Medium/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>
 ├── 📁 Hash_Table
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/1207.unique-number-of-occurrences.py">1207.unique-number-of-occurrences.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/217.contains-duplicate.py">217.contains-duplicate.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/1400.construct-k-palindrome-strings.py">1400.construct-k-palindrome-strings.py</a>
