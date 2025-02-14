@@ -24,10 +24,11 @@ def generate_problem_comment_with_selenium(url: str, directory_path: str = "."):
         comment = f"""\"\"\"\nProblem Number: {problem_title}\nDifficulty Level: {difficulty_text}\n{problem_url}\n\n********************************************************************************\n\n{description_content}\n\"\"\""""  
 
         # Ensure the directory exists
-        os.makedirs(directory_path, exist_ok=True)
+        full_path = os.path.join(directory_path, difficulty_text)
+        os.makedirs(full_path, exist_ok=True)
 
         # Write the comment to the file in the specified directory
-        file_path = os.path.join(directory_path, f"{problem_number}.{problem_title_for_file_name}.py")
+        file_path = os.path.join(full_path, f"{problem_number}.{problem_title_for_file_name}.py")
 
         with open(file_path, "w", encoding="utf-8") as my_file:
             my_file.write(comment)
