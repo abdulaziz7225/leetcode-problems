@@ -84,6 +84,7 @@
 
 ```markdown
 - 2615. Sum of Distances
+- 1352. Product of the Last K Numbers
 ```
 
 ### Rabin-Karp Algorithm - Pattern Searching
