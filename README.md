@@ -75,6 +75,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/2657.find-the-prefix-common-array-of-two-arrays.py">2657.find-the-prefix-common-array-of-two-arrays.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/3160.find-the-number-of-distinct-colors-among-the-balls.py">3160.find-the-number-of-distinct-colors-among-the-balls.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/49.group-anagrams.py">49.group-anagrams.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/916.word-subsets.py">916.word-subsets.py</a>
 ├── 📁 Heap_Priority_Queue
 │   ├── 📁 Easy
