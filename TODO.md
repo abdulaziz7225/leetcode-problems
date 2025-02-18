@@ -40,6 +40,12 @@
 - 169. Majority Element
 ```
 
+### Dynamic Programming
+
+```markdown
+- 9. Palindrome Number
+```
+
 ### Heap Priority Queue
 
 ```markdown

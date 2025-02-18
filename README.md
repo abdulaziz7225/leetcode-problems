@@ -56,6 +56,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Design/Hard/381.insert-delete-getrandom-o1-duplicates-allowed.py">381.insert-delete-getrandom-o1-duplicates-allowed.py</a>
 │   ├── 📁 Medium
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Design/Medium/380.insert-delete-getrandom-o1.py">380.insert-delete-getrandom-o1.py</a>
+├── 📁 Dynamic_Programming
+│   ├── 📁 Easy
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Dynamic_Programming/Easy/509.fibonacci-number.py">509.fibonacci-number.py</a>
 ├── 📁 Geometry
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Geometry/Easy/1232.check-if-it-is-a-straight-line.py">1232.check-if-it-is-a-straight-line.py</a>
