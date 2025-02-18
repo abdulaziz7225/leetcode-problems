@@ -2,7 +2,8 @@
 
 This repository contains 🌟 **solutions** to various data structure and algorithm problems from [LeetCode](https://leetcode.com/). All solutions are implemented in **Python** and are structured for easy understanding and reusability.
 
-> A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)
+> A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)  
+> [Automatic testcase generator](https://github.com/mquintus/l33tcode-testcase-generator) for LeetCode problems
 
 ## 🗂️ Repository Structure
 
