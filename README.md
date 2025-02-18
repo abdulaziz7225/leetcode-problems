@@ -118,7 +118,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Easy/496.next-greater-element-i.py">496.next-greater-element-i.py</a>
 │   ├── 📁 Medium
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Medium/503.next-greater-element-ii.py">503.next-greater-element-ii.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Medium/503.next-greater-element-ii.py">503.next-greater-element-ii.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Medium/739.daily-temperatures.py">739.daily-temperatures.py</a>
 ├── 📁 Prefix_Sum
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/2574.left-and-right-sum-differences.py">2574.left-and-right-sum-differences.py</a>
