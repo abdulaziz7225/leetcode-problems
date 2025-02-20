@@ -4,6 +4,7 @@
 
 - [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
 - [Boyer–Moore Algorithm - Majority Voting](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
+- [Cantor's diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)
 - [Kadane’s Algorithm - Maximum Subarray Sum](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 - [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 - [Misra–Gries heavy hitters algorithm](https://en.wikipedia.org/wiki/Misra%E2%80%93Gries_heavy_hitters_algorithm)
@@ -38,6 +39,12 @@
 
 ```markdown
 - 169. Majority Element
+```
+
+### Cantor's diagonal argument
+
+```markdown
+- 1980. Find Unique Binary String
 ```
 
 ### Dynamic Programming

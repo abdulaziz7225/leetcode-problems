@@ -3,6 +3,7 @@
 This repository contains 🌟 **solutions** to various data structure and algorithm problems from [LeetCode](https://leetcode.com/). All solutions are implemented in **Python** and are structured for easy understanding and reusability.
 
 > A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)  
+>
 > [Automatic testcase generator](https://github.com/mquintus/l33tcode-testcase-generator) for LeetCode problems
 
 ## 🗂️ Repository Structure
@@ -30,6 +31,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/48.rotate-image.py">48.rotate-image.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/896.monotonic-array.py">896.monotonic-array.py</a>
+├── 📁 Backtracking
+│   ├── 📁 Medium
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Backtracking/Medium/1980.find-unique-binary-string.py">1980.find-unique-binary-string.py</a>
 ├── 📁 Binary_Tree
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/Easy/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>
