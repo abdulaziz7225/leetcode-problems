@@ -42,6 +42,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/136.single-number.py">136.single-number.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/191.number-of-1-bits.py">191.number-of-1-bits.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/268.missing-number.py">268.missing-number.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/3304.find-the-k-th-character-in-string-game-i.py">3304.find-the-k-th-character-in-string-game-i.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/342.power-of-four.py">342.power-of-four.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/389.find-the-difference.py">389.find-the-difference.py</a>
