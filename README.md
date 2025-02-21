@@ -121,6 +121,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/Medium/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
 ├── 📁 Monotonic_Stack
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Easy/1475.final-prices-with-a-special-discount-in-a-shop.py">1475.final-prices-with-a-special-discount-in-a-shop.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Easy/496.next-greater-element-i.py">496.next-greater-element-i.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Medium/503.next-greater-element-ii.py">503.next-greater-element-ii.py</a>
