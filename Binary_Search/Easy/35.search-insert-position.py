@@ -32,16 +32,16 @@ from typing import List
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        start_index, end_index = 0, len(nums)
+        start_index, end_index = 0, len(nums) - 1
 
-        while start_index < end_index:
+        while start_index <= end_index:
             mid = (end_index + start_index) // 2
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target:
                 start_index = mid + 1
             else:
-                end_index = mid
+                end_index = mid - 1
 
         return start_index
 

@@ -27,7 +27,6 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1800.maximum-ascending-subarray-sum.py">1800.maximum-ascending-subarray-sum.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py">3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/3151.special-array-i.py">3151.special-array-i.py</a>
-│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/35.search-insert-position.py">35.search-insert-position.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/48.rotate-image.py">48.rotate-image.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/896.monotonic-array.py">896.monotonic-array.py</a>
@@ -36,6 +35,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Backtracking/Medium/1980.find-unique-binary-string.py">1980.find-unique-binary-string.py</a>
 ├── 📁 Binary_Search
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/35.search-insert-position.py">35.search-insert-position.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/374.guess-number-higher-or-lower.py">374.guess-number-higher-or-lower.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/704.binary-search.py">704.binary-search.py</a>
 ├── 📁 Binary_Tree
 │   ├── 📁 Easy
