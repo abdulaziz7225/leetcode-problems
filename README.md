@@ -34,6 +34,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Backtracking
 │   ├── 📁 Medium
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Backtracking/Medium/1980.find-unique-binary-string.py">1980.find-unique-binary-string.py</a>
+├── 📁 Binary_Search
+│   ├── 📁 Easy
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/704.binary-search.py">704.binary-search.py</a>
 ├── 📁 Binary_Tree
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/Easy/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>
