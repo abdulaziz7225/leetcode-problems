@@ -35,6 +35,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Backtracking/Medium/1980.find-unique-binary-string.py">1980.find-unique-binary-string.py</a>
 ├── 📁 Binary_Search
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/2540.minimum-common-value.py">2540.minimum-common-value.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/35.search-insert-position.py">35.search-insert-position.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/374.guess-number-higher-or-lower.py">374.guess-number-higher-or-lower.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/704.binary-search.py">704.binary-search.py</a>
