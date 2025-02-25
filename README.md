@@ -19,6 +19,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Array
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1.two-sum.py">1.two-sum.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1346.check-if-n-and-its-double-exist.py">1346.check-if-n-and-its-double-exist.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1491.average-salary-excluding-the-minimum-and-maximum-salary.py">1491.average-salary-excluding-the-minimum-and-maximum-salary.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
