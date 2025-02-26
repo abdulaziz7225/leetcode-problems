@@ -71,6 +71,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Dynamic_Programming
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Dynamic_Programming/Easy/509.fibonacci-number.py">509.fibonacci-number.py</a>
+│   ├── 📁 Medium
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Dynamic_Programming/Medium/53.maximum-subarray.py">53.maximum-subarray.py</a>
 ├── 📁 Geometry
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Geometry/Easy/1232.check-if-it-is-a-straight-line.py">1232.check-if-it-is-a-straight-line.py</a>
