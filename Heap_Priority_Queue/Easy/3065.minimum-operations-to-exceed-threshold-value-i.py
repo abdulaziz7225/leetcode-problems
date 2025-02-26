@@ -71,4 +71,5 @@ class Solution:
 # n = len(nums)
 # Time Complexity: O(n * log(n))
 # Space Complexity: O(n)
-# Python's built in sort method is a spin off of merge sort called Timsort. sort() requires O(n) space complexity
+# In Python, the sort() method sorts a list using the Timsort algorithm which is a combination
+# of Merge Sort and Insertion Sort and has O(n) additional space.

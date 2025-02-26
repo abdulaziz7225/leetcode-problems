@@ -36,7 +36,9 @@ class Solution:
         return True
 
 # Time Complexity: O(n * log(n))
-# Space Complexity: O(1)
+# In Python, the sort() method sorts a list using the Timsort algorithm which is a combination
+# of Merge Sort and Insertion Sort and has O(n) additional space.
+# Space Complexity: O(n)
 
 
 # Solution 2

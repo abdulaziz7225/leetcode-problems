@@ -5,6 +5,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 > A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)  
 >
 > [Automatic testcase generator](https://github.com/mquintus/l33tcode-testcase-generator) for LeetCode problems
+>
+> [LeetCode Monthly Challenge](https://leetcode.com/discuss/general-discussion/655704)
 
 ## 🗂️ Repository Structure
 
@@ -84,6 +86,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Hash_Table
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/1207.unique-number-of-occurrences.py">1207.unique-number-of-occurrences.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2006.count-number-of-pairs-with-absolute-difference-k.py">2006.count-number-of-pairs-with-absolute-difference-k.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/217.contains-duplicate.py">217.contains-duplicate.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2404.most-frequent-even-element.py">2404.most-frequent-even-element.py</a>
 │   ├── 📁 Medium
