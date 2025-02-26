@@ -26,6 +26,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/169.majority-element.py">169.majority-element.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1752.check-if-array-is-sorted-and-rotated.py">1752.check-if-array-is-sorted-and-rotated.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/1800.maximum-ascending-subarray-sum.py">1800.maximum-ascending-subarray-sum.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/2496.maximum-value-of-a-string-in-an-array.py">2496.maximum-value-of-a-string-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py">3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/3151.special-array-i.py">3151.special-array-i.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/48.rotate-image.py">48.rotate-image.py</a>
