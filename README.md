@@ -95,6 +95,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/1930.unique-length-3-palindromic-subsequences.py">1930.unique-length-3-palindromic-subsequences.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/2364.count-number-of-bad-pairs.py">2364.count-number-of-bad-pairs.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/2657.find-the-prefix-common-array-of-two-arrays.py">2657.find-the-prefix-common-array-of-two-arrays.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/3159.find-occurrences-of-an-element-in-an-array.py">3159.find-occurrences-of-an-element-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/3160.find-the-number-of-distinct-colors-among-the-balls.py">3160.find-the-number-of-distinct-colors-among-the-balls.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/3223.minimum-length-of-string-after-operations.py">3223.minimum-length-of-string-after-operations.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/49.group-anagrams.py">49.group-anagrams.py</a>
