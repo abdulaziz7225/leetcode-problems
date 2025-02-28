@@ -12,17 +12,9 @@
 
 ---
 
-### No-specific topic
+### Array
 
 ```markdown
-- 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
-- 2185. Counting Words With a Given Prefix
-- 3042. Count Prefix and Suffix Pairs I
-- 2116. Check if a Parentheses String Can Be Valid
-- 2429. Minimize XOR
-- 3354. Make Array Elements Equal to Zero
-- 342. Power of Four
-- 1368. Minimum Cost to Make at Least One Valid Path in a Grid (HARD)
 - 1502. Can Make Arithmetic Progression From Sequence
 ```
 
@@ -33,6 +25,14 @@
 - 94. Binary Tree Inorder Traversal
 - 145. Binary Tree Postorder Traversal
 - 404. Sum of Left Leaves
+```
+
+### Bit Manipulation
+
+```markdown
+- 2429. Minimize XOR
+- 342. Power of Four
+- 367. Valid Perfect Square
 ```
 
 ### Boyer–Moore Algorithm - Majority Voting
@@ -58,6 +58,12 @@
 ```markdown
 - 2349. Design a Number Container System
 - 2342. Max Sum of a Pair With Equal Sum of Digits
+```
+
+### Greedy Algorithm
+
+```markdown
+- 2116. Check if a Parentheses String Can Be Valid
 ```
 
 ### Kadane’s Algorithm - Maximum Subarray Sum
@@ -99,12 +105,21 @@
 ```markdown
 - 2615. Sum of Distances
 - 1352. Product of the Last K Numbers
+- 3354. Make Array Elements Equal to Zero
 ```
 
 ### Rabin-Karp Algorithm - Pattern Searching
 
 ```markdown
 - 28. Find the Index of the First Occurrence in a String
+```
+
+### Trie
+
+```markdown
+- 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+- 2185. Counting Words With a Given Prefix
+- 3042. Count Prefix and Suffix Pairs I
 ```
 
 ### Two Pointers
