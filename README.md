@@ -198,6 +198,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/1768.merge-strings-alternately.py">1768.merge-strings-alternately.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/202.happy-number.py">202.happy-number.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/2460.apply-operations-to-an-array.py">2460.apply-operations-to-an-array.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/2570.merge-two-2d-arrays-by-summing-values.py">2570.merge-two-2d-arrays-by-summing-values.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/26.remove-duplicates-from-sorted-array.py">26.remove-duplicates-from-sorted-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/27.remove-element.py">27.remove-element.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/2824.count-pairs-whose-sum-is-less-than-target.py">2824.count-pairs-whose-sum-is-less-than-target.py</a>
