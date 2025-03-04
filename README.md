@@ -127,6 +127,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/2520.count-the-digits-that-divide-a-number.py">2520.count-the-digits-that-divide-a-number.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/2965.find-missing-and-repeated-values.py">2965.find-missing-and-repeated-values.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/9.palindrome-number.py">9.palindrome-number.py</a>
+│   ├── 📁 Medium
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Medium/1780.check-if-number-is-a-sum-of-powers-of-three.py">1780.check-if-number-is-a-sum-of-powers-of-three.py</a>
 ├── 📁 Matrix
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Matrix/Easy/1572.matrix-diagonal-sum.py">1572.matrix-diagonal-sum.py</a>
