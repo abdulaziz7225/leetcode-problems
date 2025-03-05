@@ -71,6 +71,7 @@
 ```markdown
 - 1800. Maximum Ascending Subarray Sum
 - 53. Maximum Subarray
+- 1749. Maximum Absolute Sum of Any Subarray
 ```
 
 ### Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching
