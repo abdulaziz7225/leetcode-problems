@@ -45,6 +45,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/374.guess-number-higher-or-lower.py">374.guess-number-higher-or-lower.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/69.sqrtx.py">69.sqrtx.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/704.binary-search.py">704.binary-search.py</a>
+│   ├── 📁 Medium
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/34.find-first-and-last-position-of-element-in-sorted-array.py">34.find-first-and-last-position-of-element-in-sorted-array.py</a>
 ├── 📁 Binary_Tree
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/Easy/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>

@@ -18,6 +18,12 @@
 - 1502. Can Make Arithmetic Progression From Sequence
 ```
 
+### Binary Search
+
+```markdown
+- 34. Find First and Last Position of Element in Sorted Array
+```
+
 ### Binary Tree
 
 ```markdown
