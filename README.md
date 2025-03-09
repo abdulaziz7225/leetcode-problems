@@ -167,7 +167,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Easy/2379.minimum-recolors-to-get-k-consecutive-black-blocks.py">2379.minimum-recolors-to-get-k-consecutive-black-blocks.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Easy/3206.alternating-groups-i.py">3206.alternating-groups-i.py</a>
 │   ├── 📁 Medium
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Medium/3.longest-substring-without-repeating-characters.py">3.longest-substring-without-repeating-characters.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Medium/3.longest-substring-without-repeating-characters.py">3.longest-substring-without-repeating-characters.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Medium/3208.alternating-groups-ii.py">3208.alternating-groups-ii.py</a>
 ├── 📁 Sorting
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Easy/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
