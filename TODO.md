@@ -121,6 +121,13 @@
 - 28. Find the Index of the First Occurrence in a String
 ```
 
+### Sliding Window
+
+```markdown
+- 3. Longest Substring Without Repeating Characters
+- 2461. Maximum Sum of Distinct Subarrays With Length K
+```
+
 ### Trie
 
 ```markdown
