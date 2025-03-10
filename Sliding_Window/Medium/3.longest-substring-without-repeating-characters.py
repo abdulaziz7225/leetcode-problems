@@ -31,6 +31,7 @@ s consists of English letters, digits, symbols and spaces.
 """
 
 
+# Solution 1
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         result = 0
@@ -50,3 +51,38 @@ class Solution:
 # k = the size of character set
 # Time Complexity: O(n)
 # Space Complexity: O(k)
+
+
+# Solution 2
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        letters = {}
+        result = 0
+        left = 0
+
+        for right, char in enumerate(s):
+            left = max(left, letters.get(char, -1) + 1)
+            result = max(result, right - left + 1)
+            letters[char] = right
+        return result
+
+# k = the size of character set
+# Time Complexity: O(n)
+# Space Complexity: O(k)
+
+
+# Solution 3
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        letters = [-1] * 128
+        result = 0
+        left = 0
+
+        for right, char in enumerate(s):
+            left = max(left, letters[ord(char)] + 1)
+            result = max(result, right - left + 1)
+            letters[ord(char)] = right
+        return result
+
+# Time Complexity: O(n)
+# Space Complexity: O(128) --> O(1)
