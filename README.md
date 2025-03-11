@@ -165,7 +165,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Sliding_Window
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Easy/2379.minimum-recolors-to-get-k-consecutive-black-blocks.py">2379.minimum-recolors-to-get-k-consecutive-black-blocks.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Easy/3206.alternating-groups-i.py">3206.alternating-groups-i.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Easy/3206.alternating-groups-i.py">3206.alternating-groups-i.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Easy/643.maximum-average-subarray-i.py">643.maximum-average-subarray-i.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Medium/2461.maximum-sum-of-distinct-subarrays-with-length-k.py">2461.maximum-sum-of-distinct-subarrays-with-length-k.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Medium/3.longest-substring-without-repeating-characters.py">3.longest-substring-without-repeating-characters.py</a>
