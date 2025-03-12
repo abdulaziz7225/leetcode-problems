@@ -8,7 +8,7 @@
 - [Kadane’s Algorithm - Maximum Subarray Sum](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 - [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 - [Misra–Gries heavy hitters algorithm](https://en.wikipedia.org/wiki/Misra%E2%80%93Gries_heavy_hitters_algorithm)
-- [Rabin-Karp Algorithm - Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+- [Rolling Hash Technique and the Rabin-Karp Algorithm - Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
 ---
 
@@ -115,10 +115,11 @@
 - 3354. Make Array Elements Equal to Zero
 ```
 
-### Rabin-Karp Algorithm - Pattern Searching
+### Rolling Hash Technique and Rabin-Karp Algorithm - Pattern Searching
 
 ```markdown
 - 28. Find the Index of the First Occurrence in a String
+- 187. Repeated DNA Sequences
 ```
 
 ### Sliding Window
