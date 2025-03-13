@@ -6,6 +6,7 @@
 - [Boyer–Moore Algorithm - Majority Voting](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
 - [Cantor's diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)
 - [Kadane’s Algorithm - Maximum Subarray Sum](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+- [Line Sweep Algorithm](https://en.wikipedia.org/wiki/Sweep_line_algorithm)
 - [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 - [Misra–Gries heavy hitters algorithm](https://en.wikipedia.org/wiki/Misra%E2%80%93Gries_heavy_hitters_algorithm)
 - [Rolling Hash Technique and the Rabin-Karp Algorithm - Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
@@ -86,6 +87,12 @@
 - 1408. String Matching in an Array
 - 1910. Remove All Occurrences of a Substring
 - 28. Find the Index of the First Occurrence in a String
+```
+
+### Line Sweep Algorithm
+
+```markdown
+- 3356. Zero Array Transformation II
 ```
 
 ### Math
