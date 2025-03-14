@@ -47,6 +47,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/69.sqrtx.py">69.sqrtx.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Easy/704.binary-search.py">704.binary-search.py</a>
 │   ├── 📁 Medium
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/2226.maximum-candies-allocated-to-k-children.py">2226.maximum-candies-allocated-to-k-children.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/3356.zero-array-transformation-ii.py">3356.zero-array-transformation-ii.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/34.find-first-and-last-position-of-element-in-sorted-array.py">34.find-first-and-last-position-of-element-in-sorted-array.py</a>
 ├── 📁 Binary_Tree

@@ -23,6 +23,7 @@
 
 ```markdown
 - 34. Find First and Last Position of Element in Sorted Array
+- 2226. Maximum Candies Allocated to K Children
 ```
 
 ### Binary Tree
