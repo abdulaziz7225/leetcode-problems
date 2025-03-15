@@ -49,7 +49,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/2226.maximum-candies-allocated-to-k-children.py">2226.maximum-candies-allocated-to-k-children.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/3356.zero-array-transformation-ii.py">3356.zero-array-transformation-ii.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/34.find-first-and-last-position-of-element-in-sorted-array.py">34.find-first-and-last-position-of-element-in-sorted-array.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/34.find-first-and-last-position-of-element-in-sorted-array.py">34.find-first-and-last-position-of-element-in-sorted-array.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Search/Medium/875.koko-eating-bananas.py">875.koko-eating-bananas.py</a>
 ├── 📁 Binary_Tree
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Binary_Tree/Easy/144.binary-tree-preorder-traversal.py">144.binary-tree-preorder-traversal.py</a>
