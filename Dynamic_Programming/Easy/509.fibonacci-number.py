@@ -30,6 +30,7 @@ Constraints:
 """
 
 
+# Solution 1: Tabulation approach with storing
 class Solution:
     def fib(self, n: int) -> int:
         fib_seq = [0, 1]
@@ -41,4 +42,31 @@ class Solution:
 # Space Complexity: O(n)
 
 
-# TODO: Solve this problem using Dynamic Programming Memoization(Top-Down) approach
+# Solution 2: Tabulation approach without storing
+class Solution:
+    def fib(self, n: int) -> int:
+        if n < 2:
+            return n
+
+        prev, curr = 0, 1
+        for _ in range(2, n + 1):
+            prev, curr = curr, prev + curr
+        return curr
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
+
+# Solution 3: Memoization(Top-Down) approach
+class Solution:
+    hash_map = {0: 0, 1: 1}
+
+    def fib(self, n: int) -> int:
+        if n in self.hash_map:
+            return self.hash_map[n]
+
+        self.hash_map[n] = self.fib(n - 1) + self.fib(n - 2)
+        return self.hash_map[n]
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
