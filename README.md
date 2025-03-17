@@ -100,6 +100,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/1207.unique-number-of-occurrences.py">1207.unique-number-of-occurrences.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2006.count-number-of-pairs-with-absolute-difference-k.py">2006.count-number-of-pairs-with-absolute-difference-k.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/217.contains-duplicate.py">217.contains-duplicate.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2206.divide-array-into-equal-pairs.py">2206.divide-array-into-equal-pairs.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2404.most-frequent-even-element.py">2404.most-frequent-even-element.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Medium/1400.construct-k-palindrome-strings.py">1400.construct-k-palindrome-strings.py</a>
