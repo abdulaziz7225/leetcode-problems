@@ -228,7 +228,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/283.move-zeroes.py">283.move-zeroes.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/88.merge-sorted-array.py">88.merge-sorted-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/922.sort-array-by-parity-ii.py">922.sort-array-by-parity-ii.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/977.squares-of-a-sorted-array.py">977.squares-of-a-sorted-array.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Medium/2161.partition-array-according-to-given-pivot.py">2161.partition-array-according-to-given-pivot.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Medium/2563.count-the-number-of-fair-pairs.py">2563.count-the-number-of-fair-pairs.py</a>
