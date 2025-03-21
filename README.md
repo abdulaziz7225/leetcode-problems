@@ -163,7 +163,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/2574.left-and-right-sum-differences.py">2574.left-and-right-sum-differences.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/303.range-sum-query-immutable.py">303.range-sum-query-immutable.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/3354.make-array-elements-equal-to-zero.py">3354.make-array-elements-equal-to-zero.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/3354.make-array-elements-equal-to-zero.py">3354.make-array-elements-equal-to-zero.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/3432.count-partitions-with-even-sum-difference.py">3432.count-partitions-with-even-sum-difference.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/1352.product-of-the-last-k-numbers.py">1352.product-of-the-last-k-numbers.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
