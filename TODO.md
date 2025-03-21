@@ -134,6 +134,7 @@
 
 ```markdown
 - 3. Longest Substring Without Repeating Characters
+- 1358. Number of Substrings Containing All Three Characters
 - 2461. Maximum Sum of Distinct Subarrays With Length K
 ```
 
