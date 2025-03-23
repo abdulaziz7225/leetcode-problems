@@ -74,7 +74,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Medium/2401.longest-nice-subarray.py">2401.longest-nice-subarray.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Medium/2425.bitwise-xor-of-all-pairings.py">2425.bitwise-xor-of-all-pairings.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Medium/2429.minimize-xor.py">2429.minimize-xor.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Medium/2683.neighboring-bitwise-xor.py">2683.neighboring-bitwise-xor.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Medium/2683.neighboring-bitwise-xor.py">2683.neighboring-bitwise-xor.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Medium/3191.minimum-operations-to-make-binary-array-elements-equal-to-one-i.py">3191.minimum-operations-to-make-binary-array-elements-equal-to-one-i.py</a>
 ├── 📁 Counting
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Counting/Easy/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>

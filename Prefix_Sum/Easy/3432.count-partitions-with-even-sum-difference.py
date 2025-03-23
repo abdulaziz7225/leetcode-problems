@@ -41,6 +41,7 @@ Constraints:
 from typing import List
 
 
+# Solution 1
 class Solution:
     def countPartitions(self, nums: List[int]) -> int:
         count = 0
@@ -51,6 +52,24 @@ class Solution:
             left_sum += nums[i]
             right_sum -= nums[i]
             if abs(left_sum - right_sum) & 1 == 0:
+                count += 1
+
+        return count
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
+
+# Solution 2
+class Solution:
+    def countPartitions(self, nums: List[int]) -> int:
+        count = 0
+        left_sum = 0
+        total_sum = sum(nums)
+
+        for i in range(len(nums) - 1):
+            left_sum += nums[i]
+            if abs(2 * left_sum - total_sum) & 1 == 0:
                 count += 1
 
         return count
