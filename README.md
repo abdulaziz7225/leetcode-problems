@@ -189,6 +189,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Sorting
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Easy/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
+│   ├── 📁 Medium
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/3169.count-days-without-meetings.py">3169.count-days-without-meetings.py</a>
 ├── 📁 Stack
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/Easy/20.valid-parentheses.py">20.valid-parentheses.py</a>
