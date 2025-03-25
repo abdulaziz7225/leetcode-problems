@@ -52,7 +52,7 @@ class Solution:
 
         return no_meetings
 
-# Time Complexity: O(n * log(n))
+# Time Complexity: O(n * log(n)) + O(n) ==> O(n * log(n))
 # In Python, the sort() method sorts a list using the Timsort algorithm which is a combination
 # of Merge Sort and Insertion Sort and has O(n) additional space.
 # Space Complexity: O(n)
