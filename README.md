@@ -190,6 +190,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Easy/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
 │   ├── 📁 Medium
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/2033.minimum-operations-to-make-a-uni-value-grid.py">2033.minimum-operations-to-make-a-uni-value-grid.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/3169.count-days-without-meetings.py">3169.count-days-without-meetings.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/3394.check-if-grid-can-be-cut-into-sections.py">3394.check-if-grid-can-be-cut-into-sections.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/462.minimum-moves-to-equal-array-elements-ii.py">462.minimum-moves-to-equal-array-elements-ii.py</a>
