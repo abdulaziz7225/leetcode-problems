@@ -36,7 +36,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/896.monotonic-array.py">896.monotonic-array.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/189.rotate-array.py">189.rotate-array.py</a>
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/2780.minimum-index-of-a-valid-split.py">2780.minimum-index-of-a-valid-split.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/2780.minimum-index-of-a-valid-split.py">2780.minimum-index-of-a-valid-split.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/915.partition-array-into-disjoint-intervals.py">915.partition-array-into-disjoint-intervals.py</a>
 ├── 📁 Backtracking
 │   ├── 📁 Medium
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Backtracking/Medium/1980.find-unique-binary-string.py">1980.find-unique-binary-string.py</a>

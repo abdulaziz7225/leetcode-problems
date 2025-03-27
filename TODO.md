@@ -17,6 +17,7 @@
 
 ```markdown
 - 1502. Can Make Arithmetic Progression From Sequence
+- 915. Partition Array into Disjoint Intervals
 ```
 
 ### Binary Search
