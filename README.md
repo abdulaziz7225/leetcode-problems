@@ -38,6 +38,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/189.rotate-array.py">189.rotate-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/2780.minimum-index-of-a-valid-split.py">2780.minimum-index-of-a-valid-split.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/2874.maximum-value-of-an-ordered-triplet-ii.py">2874.maximum-value-of-an-ordered-triplet-ii.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Medium/915.partition-array-into-disjoint-intervals.py">915.partition-array-into-disjoint-intervals.py</a>
 ├── 📁 Backtracking
 │   ├── 📁 Medium
