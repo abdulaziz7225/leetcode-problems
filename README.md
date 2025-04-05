@@ -168,6 +168,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Monotonic_Stack/Medium/739.daily-temperatures.py">739.daily-temperatures.py</a>
 ├── 📁 Prefix_Sum
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/1854.maximum-population-year.py">1854.maximum-population-year.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/2574.left-and-right-sum-differences.py">2574.left-and-right-sum-differences.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/303.range-sum-query-immutable.py">303.range-sum-query-immutable.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Easy/3354.make-array-elements-equal-to-zero.py">3354.make-array-elements-equal-to-zero.py</a>
