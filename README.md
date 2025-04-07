@@ -67,6 +67,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Bit_Manipulation
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/1009.complement-of-base-10-integer.py">1009.complement-of-base-10-integer.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/1018.binary-prefix-divisible-by-5.py">1018.binary-prefix-divisible-by-5.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/136.single-number.py">136.single-number.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/1486.xor-operation-in-an-array.py">1486.xor-operation-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Bit_Manipulation/Easy/191.number-of-1-bits.py">191.number-of-1-bits.py</a>
