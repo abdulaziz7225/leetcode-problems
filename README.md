@@ -2,7 +2,7 @@
 
 This repository contains 🌟 **solutions** to various data structure and algorithm problems from [LeetCode](https://leetcode.com/). All solutions are implemented in **Python** and are structured for easy understanding and reusability.
 
-> A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)  
+> A curated list of all [LeetCode study plans](https://gist.github.com/priyavrat-misra/a776a005ee4a68edda535f4a7e1b6adb)
 >
 > [Automatic testcase generator](https://github.com/mquintus/l33tcode-testcase-generator) for LeetCode problems
 >
@@ -12,7 +12,6 @@ This repository contains 🌟 **solutions** to various data structure and algori
 
 - 📂 **Each solution** is stored in a separate Python file, named according to the problem number and title.
 - 🏷️ **Organized by category**: Arrays, Strings, Trees, Graphs, and more.
-
 
 ### Directory Layout
 
@@ -110,6 +109,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/217.contains-duplicate.py">217.contains-duplicate.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2206.divide-array-into-equal-pairs.py">2206.divide-array-into-equal-pairs.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2404.most-frequent-even-element.py">2404.most-frequent-even-element.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/3396.minimum-number-of-operations-to-make-elements-in-array-distinct.py">3396.minimum-number-of-operations-to-make-elements-in-array-distinct.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/383.ransom-note.py">383.ransom-note.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/575.distribute-candies.py">575.distribute-candies.py</a>
 │   ├── 📁 Medium
@@ -305,8 +305,8 @@ https://leetcode.com/problems/two-sum/
 
 ********************************************************************************
 
-Given an array of integers nums and an integer target, return indices of the two numbers 
-such that they add up to target. You may assume that each input would have exactly one 
+Given an array of integers nums and an integer target, return indices of the two numbers
+such that they add up to target. You may assume that each input would have exactly one
 solution, and you may not use the same element twice. You can return the answer in any order
 
 Example 1:
