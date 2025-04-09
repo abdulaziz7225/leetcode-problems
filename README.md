@@ -109,6 +109,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/217.contains-duplicate.py">217.contains-duplicate.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2206.divide-array-into-equal-pairs.py">2206.divide-array-into-equal-pairs.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/2404.most-frequent-even-element.py">2404.most-frequent-even-element.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/3375.minimum-operations-to-make-array-values-equal-to-k.py">3375.minimum-operations-to-make-array-values-equal-to-k.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/3396.minimum-number-of-operations-to-make-elements-in-array-distinct.py">3396.minimum-number-of-operations-to-make-elements-in-array-distinct.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/383.ransom-note.py">383.ransom-note.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Hash_Table/Easy/575.distribute-candies.py">575.distribute-candies.py</a>
