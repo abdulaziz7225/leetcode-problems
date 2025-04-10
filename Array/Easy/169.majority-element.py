@@ -40,7 +40,6 @@ class Solution:
                 counter -= 1
         return majority
 
-
 # Boyer–Moore majority vote algorithm
 # Time Complexity: O(n)
 # Space Complexity: O(1)

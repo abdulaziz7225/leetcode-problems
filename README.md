@@ -32,6 +32,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py">3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/3151.special-array-i.py">3151.special-array-i.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/48.rotate-image.py">48.rotate-image.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/66.plus-one.py">66.plus-one.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/747.largest-number-at-least-twice-of-others.py">747.largest-number-at-least-twice-of-others.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Array/Easy/896.monotonic-array.py">896.monotonic-array.py</a>
 │   ├── 📁 Medium
