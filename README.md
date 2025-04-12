@@ -219,6 +219,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1309.decrypt-string-from-alphabet-to-integer-mapping.py">1309.decrypt-string-from-alphabet-to-integer-mapping.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1446.consecutive-characters.py">1446.consecutive-characters.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1678.goal-parser-interpretation.py">1678.goal-parser-interpretation.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/2124.check-if-all-as-appears-before-all-bs.py">2124.check-if-all-as-appears-before-all-bs.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
