@@ -225,6 +225,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/242.valid-anagram.py">242.valid-anagram.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/3120.count-the-number-of-special-characters-i.py">3120.count-the-number-of-special-characters-i.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/387.first-unique-character-in-a-string.py">387.first-unique-character-in-a-string.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/58.length-of-last-word.py">58.length-of-last-word.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/709.to-lower-case.py">709.to-lower-case.py</a>
