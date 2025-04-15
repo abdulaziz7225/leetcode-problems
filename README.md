@@ -217,6 +217,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Stack/Medium/1910.remove-all-occurrences-of-a-substring.py">1910.remove-all-occurrences-of-a-substring.py</a>
 ├── 📁 String
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/13.roman-to-integer.py">13.roman-to-integer.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1309.decrypt-string-from-alphabet-to-integer-mapping.py">1309.decrypt-string-from-alphabet-to-integer-mapping.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1422.maximum-score-after-splitting-a-string.py">1422.maximum-score-after-splitting-a-string.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/String/Easy/1446.consecutive-characters.py">1446.consecutive-characters.py</a>
