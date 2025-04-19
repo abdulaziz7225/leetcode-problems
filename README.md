@@ -101,6 +101,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Geometry/Easy/1232.check-if-it-is-a-straight-line.py">1232.check-if-it-is-a-straight-line.py</a>
 ├── 📁 Greedy_Algorithm
 │   ├── 📁 Medium
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/Medium/1282.group-the-people-given-the-group-size-they-belong-to.py">1282.group-the-people-given-the-group-size-they-belong-to.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/Medium/2116.check-if-a-parentheses-string-can-be-valid.py">2116.check-if-a-parentheses-string-can-be-valid.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Greedy_Algorithm/Medium/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>
 ├── 📁 Hash_Table
