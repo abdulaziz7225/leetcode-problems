@@ -186,6 +186,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/1352.product-of-the-last-k-numbers.py">1352.product-of-the-last-k-numbers.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py">1769.minimum-number-of-operations-to-move-all-balls-to-each-box.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/2121.intervals-between-identical-elements.py">2121.intervals-between-identical-elements.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/2145.count-the-hidden-sequences.py">2145.count-the-hidden-sequences.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/2270.number-of-ways-to-split-array.py">2270.number-of-ways-to-split-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/2381.shifting-letters-ii.py">2381.shifting-letters-ii.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Prefix_Sum/Medium/2559.count-vowel-strings-in-ranges.py">2559.count-vowel-strings-in-ranges.py</a>
