@@ -265,6 +265,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/2824.count-pairs-whose-sum-is-less-than-target.py">2824.count-pairs-whose-sum-is-less-than-target.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/283.move-zeroes.py">283.move-zeroes.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/344.reverse-string.py">344.reverse-string.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/3467.transform-array-by-parity.py">3467.transform-array-by-parity.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/541.reverse-string-ii.py">541.reverse-string-ii.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/88.merge-sorted-array.py">88.merge-sorted-array.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Two_Pointers/Easy/905.sort-array-by-parity.py">905.sort-array-by-parity.py</a>
