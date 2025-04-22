@@ -48,7 +48,7 @@ def generate_directory_layout(root_dir=".", current_path=None, indent_level=0, l
 
     # Add files at the current level (after visiting subdirectories)
     for idx, filename in enumerate(filenames):
-        repo_url = "https://github.com/swiftv99/leetcode-problems/blob/main/"
+        repo_url = "https://github.com/abdulaziz7225/leetcode-problems/blob/main/"
         file_path = Path(current_path) / filename
         file_link = f'<a href="{repo_url}{file_path.relative_to(root_dir).as_posix()}">{
             filename}</a>'
