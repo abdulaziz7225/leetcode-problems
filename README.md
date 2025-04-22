@@ -153,6 +153,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/2520.count-the-digits-that-divide-a-number.py">2520.count-the-digits-that-divide-a-number.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/2843.count-symmetric-integers.py">2843.count-symmetric-integers.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/2965.find-missing-and-repeated-values.py">2965.find-missing-and-repeated-values.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/3024.type-of-triangle.py">3024.type-of-triangle.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/326.power-of-three.py">326.power-of-three.py</a>
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Math/Easy/9.palindrome-number.py">9.palindrome-number.py</a>
 │   ├── 📁 Medium
