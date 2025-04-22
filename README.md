@@ -206,7 +206,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sliding_Window/Medium/3208.alternating-groups-ii.py">3208.alternating-groups-ii.py</a>
 ├── 📁 Sorting
 │   ├── 📁 Easy
-│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Easy/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
+│   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Easy/2164.sort-even-and-odd-indices-independently.py">2164.sort-even-and-odd-indices-independently.py</a>
+│   │   └── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Easy/3194.minimum-average-of-smallest-and-largest-elements.py">3194.minimum-average-of-smallest-and-largest-elements.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/2033.minimum-operations-to-make-a-uni-value-grid.py">2033.minimum-operations-to-make-a-uni-value-grid.py</a>
 │   │   ├── <a href="https://github.com/swiftv99/leetcode-problems/blob/main/Sorting/Medium/3169.count-days-without-meetings.py">3169.count-days-without-meetings.py</a>
