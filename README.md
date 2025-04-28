@@ -110,6 +110,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1207.unique-number-of-occurrences.py">1207.unique-number-of-occurrences.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1399.count-largest-group.py">1399.count-largest-group.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1436.destination-city.py">1436.destination-city.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/2006.count-number-of-pairs-with-absolute-difference-k.py">2006.count-number-of-pairs-with-absolute-difference-k.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/205.isomorphic-strings.py">205.isomorphic-strings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/217.contains-duplicate.py">217.contains-duplicate.py</a>
