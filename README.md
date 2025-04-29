@@ -47,6 +47,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Backtracking/Medium/1980.find-unique-binary-string.py">1980.find-unique-binary-string.py</a>
 ├── 📁 Binary_Search
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Binary_Search/Easy/1385.find-the-distance-value-between-two-arrays.py">1385.find-the-distance-value-between-two-arrays.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Binary_Search/Easy/2529.maximum-count-of-positive-integer-and-negative-integer.py">2529.maximum-count-of-positive-integer-and-negative-integer.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Binary_Search/Easy/2540.minimum-common-value.py">2540.minimum-common-value.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Binary_Search/Easy/35.search-insert-position.py">35.search-insert-position.py</a>

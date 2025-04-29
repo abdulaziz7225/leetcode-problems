@@ -25,6 +25,7 @@
 ```markdown
 - 34. Find First and Last Position of Element in Sorted Array
 - 2226. Maximum Candies Allocated to K Children
+- 1385. Find the Distance Value Between Two Arrays
 ```
 
 ### Binary Tree
