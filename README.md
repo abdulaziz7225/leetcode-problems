@@ -151,6 +151,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1217.minimum-cost-to-move-chips-to-the-same-position.py">1217.minimum-cost-to-move-chips-to-the-same-position.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1281.subtract-the-product-and-sum-of-digits-of-an-integer.py">1281.subtract-the-product-and-sum-of-digits-of-an-integer.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1295.find-numbers-with-even-number-of-digits.py">1295.find-numbers-with-even-number-of-digits.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1523.count-odd-numbers-in-an-interval-range.py">1523.count-odd-numbers-in-an-interval-range.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1588.sum-of-all-odd-length-subarrays.py">1588.sum-of-all-odd-length-subarrays.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1822.sign-of-the-product-of-an-array.py">1822.sign-of-the-product-of-an-array.py</a>
