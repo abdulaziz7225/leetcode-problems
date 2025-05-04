@@ -110,6 +110,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/781.rabbits-in-forest.py">781.rabbits-in-forest.py</a>
 ├── 📁 Hash_Table
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1128.number-of-equivalent-domino-pairs.py">1128.number-of-equivalent-domino-pairs.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1207.unique-number-of-occurrences.py">1207.unique-number-of-occurrences.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1399.count-largest-group.py">1399.count-largest-group.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Easy/1436.destination-city.py">1436.destination-city.py</a>
