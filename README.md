@@ -200,7 +200,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/2559.count-vowel-strings-in-ranges.py">2559.count-vowel-strings-in-ranges.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/2615.sum-of-distances.py">2615.sum-of-distances.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/3355.zero-array-transformation-i.py">3355.zero-array-transformation-i.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/560.subarray-sum-equals-k.py">560.subarray-sum-equals-k.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/560.subarray-sum-equals-k.py">560.subarray-sum-equals-k.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/974.subarray-sums-divisible-by-k.py">974.subarray-sums-divisible-by-k.py</a>
 ├── 📁 Sliding_Window
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sliding_Window/Easy/2379.minimum-recolors-to-get-k-consecutive-black-blocks.py">2379.minimum-recolors-to-get-k-consecutive-black-blocks.py</a>

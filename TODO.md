@@ -123,6 +123,7 @@
 - 2615. Sum of Distances
 - 1352. Product of the Last K Numbers
 - 3354. Make Array Elements Equal to Zero
+- 974. Subarray Sums Divisible by K
 ```
 
 ### Rolling Hash Technique and Rabin-Karp Algorithm - Pattern Searching
