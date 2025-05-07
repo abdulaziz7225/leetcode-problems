@@ -35,7 +35,8 @@ class Solution:
 
         for num in nums:
             cum_sum += num
-            remainder[cum_sum % k] = remainder.get(cum_sum % k, 0) + 1
+            cum_sum %= k
+            remainder[cum_sum] = remainder.get(cum_sum, 0) + 1
 
         for freq in remainder.values():
             count += freq * (freq - 1) // 2
@@ -55,9 +56,9 @@ class Solution:
 
         for num in nums:
             cum_sum += num
-            index = cum_sum % k
-            count += remainder[index]
-            remainder[index] += 1
+            cum_sum %= k
+            count += remainder[cum_sum]
+            remainder[cum_sum] += 1
 
         return count
 
