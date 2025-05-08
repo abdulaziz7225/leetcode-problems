@@ -107,6 +107,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/1007.minimum-domino-rotations-for-equal-row.py">1007.minimum-domino-rotations-for-equal-row.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/1282.group-the-people-given-the-group-size-they-belong-to.py">1282.group-the-people-given-the-group-size-they-belong-to.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/2116.check-if-a-parentheses-string-can-be-valid.py">2116.check-if-a-parentheses-string-can-be-valid.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/2918.minimum-equal-sum-of-two-arrays-after-replacing-zeros.py">2918.minimum-equal-sum-of-two-arrays-after-replacing-zeros.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/452.minimum-number-of-arrows-to-burst-balloons.py">452.minimum-number-of-arrows-to-burst-balloons.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/781.rabbits-in-forest.py">781.rabbits-in-forest.py</a>
 ├── 📁 Hash_Table
