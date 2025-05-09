@@ -24,6 +24,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/1464.maximum-product-of-two-elements-in-an-array.py">1464.maximum-product-of-two-elements-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/1491.average-salary-excluding-the-minimum-and-maximum-salary.py">1491.average-salary-excluding-the-minimum-and-maximum-salary.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/1502.can-make-arithmetic-progression-from-sequence.py">1502.can-make-arithmetic-progression-from-sequence.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/1550.three-consecutive-odds.py">1550.three-consecutive-odds.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/169.majority-element.py">169.majority-element.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/1752.check-if-array-is-sorted-and-rotated.py">1752.check-if-array-is-sorted-and-rotated.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/1800.maximum-ascending-subarray-sum.py">1800.maximum-ascending-subarray-sum.py</a>
