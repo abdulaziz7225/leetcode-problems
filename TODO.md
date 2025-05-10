@@ -125,6 +125,7 @@
 - 3354. Make Array Elements Equal to Zero
 - 974. Subarray Sums Divisible by K
 - 523. Continuous Subarray Sum
+- 525. Contiguous Array
 ```
 
 ### Rolling Hash Technique and Rabin-Karp Algorithm - Pattern Searching

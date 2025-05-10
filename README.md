@@ -204,6 +204,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/2615.sum-of-distances.py">2615.sum-of-distances.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/3355.zero-array-transformation-i.py">3355.zero-array-transformation-i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/523.continuous-subarray-sum.py">523.continuous-subarray-sum.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/525.contiguous-array.py">525.contiguous-array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/560.subarray-sum-equals-k.py">560.subarray-sum-equals-k.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Prefix_Sum/Medium/974.subarray-sums-divisible-by-k.py">974.subarray-sums-divisible-by-k.py</a>
 ├── 📁 Sliding_Window
