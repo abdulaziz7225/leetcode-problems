@@ -104,6 +104,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Geometry/Easy/1232.check-if-it-is-a-straight-line.py">1232.check-if-it-is-a-straight-line.py</a>
 ├── 📁 Greedy_Algorithm
+│   ├── 📁 Easy
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Easy/2900.longest-unequal-adjacent-groups-subsequence-i.py">2900.longest-unequal-adjacent-groups-subsequence-i.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/1007.minimum-domino-rotations-for-equal-row.py">1007.minimum-domino-rotations-for-equal-row.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Greedy_Algorithm/Medium/1282.group-the-people-given-the-group-size-they-belong-to.py">1282.group-the-people-given-the-group-size-they-belong-to.py</a>
