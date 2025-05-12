@@ -5,6 +5,7 @@
 - [Threaded binary tree](https://www.geeksforgeeks.org/threaded-binary-tree/)
 - [Boyer–Moore Algorithm - Majority Voting](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
 - [Cantor's diagonal argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)
+- [Dutch national flag problem](https://en.wikipedia.org/wiki/Dutch_national_flag_problem)
 - [Kadane’s Algorithm - Maximum Subarray Sum](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 - [Line Sweep Algorithm](https://en.wikipedia.org/wiki/Sweep_line_algorithm)
 - [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
@@ -55,6 +56,12 @@
 
 ```markdown
 - 1980. Find Unique Binary String
+```
+
+### Dutch national flag problem
+
+```markdown
+- 75. Sort Colors
 ```
 
 ### Dynamic Programming
