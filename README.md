@@ -141,6 +141,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Hash_Table/Medium/916.word-subsets.py">916.word-subsets.py</a>
 ├── 📁 Heap_Priority_Queue
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Heap_Priority_Queue/Easy/2558.take-gifts-from-the-richest-pile.py">2558.take-gifts-from-the-richest-pile.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Heap_Priority_Queue/Easy/3065.minimum-operations-to-exceed-threshold-value-i.py">3065.minimum-operations-to-exceed-threshold-value-i.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Heap_Priority_Queue/Medium/2342.max-sum-of-a-pair-with-equal-sum-of-digits.py">2342.max-sum-of-a-pair-with-equal-sum-of-digits.py</a>
