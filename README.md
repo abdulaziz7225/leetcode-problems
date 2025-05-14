@@ -32,6 +32,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/2176.count-equal-and-divisible-pairs-in-an-array.py">2176.count-equal-and-divisible-pairs-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/2496.maximum-value-of-a-string-in-an-array.py">2496.maximum-value-of-a-string-in-an-array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/2873.maximum-value-of-an-ordered-triplet-i.py">2873.maximum-value-of-an-ordered-triplet-i.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/2942.find-words-containing-character.py">2942.find-words-containing-character.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py">3105.longest-strictly-increasing-or-strictly-decreasing-subarray.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/3151.special-array-i.py">3151.special-array-i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Array/Easy/3392.count-subarrays-of-length-three-with-a-condition.py">3392.count-subarrays-of-length-three-with-a-condition.py</a>

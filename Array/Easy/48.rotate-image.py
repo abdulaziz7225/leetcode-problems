@@ -27,22 +27,20 @@ from typing import List
 
 
 class Solution:
-    def rotate(self, matrix: List[List[int]]) -> None:
+    def rotate(self, mat: List[List[int]]) -> None:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        length = len(matrix)
+        n = len(mat)
+        
         # Flip the matrix upside down.
-        for r_idx in range(length//2):
-            matrix[r_idx], matrix[length - r_idx -
-                                  1] = matrix[length - r_idx - 1], matrix[r_idx]
+        for row in range(n//2):
+            mat[row], mat[n - row - 1] = mat[n - row - 1], mat[row]
 
         # Transpose the matrix
-        for r_idx in range(length):
-            for c_idx in range(r_idx + 1, length):
-                matrix[r_idx][c_idx], matrix[c_idx][r_idx] = matrix[c_idx][r_idx], matrix[r_idx][c_idx]
-
-        return matrix
+        for row in range(n):
+            for col in range(row + 1, n):
+                mat[row][col], mat[col][row] = mat[col][row], mat[row][col]
 
 # Time Complexity: O(n^2)
 # Space Complexity: O(1)
