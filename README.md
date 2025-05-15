@@ -180,7 +180,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Matrix/Easy/2133.check-if-every-row-and-column-contains-all-numbers.py">2133.check-if-every-row-and-column-contains-all-numbers.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Matrix/Easy/566.reshape-the-matrix.py">566.reshape-the-matrix.py</a>
 │   ├── 📁 Medium
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Matrix/Medium/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Matrix/Medium/2661.first-completely-painted-row-or-column.py">2661.first-completely-painted-row-or-column.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Matrix/Medium/73.set-matrix-zeroes.py">73.set-matrix-zeroes.py</a>
 ├── 📁 Monotonic_Stack
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Monotonic_Stack/Easy/1475.final-prices-with-a-special-discount-in-a-shop.py">1475.final-prices-with-a-special-discount-in-a-shop.py</a>

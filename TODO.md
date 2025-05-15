@@ -111,6 +111,12 @@
 - 1588. Sum of All Odd Length Subarrays
 ```
 
+### Matrix
+
+```markdown
+- 73. Set Matrix Zeroes
+```
+
 ### Misra–Gries heavy hitters algorithm
 
 ```markdown
