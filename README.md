@@ -90,6 +90,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 Counting
 │   ├── 📁 Easy
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Counting/Easy/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
+│   ├── 📁 Medium
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Counting/Medium/2131.longest-palindrome-by-concatenating-two-letter-words.py">2131.longest-palindrome-by-concatenating-two-letter-words.py</a>
 ├── 📁 Design
 │   ├── 📁 Hard
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Design/Hard/381.insert-delete-getrandom-o1-duplicates-allowed.py">381.insert-delete-getrandom-o1-duplicates-allowed.py</a>
