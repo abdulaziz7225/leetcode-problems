@@ -90,7 +90,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Bit_Manipulation/Medium/3191.minimum-operations-to-make-binary-array-elements-equal-to-one-i.py">3191.minimum-operations-to-make-binary-array-elements-equal-to-one-i.py</a>
 ├── 📁 Counting
 │   ├── 📁 Easy
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Counting/Easy/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Counting/Easy/1790.check-if-one-string-swap-can-make-strings-equal.py">1790.check-if-one-string-swap-can-make-strings-equal.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Counting/Easy/3442.maximum-difference-between-even-and-odd-frequency-i.py">3442.maximum-difference-between-even-and-odd-frequency-i.py</a>
 │   ├── 📁 Medium
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Counting/Medium/2131.longest-palindrome-by-concatenating-two-letter-words.py">2131.longest-palindrome-by-concatenating-two-letter-words.py</a>
 ├── 📁 Design
