@@ -169,6 +169,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1588.sum-of-all-odd-length-subarrays.py">1588.sum-of-all-odd-length-subarrays.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/1822.sign-of-the-product-of-an-array.py">1822.sign-of-the-product-of-an-array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/2520.count-the-digits-that-divide-a-number.py">2520.count-the-digits-that-divide-a-number.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/2566.maximum-difference-by-remapping-a-digit.py">2566.maximum-difference-by-remapping-a-digit.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/2843.count-symmetric-integers.py">2843.count-symmetric-integers.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/2894.divisible-and-non-divisible-sums-difference.py">2894.divisible-and-non-divisible-sums-difference.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Math/Easy/2965.find-missing-and-repeated-values.py">2965.find-missing-and-repeated-values.py</a>
