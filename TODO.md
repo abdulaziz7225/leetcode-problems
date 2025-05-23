@@ -156,6 +156,12 @@
 - 2461. Maximum Sum of Distinct Subarrays With Length K
 ```
 
+### Sorting
+
+```markdown
+- 3443. Maximum Manhattan Distance After K Changes
+```
+
 ### Trie
 
 ```markdown

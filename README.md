@@ -242,6 +242,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/2966.divide-array-into-arrays-with-max-difference.py">2966.divide-array-into-arrays-with-max-difference.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3169.count-days-without-meetings.py">3169.count-days-without-meetings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3394.check-if-grid-can-be-cut-into-sections.py">3394.check-if-grid-can-be-cut-into-sections.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3443.maximum-manhattan-distance-after-k-changes.py">3443.maximum-manhattan-distance-after-k-changes.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/462.minimum-moves-to-equal-array-elements-ii.py">462.minimum-moves-to-equal-array-elements-ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/56.merge-intervals.py">56.merge-intervals.py</a>
 ├── 📁 Stack
