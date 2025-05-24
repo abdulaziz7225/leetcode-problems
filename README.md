@@ -240,6 +240,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/2033.minimum-operations-to-make-a-uni-value-grid.py">2033.minimum-operations-to-make-a-uni-value-grid.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/2294.partition-array-such-that-maximum-difference-is-k.py">2294.partition-array-such-that-maximum-difference-is-k.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/2966.divide-array-into-arrays-with-max-difference.py">2966.divide-array-into-arrays-with-max-difference.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3085.minimum-deletions-to-make-string-k-special.py">3085.minimum-deletions-to-make-string-k-special.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3169.count-days-without-meetings.py">3169.count-days-without-meetings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3394.check-if-grid-can-be-cut-into-sections.py">3394.check-if-grid-can-be-cut-into-sections.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/3443.maximum-manhattan-distance-after-k-changes.py">3443.maximum-manhattan-distance-after-k-changes.py</a>
