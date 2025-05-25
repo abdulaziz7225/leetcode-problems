@@ -263,6 +263,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/1961.check-if-string-is-a-prefix-of-array.py">1961.check-if-string-is-a-prefix-of-array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/2124.check-if-all-as-appears-before-all-bs.py">2124.check-if-all-as-appears-before-all-bs.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/2129.capitalize-the-title.py">2129.capitalize-the-title.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/2138.divide-a-string-into-groups-of-size-k.py">2138.divide-a-string-into-groups-of-size-k.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/2255.count-prefixes-of-a-given-string.py">2255.count-prefixes-of-a-given-string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/242.valid-anagram.py">242.valid-anagram.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/2490.circular-sentence.py">2490.circular-sentence.py</a>
