@@ -276,7 +276,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Easy/953.verifying-an-alien-dictionary.py">953.verifying-an-alien-dictionary.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Medium/3121.count-the-number-of-special-characters-ii.py">3121.count-the-number-of-special-characters-ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Medium/38.count-and-say.py">38.count-and-say.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Medium/38.count-and-say.py">38.count-and-say.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String/Medium/8.string-to-integer-atoi.py">8.string-to-integer-atoi.py</a>
 ├── 📁 String_Matching
 │   ├── 📁 Easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/String_Matching/Easy/1408.string-matching-in-an-array.py">1408.string-matching-in-an-array.py</a>
