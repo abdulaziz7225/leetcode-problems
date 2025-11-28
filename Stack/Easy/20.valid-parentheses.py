@@ -34,17 +34,22 @@ s consists of parentheses only '()[]{}'.
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
+        pairs = {
+            "}": "{",
+            "]": "[",
+            ")": "("
+        }
         for char in s:
-            if char in {"(", "[", "{"}:
+            if char in ("{", "(", "["):
                 stack.append(char)
-            elif len(stack) > 0 and \
-                ((stack[-1] == "[" and char == "]") or
-                 (stack[-1] == "{" and char == "}") or
-                 (stack[-1] == "(" and char == ")")):
-                stack.pop()
             else:
-                return False
-        return len(stack) == 0
+                if not stack:
+                    return False
+                top_item = stack.pop()
+                if top_item != pairs[char]:
+                    return False
+
+        return not stack
 
 # Time Complexity: O(n)
 # Space Complexity: O(n)
