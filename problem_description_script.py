@@ -1,45 +1,98 @@
+import requests
 import os
-from selenium import webdriver
-from selenium.webdriver.common.by import By
+from bs4 import BeautifulSoup
 
-def generate_problem_comment_with_selenium(url: str, directory_path: str = "."):
+
+def get_problem_data(url: str, directory_path: str = "."):
+    # 1. Extract the "slug" from the URL
     try:
-        # Configure Selenium WebDriver
-        driver = webdriver.Chrome()
-        driver.get(url)
+        # Handles urls like https://leetcode.com/problems/number-complement/description/
+        title_slug = url.split("/problems/")[1].split("/")[0]
+    except IndexError:
+        return "Error: Invalid LeetCode URL."
 
-        # Extract problem details using Selenium
-        problem_title = driver.find_element(By.XPATH, "//div[contains(@class, 'text-title-large')]/a").text.strip()
-        difficulty_text = driver.find_element(By.XPATH, "//div[contains(@class, 'text-difficulty')]").text.strip()
-        description_content = driver.find_element(By.XPATH, "//div[@data-track-load='description_content']").text.strip()
+    # 2. Define the GraphQL Query
+    query = """
+    query questionData($titleSlug: String!) {
+      question(titleSlug: $titleSlug) {
+        questionId
+        title
+        difficulty
+        content
+      }
+    }
+    """
 
-        problem_number = problem_title.split(".")[0]
-        problem_title_for_file_name = url.split("/")[4]
-        problem_url = "/".join(url.split("/")[0:5])
+    # 3. Set up headers and payload
+    api_url = "https://leetcode.com/graphql"
+    payload = {
+        "query": query,
+        "variables": {"titleSlug": title_slug}
+    }
 
-        description_content = "\nExample".join(description_content.split("Example"))
-        description_content = "\nConstraints".join(description_content.split("Constraints"))    
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+        "Referer": url
+    }
 
-        # Format the problem details into a comment
-        comment = f"""\"\"\"\nProblem Number: {problem_title}\nDifficulty Level: {difficulty_text}\n{problem_url}\n\n********************************************************************************\n\n{description_content}\n\"\"\""""  
+    try:
+        # 4. Fetch Data
+        print(f"Fetching data for: {title_slug}...")
+        response = requests.post(api_url, json=payload, headers=headers)
+        response.raise_for_status()
 
-        # Ensure the directory exists
-        full_path = os.path.join(directory_path, difficulty_text)
+        data = response.json()
+        question_data = data["data"]["question"]
+
+        if not question_data:
+            print("Error: Problem not found.")
+            return
+
+        # 5. Extract and Format Data
+        problem_number = f"{question_data['questionId']}. {question_data['title']}"
+        difficulty = question_data['difficulty']
+
+        # --- HTML CLEANING LOGIC ---
+        raw_html = question_data['content']
+        soup = BeautifulSoup(raw_html, "html.parser")
+        clean_text = soup.get_text()
+
+        # Post-processing to make it look neat (remove excessive empty lines)
+        lines = [line.strip() for line in clean_text.splitlines()]
+        # Remove empty strings from list while preserving paragraph breaks
+        cleaned_content = "\n".join([line for line in lines if line])
+
+        # Fix specific headers to have a newline before them for readability
+        cleaned_content = cleaned_content.replace("Example", "\nExample")
+        cleaned_content = cleaned_content.replace(
+            "Constraints:", "\nConstraints:")
+        cleaned_content = cleaned_content.replace("Follow up:", "\nFollow up:")
+        # ---------------------------
+
+        # 6. Construct the final string
+        # Removing '/description' from url for the clean link
+        clean_link = url.split("/description")[0]
+
+        comment = f"""\"\"\"\nProblem Number: {problem_number}\nDifficulty Level: {difficulty}\nLink: {clean_link}\n\n********************************************************************************\n\n{cleaned_content}\n\"\"\""""
+
+        # 7. Write to file
+        full_path = os.path.join(directory_path, difficulty)
         os.makedirs(full_path, exist_ok=True)
 
-        # Write the comment to the file in the specified directory
-        file_path = os.path.join(full_path, f"{problem_number}.{problem_title_for_file_name}.py")
+        file_name = f"{question_data['questionId']}.{title_slug}.py"
+        file_path = os.path.join(full_path, file_name)
 
-        with open(file_path, "w", encoding="utf-8") as my_file:
-            my_file.write(comment)
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(comment)
+
+        print(f"Success! File saved to: {file_path}")
 
     except Exception as e:
-        return f"Error: Unable to fetch problem details. {str(e)}"
+        print(f"An error occurred: {e}")
 
-    finally:
-        driver.quit()
 
 if __name__ == "__main__":
-    url = input("Enter a link to LeetCode problem : ")
-    directory_path = input("Enter a directory name to create a file : ")
-    generate_problem_comment_with_selenium(url, directory_path if directory_path else ".")
+    url_input = input("Enter a link to LeetCode problem: ")
+    dir_input = input("Enter a directory name: ")
+    get_problem_data(url_input, dir_input if dir_input else ".")
