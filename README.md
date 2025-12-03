@@ -256,6 +256,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Easy/3174.clear-digits.py">3174.clear-digits.py</a>
 │   ├── 📁 Medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Medium/150.evaluate-reverse-polish-notation.py">150.evaluate-reverse-polish-notation.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Medium/155.min-stack.py">155.min-stack.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Medium/1910.remove-all-occurrences-of-a-substring.py">1910.remove-all-occurrences-of-a-substring.py</a>
 ├── 📁 String
 │   ├── 📁 Easy
