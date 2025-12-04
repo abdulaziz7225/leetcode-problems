@@ -38,16 +38,14 @@ from typing import List
 
 class Solution:
     def diagonalSum(self, mat: List[List[int]]) -> int:
-        diagonal = 0
-        i = 0
-        l1 = len(mat)
-        for row in mat:
-            diagonal += row[i] + row[l1 - i - 1]
-            i += 1
+        total_sum = 0
+        n = len(mat)
+        for i in range(n):
+            total_sum += mat[i][i] + mat[i][n - i - 1]
 
-        if l1 & 1 == 1:
-            diagonal -= mat[l1//2][l1//2]
-        return diagonal
+        if n & 1 == 1:
+            total_sum -= mat[n // 2][n // 2]
+        return total_sum
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)
