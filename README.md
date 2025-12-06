@@ -258,6 +258,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 stack
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/1128.remove_all_adjacent_duplicates_in_string.py">1128.remove_all_adjacent_duplicates_in_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/1666.make_the_string_great.py">1666.make_the_string_great.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/20.valid_parentheses.py">20.valid_parentheses.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/3174.clear_digits.py">3174.clear_digits.py</a>
 │   ├── 📁 medium
