@@ -77,10 +77,10 @@ def get_problem_data(url: str, directory_path: str = "."):
         comment = f"""\"\"\"\nProblem Number: {problem_number}\nDifficulty Level: {difficulty}\nLink: {clean_link}\n\n********************************************************************************\n\n{cleaned_content}\n\"\"\""""
 
         # 7. Write to file
-        full_path = os.path.join(directory_path, difficulty)
+        full_path = os.path.join(directory_path, difficulty.lower())
         os.makedirs(full_path, exist_ok=True)
 
-        file_name = f"{question_data['questionId']}.{title_slug}.py"
+        file_name = f"{question_data['questionId']}.{title_slug.replace('-', '_')}.py"
         file_path = os.path.join(full_path, file_name)
 
         with open(file_path, "w", encoding="utf-8") as f:
