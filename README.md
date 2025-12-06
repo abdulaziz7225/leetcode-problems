@@ -131,6 +131,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/2006.count_number_of_pairs_with_absolute_difference_k.py">2006.count_number_of_pairs_with_absolute_difference_k.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/205.isomorphic_strings.py">205.isomorphic_strings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/217.contains_duplicate.py">217.contains_duplicate.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/219.contains_duplicate_ii.py">219.contains_duplicate_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/2206.divide_array_into_equal_pairs.py">2206.divide_array_into_equal_pairs.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/2404.most_frequent_even_element.py">2404.most_frequent_even_element.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/3375.minimum_operations_to_make_array_values_equal_to_k.py">3375.minimum_operations_to_make_array_values_equal_to_k.py</a>
