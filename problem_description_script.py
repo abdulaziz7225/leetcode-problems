@@ -92,7 +92,52 @@ def get_problem_data(url: str, directory_path: str = "."):
         print(f"An error occurred: {e}")
 
 
+def resolve_directory(partial_name):
+    """
+    Attempts to autocomplete a directory name based on partial input.
+    - If partial_name matches an existing folder exactly, returns it.
+    - If partial_name matches the start of exactly one folder, returns that folder.
+    - Otherwise, returns the original partial_name (letting mkdir handle creation later).
+    """
+    if not partial_name or partial_name == ".":
+        return "."
+
+    # Get all items in current directory
+    try:
+        all_items = os.listdir(".")
+    except OSError:
+        return partial_name
+
+    # Filter for directories that start with the input (case-insensitive for better UX)
+    candidates = [
+        item for item in all_items
+        if os.path.isdir(item) and item.lower().startswith(partial_name.lower())
+    ]
+
+    # LOGIC:
+    # 1. Exact match preference (e.g., user typed "tree" and "tree" exists)
+    if partial_name in candidates:
+        return partial_name
+
+    # 2. Autocomplete if exactly one match found (e.g., user typed "bin", found "binary-search")
+    if len(candidates) == 1:
+        print(
+            f"--> Autocompleted directory: '{partial_name}' to '{candidates[0]}'")
+        return candidates[0]
+
+    # 3. Ambiguous (multiple matches) or no match -> Return original input
+    if len(candidates) > 1:
+        print(
+            f"--> Ambiguous input '{partial_name}'. Found: {candidates}. Using '{partial_name}'.")
+
+    return partial_name
+
+
 if __name__ == "__main__":
-    url_input = input("Enter a link to LeetCode problem: ")
-    dir_input = input("Enter a directory name: ")
-    get_problem_data(url_input, dir_input if dir_input else ".")
+    url_input = input("Enter a link to LeetCode problem: ").strip()
+    dir_input_raw = input("Enter a directory name: ").strip()
+
+    # Resolve the directory name before passing it to the main function
+    final_dir = resolve_directory(dir_input_raw) if dir_input_raw else "."
+
+    get_problem_data(url_input, final_dir)
