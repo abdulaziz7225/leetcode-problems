@@ -257,6 +257,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Sorting/Medium/56.merge-intervals.py">56.merge-intervals.py</a>
 ├── 📁 Stack
 │   ├── 📁 Easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Easy/1128.remove-all-adjacent-duplicates-in-string.py">1128.remove-all-adjacent-duplicates-in-string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Easy/20.valid-parentheses.py">20.valid-parentheses.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/Stack/Easy/3174.clear-digits.py">3174.clear-digits.py</a>
 │   ├── 📁 Medium

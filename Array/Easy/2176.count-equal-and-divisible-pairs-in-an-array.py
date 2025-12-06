@@ -41,7 +41,7 @@ class Solution:
                     result += 1
         return result
 
-# Time Complexity: O(n ^ 2)
+# Time Complexity: O(n^2)
 # Space Complexity: O(1)
 
 
@@ -60,6 +60,6 @@ class Solution:
         return result
 
 # Time Complexity:
-# Worst-case when all elements are the same ==> O(n ^ 2)
-# Average-case when numbers are uniformly distributed and u = number of unique values ==> O(n ^ 2 / u)
+# Worst-case when all elements are the same ==> O(n^2)
+# Average-case when numbers are uniformly distributed and u = number of unique values ==> O(n^2 / u)
 # Space Complexity: O(n)
