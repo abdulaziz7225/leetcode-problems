@@ -263,7 +263,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/150.evaluate_reverse_polish_notation.py">150.evaluate_reverse_polish_notation.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/155.min_stack.py">155.min_stack.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/1910.remove_all_occurrences_of_a_substring.py">1910.remove_all_occurrences_of_a_substring.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/1910.remove_all_occurrences_of_a_substring.py">1910.remove_all_occurrences_of_a_substring.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/2470.removing_stars_from_a_string.py">2470.removing_stars_from_a_string.py</a>
 ├── 📁 string
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/13.roman_to_integer.py">13.roman_to_integer.py</a>
