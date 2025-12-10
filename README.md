@@ -249,6 +249,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/2164.sort_even_and_odd_indices_independently.py">2164.sort_even_and_odd_indices_independently.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/3194.minimum_average_of_smallest_and_largest_elements.py">3194.minimum_average_of_smallest_and_largest_elements.py</a>
 │   ├── 📁 medium
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/1887.reduction_operations_to_make_the_array_elements_equal.py">1887.reduction_operations_to_make_the_array_elements_equal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2033.minimum_operations_to_make_a_uni_value_grid.py">2033.minimum_operations_to_make_a_uni_value_grid.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2294.partition_array_such_that_maximum_difference_is_k.py">2294.partition_array_such_that_maximum_difference_is_k.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2887.sort_vowels_in_a_string.py">2887.sort_vowels_in_a_string.py</a>
