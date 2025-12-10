@@ -250,6 +250,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2033.minimum_operations_to_make_a_uni_value_grid.py">2033.minimum_operations_to_make_a_uni_value_grid.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2294.partition_array_such_that_maximum_difference_is_k.py">2294.partition_array_such_that_maximum_difference_is_k.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2887.sort_vowels_in_a_string.py">2887.sort_vowels_in_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2966.divide_array_into_arrays_with_max_difference.py">2966.divide_array_into_arrays_with_max_difference.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3085.minimum_deletions_to_make_string_k_special.py">3085.minimum_deletions_to_make_string_k_special.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3169.count_days_without_meetings.py">3169.count_days_without_meetings.py</a>
