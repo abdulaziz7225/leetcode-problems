@@ -244,6 +244,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/713.subarray_product_less_than_k.py">713.subarray_product_less_than_k.py</a>
 ├── 📁 sorting
 │   ├── 📁 easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/1636.sort_array_by_increasing_frequency.py">1636.sort_array_by_increasing_frequency.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/2099.find_subsequence_of_length_k_with_the_largest_sum.py">2099.find_subsequence_of_length_k_with_the_largest_sum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/2164.sort_even_and_odd_indices_independently.py">2164.sort_even_and_odd_indices_independently.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/3194.minimum_average_of_smallest_and_largest_elements.py">3194.minimum_average_of_smallest_and_largest_elements.py</a>

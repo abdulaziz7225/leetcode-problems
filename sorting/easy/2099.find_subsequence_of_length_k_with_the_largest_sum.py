@@ -69,4 +69,4 @@ class Solution:
 # Time Complexity: O(n * (log(n) + 1) + k * (log(k) + 1)) ==> O(n * log(n))
 # In Python, the sort() method sorts a list using the Timsort algorithm which is a combination
 # of Merge Sort and Insertion Sort and has O(n) additional space.
-# Space Complexity: O(2* n + 2 * k) => O(n + k)
+# Space Complexity: O(2 * n + 2 * k) => O(n + k)
