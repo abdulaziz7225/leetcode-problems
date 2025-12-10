@@ -1,5 +1,5 @@
 """
-Problem Number: 1666. Make The String Great
+Problem Number: 1544. Make The String Great
 Difficulty Level: Easy
 Link: https://leetcode.com/problems/make-the-string-great
 

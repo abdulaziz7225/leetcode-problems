@@ -1,5 +1,5 @@
 """
-Problem Number: 3334. Apple Redistribution into Boxes
+Problem Number: 3074. Apple Redistribution into Boxes
 Difficulty Level: Easy
 Link: https://leetcode.com/problems/apple-redistribution-into-boxes
 

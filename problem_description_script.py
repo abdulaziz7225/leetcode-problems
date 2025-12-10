@@ -15,7 +15,7 @@ def get_problem_data(url: str, directory_path: str = "."):
     query = """
     query questionData($titleSlug: String!) {
       question(titleSlug: $titleSlug) {
-        questionId
+        questionFrontendId
         title
         difficulty
         content
@@ -50,7 +50,7 @@ def get_problem_data(url: str, directory_path: str = "."):
             return
 
         # 5. Extract and Format Data
-        problem_number = f"{question_data['questionId']}. {question_data['title']}"
+        problem_number = f"{question_data['questionFrontendId']}. {question_data['title']}"
         difficulty = question_data['difficulty']
 
         # --- HTML CLEANING LOGIC ---
@@ -80,7 +80,7 @@ def get_problem_data(url: str, directory_path: str = "."):
         full_path = os.path.join(directory_path, difficulty.lower())
         os.makedirs(full_path, exist_ok=True)
 
-        file_name = f"{question_data['questionId']}.{title_slug.replace('-', '_')}.py"
+        file_name = f"{question_data['questionFrontendId']}.{title_slug.replace('-', '_')}.py"
         file_path = os.path.join(full_path, file_name)
 
         with open(file_path, "w", encoding="utf-8") as f:

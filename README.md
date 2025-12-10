@@ -22,14 +22,14 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1.two_sum.py">1.two_sum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1346.check_if_n_and_its_double_exist.py">1346.check_if_n_and_its_double_exist.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1464.maximum_product_of_two_elements_in_an_array.py">1464.maximum_product_of_two_elements_in_an_array.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1480.running_sum_of_1d_array.py">1480.running_sum_of_1d_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1491.average_salary_excluding_the_minimum_and_maximum_salary.py">1491.average_salary_excluding_the_minimum_and_maximum_salary.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1502.can_make_arithmetic_progression_from_sequence.py">1502.can_make_arithmetic_progression_from_sequence.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1550.three_consecutive_odds.py">1550.three_consecutive_odds.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1603.running_sum_of_1d_array.py">1603.running_sum_of_1d_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/169.majority_element.py">169.majority_element.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1732.find_the_highest_altitude.py">1732.find_the_highest_altitude.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1752.check_if_array_is_sorted_and_rotated.py">1752.check_if_array_is_sorted_and_rotated.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1800.maximum_ascending_subarray_sum.py">1800.maximum_ascending_subarray_sum.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1833.find_the_highest_altitude.py">1833.find_the_highest_altitude.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/1920.build_array_from_permutation.py">1920.build_array_from_permutation.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/2176.count_equal_and_divisible_pairs_in_an_array.py">2176.count_equal_and_divisible_pairs_in_an_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/2496.maximum_value_of_a_string_in_an_array.py">2496.maximum_value_of_a_string_in_an_array.py</a>
@@ -115,7 +115,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 greedy-algorithm
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/2900.longest_unequal_adjacent_groups_subsequence_i.py">2900.longest_unequal_adjacent_groups_subsequence_i.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/3334.apple_redistribution_into_boxes.py">3334.apple_redistribution_into_boxes.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/3074.apple_redistribution_into_boxes.py">3074.apple_redistribution_into_boxes.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/1007.minimum_domino_rotations_for_equal_row.py">1007.minimum_domino_rotations_for_equal_row.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/1282.group_the_people_given_the_group_size_they_belong_to.py">1282.group_the_people_given_the_group_size_they_belong_to.py</a>
@@ -193,7 +193,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/easy/1572.matrix_diagonal_sum.py">1572.matrix_diagonal_sum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/easy/1672.richest_customer_wealth.py">1672.richest_customer_wealth.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/easy/2133.check_if_every_row_and_column_contains_all_numbers.py">2133.check_if_every_row_and_column_contains_all_numbers.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/easy/2737.row_with_maximum_ones.py">2737.row_with_maximum_ones.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/easy/2643.row_with_maximum_ones.py">2643.row_with_maximum_ones.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/easy/566.reshape_the_matrix.py">566.reshape_the_matrix.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/2661.first_completely_painted_row_or_column.py">2661.first_completely_painted_row_or_column.py</a>
@@ -252,7 +252,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/1887.reduction_operations_to_make_the_array_elements_equal.py">1887.reduction_operations_to_make_the_array_elements_equal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2033.minimum_operations_to_make_a_uni_value_grid.py">2033.minimum_operations_to_make_a_uni_value_grid.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2294.partition_array_such_that_maximum_difference_is_k.py">2294.partition_array_such_that_maximum_difference_is_k.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2887.sort_vowels_in_a_string.py">2887.sort_vowels_in_a_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2785.sort_vowels_in_a_string.py">2785.sort_vowels_in_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/2966.divide_array_into_arrays_with_max_difference.py">2966.divide_array_into_arrays_with_max_difference.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3085.minimum_deletions_to_make_string_k_special.py">3085.minimum_deletions_to_make_string_k_special.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3169.count_days_without_meetings.py">3169.count_days_without_meetings.py</a>
@@ -262,15 +262,15 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/56.merge_intervals.py">56.merge_intervals.py</a>
 ├── 📁 stack
 │   ├── 📁 easy
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/1128.remove_all_adjacent_duplicates_in_string.py">1128.remove_all_adjacent_duplicates_in_string.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/1666.make_the_string_great.py">1666.make_the_string_great.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/1047.remove_all_adjacent_duplicates_in_string.py">1047.remove_all_adjacent_duplicates_in_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/1544.make_the_string_great.py">1544.make_the_string_great.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/20.valid_parentheses.py">20.valid_parentheses.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/3174.clear_digits.py">3174.clear_digits.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/150.evaluate_reverse_polish_notation.py">150.evaluate_reverse_polish_notation.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/155.min_stack.py">155.min_stack.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/1910.remove_all_occurrences_of_a_substring.py">1910.remove_all_occurrences_of_a_substring.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/2470.removing_stars_from_a_string.py">2470.removing_stars_from_a_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/2390.removing_stars_from_a_string.py">2390.removing_stars_from_a_string.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/71.simplify_path.py">71.simplify_path.py</a>
 ├── 📁 string
 │   ├── 📁 easy
@@ -341,7 +341,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/lowercase_folder_names.py">lowercase_folder_names.py</a>
 ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/problem_description_script.py">problem_description_script.py</a>
 ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/replace_dash_with_underscore_in_filenames.py">replace_dash_with_underscore_in_filenames.py</a>
-└── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/requirements.txt">requirements.txt</a>
+├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/requirements.txt">requirements.txt</a>
+└── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/safe_fix_leetcode_ids.py">safe_fix_leetcode_ids.py</a>
 </code></pre>
 
 💡 **Pro Tip**: Click the filenames to view each solution directly on GitHub!

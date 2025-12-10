@@ -1,11 +1,11 @@
 """
-Problem Number: 1603. Running Sum of 1d Array
+Problem Number: 1480. Running Sum of 1d Array
 Difficulty Level: Easy
 Link: https://leetcode.com/problems/running-sum-of-1d-array
 
 ********************************************************************************
 
-Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
+Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 Return the running sum of nums.
 
 Example 1:

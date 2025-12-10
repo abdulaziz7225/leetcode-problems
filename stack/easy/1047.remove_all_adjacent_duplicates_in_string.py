@@ -1,5 +1,5 @@
 """
-Problem Number: 1128. Remove All Adjacent Duplicates In String
+Problem Number: 1047. Remove All Adjacent Duplicates In String
 Difficulty Level: Easy
 Link: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
 

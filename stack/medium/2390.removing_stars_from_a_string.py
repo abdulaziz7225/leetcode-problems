@@ -1,5 +1,5 @@
 """
-Problem Number: 2470. Removing Stars From a String
+Problem Number: 2390. Removing Stars From a String
 Difficulty Level: Medium
 Link: https://leetcode.com/problems/removing-stars-from-a-string
 
