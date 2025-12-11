@@ -63,6 +63,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/2226.maximum_candies_allocated_to_k_children.py">2226.maximum_candies_allocated_to_k_children.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/2594.minimum_time_to_repair_cars.py">2594.minimum_time_to_repair_cars.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/33.search_in_rotated_sorted_array.py">33.search_in_rotated_sorted_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/3356.zero_array_transformation_ii.py">3356.zero_array_transformation_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/34.find_first_and_last_position_of_element_in_sorted_array.py">34.find_first_and_last_position_of_element_in_sorted_array.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/875.koko_eating_bananas.py">875.koko_eating_bananas.py</a>

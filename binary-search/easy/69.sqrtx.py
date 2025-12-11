@@ -32,9 +32,10 @@ class Solution:
 
         while left <= right:
             middle = (left + right) // 2
-            if middle ** 2 == x:
+            square = middle ** 2
+            if square == x:
                 return middle
-            elif middle ** 2 < x:
+            elif square < x:
                 left = middle + 1
             else:
                 right = middle - 1
