@@ -61,30 +61,69 @@ class Solution:
 # Solution 2
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        first_position = self.binary_search(nums, target, True)
-        last_position = self.binary_search(nums, target, False)
+        first = self.custom_binary_search(nums, target, True)
+        last = self.custom_binary_search(nums, target, False)
+        return [first, last]
 
-        return [first_position, last_position]
-    
-    def binary_search(self, arr, target, is_searching_left):
+    def custom_binary_search(self, array: List[int], target: int, is_searching_first: bool) -> int:
         left = 0
-        right = len(arr) - 1
-        idx = -1
+        right = len(array) - 1
+        index = -1
 
         while left <= right:
             middle = (left + right) // 2
-            if arr[middle] == target:
-                idx = middle
-                if is_searching_left:
+
+            if array[middle] < target:
+                left = middle + 1
+            elif array[middle] > target:
+                right = middle - 1
+            else:
+                index = middle
+                if is_searching_first:
                     right = middle - 1
                 else:
                     left = middle + 1
-            elif arr[middle] < target:
-                left = middle + 1
-            else:
-                right = middle - 1
 
-        return idx
+        return index
+
+# Time Complexity: O(log(n))
+# Space Complexity: O(1)
+
+
+# Solution 3: Binary Search Template III
+class Solution:
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        if not nums:
+            return [-1, -1]
+
+        first = self.custom_binary_search(nums, target, True)
+        last = self.custom_binary_search(nums, target, False)
+        return [first, last]
+
+    def custom_binary_search(self, array: List[int], target: int, is_searching_first: bool) -> int:
+        left = 0
+        right = len(array) - 1
+
+        while left + 1 < right:
+            middle = (left + right) // 2
+
+            if (array[middle] > target) or (is_searching_first and array[middle] == target):
+                right = middle
+            else:
+                left = middle
+
+        if is_searching_first:
+            if array[left] == target:
+                return left
+            if array[right] == target:
+                return right
+        else:
+            if array[right] == target:
+                return right
+            if array[left] == target:
+                return left
+
+        return -1
 
 # Time Complexity: O(log(n))
 # Space Complexity: O(1)
