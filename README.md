@@ -55,6 +55,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/1385.find_the_distance_value_between_two_arrays.py">1385.find_the_distance_value_between_two_arrays.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/2529.maximum_count_of_positive_integer_and_negative_integer.py">2529.maximum_count_of_positive_integer_and_negative_integer.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/2540.minimum_common_value.py">2540.minimum_common_value.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/278.first_bad_version.py">278.first_bad_version.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/35.search_insert_position.py">35.search_insert_position.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/367.valid_perfect_square.py">367.valid_perfect_square.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/374.guess_number_higher_or_lower.py">374.guess_number_higher_or_lower.py</a>
