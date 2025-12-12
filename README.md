@@ -63,6 +63,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/704.binary_search.py">704.binary_search.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/153.find_minimum_in_rotated_sorted_array.py">153.find_minimum_in_rotated_sorted_array.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/1838.frequency_of_the_most_frequent_element.py">1838.frequency_of_the_most_frequent_element.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/2226.maximum_candies_allocated_to_k_children.py">2226.maximum_candies_allocated_to_k_children.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/2594.minimum_time_to_repair_cars.py">2594.minimum_time_to_repair_cars.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/33.search_in_rotated_sorted_array.py">33.search_in_rotated_sorted_array.py</a>

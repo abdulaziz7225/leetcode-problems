@@ -37,26 +37,27 @@ from typing import List
 # Solution 1
 class Solution:
     def maximumCount(self, nums: List[int]) -> int:
-        first_occurrence_of_zero = self.binary_search(nums, 0, True)
-        last_occurrence_of_zero = self.binary_search(nums, 0, False)
-        return max(first_occurrence_of_zero, len(nums) - last_occurrence_of_zero)
+        negatives = self.binary_search(nums, 0, True)
+        positives = len(nums) - self.binary_search(nums, 0, False)
 
-    def binary_search(self, nums, target, searching_left):
+        return max(negatives, positives)
+
+    def binary_search(self, array: List[int], target: int, is_searching_left: bool) -> int:
         left = 0
-        right = len(nums) - 1
-        
+        right = len(array) - 1
+
         while left <= right:
             middle = (left + right) // 2
-            if nums[middle] == target:
-                if searching_left:
+            if array[middle] < target:
+                left = middle + 1
+            elif array[middle] > target:
+                right = middle - 1
+            else:
+                if is_searching_left:
                     right = middle - 1
                 else:
                     left = middle + 1
-            elif nums[middle] > 0:
-                right = middle - 1
-            else:
-                left = middle + 1
-                
+
         return left
 
 # Time Complexity: O(log(n))
@@ -66,20 +67,21 @@ class Solution:
 # Solution 2
 class Solution:
     def maximumCount(self, nums: List[int]) -> int:
-        first_occurrence_of_zero = self.bisect_left(nums, 0)
-        first_occurrence_of_one = self.bisect_left(nums, 1)
-        return max(first_occurrence_of_zero, len(nums) - first_occurrence_of_one)
+        negatives = self.binary_search(nums, 0)
+        positives = len(nums) - self.binary_search(nums, 1)
 
-    def bisect_left(self, nums, target):
+        return max(negatives, positives)
+
+    def binary_search(self, array: List[int], target: int) -> int:
         left = 0
-        right = len(nums) - 1
+        right = len(array)
 
-        while left <= right:
+        while left < right:
             middle = (left + right) // 2
-            if nums[middle] < target:
+            if array[middle] < target:
                 left = middle + 1
             else:
-                right = middle - 1
+                right = middle
 
         return left
 

@@ -30,7 +30,9 @@ from typing import List
 # Solution 1: Two Pointers
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
-        i = j = 0
+        i = 0
+        j = 0
+
         while i < len(nums1) and j < len(nums2):
             if nums1[i] == nums2[j]:
                 return nums1[i]
@@ -38,10 +40,11 @@ class Solution:
                 j += 1
             else:
                 i += 1
+
         return -1
 
-# N = len(nums1), M = len(nums2)
-# Time Complexity: O(N + M)
+# n = len(nums1), m = len(nums2)
+# Time Complexity: O(n + m)
 # Space Complexity: O(1)
 
 
@@ -49,13 +52,12 @@ class Solution:
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
         if len(nums1) > len(nums2):
-            first, second = nums2, nums1
-        else:
-            first, second = nums1, nums2
+            return self.getCommon(nums2, nums1)
 
-        for target in first:
-            if self.binary_search(second, target):
-                return target
+        for num in nums1:
+            if self.binary_search(nums2, num):
+                return num
+
         return -1
 
     def binary_search(self, array: List[int], target: int) -> bool:
@@ -63,7 +65,7 @@ class Solution:
         right = len(array) - 1
 
         while left <= right:
-            middle = (left + right) // 2
+            middle = left + (right - left) // 2
             if array[middle] == target:
                 return True
             elif array[middle] < target:
@@ -73,6 +75,6 @@ class Solution:
 
         return False
 
-# N = len(first), M = len(second)
-# Time Complexity: O(N * log(M))
+# n = len(nums1), m = len(nums2)
+# Time Complexity: O(n * log(n))
 # Space Complexity: O(1)
