@@ -130,7 +130,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/2918.minimum_equal_sum_of_two_arrays_after_replacing_zeros.py">2918.minimum_equal_sum_of_two_arrays_after_replacing_zeros.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/452.minimum_number_of_arrows_to_burst_balloons.py">452.minimum_number_of_arrows_to_burst_balloons.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/646.maximum_length_of_pair_chain.py">646.maximum_length_of_pair_chain.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/781.rabbits_in_forest.py">781.rabbits_in_forest.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/781.rabbits_in_forest.py">781.rabbits_in_forest.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/921.minimum_add_to_make_parentheses_valid.py">921.minimum_add_to_make_parentheses_valid.py</a>
 ├── 📁 hash-table
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/hash-table/easy/1128.number_of_equivalent_domino_pairs.py">1128.number_of_equivalent_domino_pairs.py</a>
