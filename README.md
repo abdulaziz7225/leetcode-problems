@@ -126,6 +126,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/1007.minimum_domino_rotations_for_equal_row.py">1007.minimum_domino_rotations_for_equal_row.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/1282.group_the_people_given_the_group_size_they_belong_to.py">1282.group_the_people_given_the_group_size_they_belong_to.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/2091.removing_minimum_and_maximum_from_array.py">2091.removing_minimum_and_maximum_from_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/2116.check_if_a_parentheses_string_can_be_valid.py">2116.check_if_a_parentheses_string_can_be_valid.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/2918.minimum_equal_sum_of_two_arrays_after_replacing_zeros.py">2918.minimum_equal_sum_of_two_arrays_after_replacing_zeros.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/452.minimum_number_of_arrows_to_burst_balloons.py">452.minimum_number_of_arrows_to_burst_balloons.py</a>
