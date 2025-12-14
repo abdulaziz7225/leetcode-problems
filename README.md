@@ -129,6 +129,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/2116.check_if_a_parentheses_string_can_be_valid.py">2116.check_if_a_parentheses_string_can_be_valid.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/2918.minimum_equal_sum_of_two_arrays_after_replacing_zeros.py">2918.minimum_equal_sum_of_two_arrays_after_replacing_zeros.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/452.minimum_number_of_arrows_to_burst_balloons.py">452.minimum_number_of_arrows_to_burst_balloons.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/646.maximum_length_of_pair_chain.py">646.maximum_length_of_pair_chain.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/781.rabbits_in_forest.py">781.rabbits_in_forest.py</a>
 ├── 📁 hash-table
 │   ├── 📁 easy
