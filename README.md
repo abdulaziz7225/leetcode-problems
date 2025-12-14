@@ -121,7 +121,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 greedy-algorithm
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/2900.longest_unequal_adjacent_groups_subsequence_i.py">2900.longest_unequal_adjacent_groups_subsequence_i.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/3074.apple_redistribution_into_boxes.py">3074.apple_redistribution_into_boxes.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/3074.apple_redistribution_into_boxes.py">3074.apple_redistribution_into_boxes.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/680.valid_palindrome_ii.py">680.valid_palindrome_ii.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/1007.minimum_domino_rotations_for_equal_row.py">1007.minimum_domino_rotations_for_equal_row.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/medium/1282.group_the_people_given_the_group_size_they_belong_to.py">1282.group_the_people_given_the_group_size_they_belong_to.py</a>
