@@ -305,6 +305,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/709.to_lower_case.py">709.to_lower_case.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/953.verifying_an_alien_dictionary.py">953.verifying_an_alien_dictionary.py</a>
 │   ├── 📁 medium
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/medium/2384.largest_palindromic_number.py">2384.largest_palindromic_number.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/medium/3121.count_the_number_of_special_characters_ii.py">3121.count_the_number_of_special_characters_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/medium/38.count_and_say.py">38.count_and_say.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/medium/8.string_to_integer_atoi.py">8.string_to_integer_atoi.py</a>
