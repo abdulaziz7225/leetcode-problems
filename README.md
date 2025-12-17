@@ -109,6 +109,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>
 │   ├── 📁 medium
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/medium/380.insert_delete_getrandom_o1.py">380.insert_delete_getrandom_o1.py</a>
+├── 📁 divide-and-conquer
+│   ├── 📁 easy
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/divide-and-conquer/easy/1763.longest_nice_substring.py">1763.longest_nice_substring.py</a>
 ├── 📁 dynamic-programming
 │   ├── 📁 easy
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/dynamic-programming/easy/509.fibonacci_number.py">509.fibonacci_number.py</a>
