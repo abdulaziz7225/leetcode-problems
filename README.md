@@ -100,6 +100,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_i.py">3191.minimum_operations_to_make_binary_array_elements_equal_to_one_i.py</a>
 ├── 📁 counting
 │   ├── 📁 easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/easy/1512.number_of_good_pairs.py">1512.number_of_good_pairs.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/easy/1790.check_if_one_string_swap_can_make_strings_equal.py">1790.check_if_one_string_swap_can_make_strings_equal.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/easy/3442.maximum_difference_between_even_and_odd_frequency_i.py">3442.maximum_difference_between_even_and_odd_frequency_i.py</a>
 │   ├── 📁 medium

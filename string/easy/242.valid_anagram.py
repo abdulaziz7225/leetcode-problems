@@ -39,5 +39,6 @@ class Solution:
                 return False
         return True
 
-# Time Complexity: O(n)
-# Space Complexity: O(k) Since k = 26 ==> O(1)
+# n = len(s), k = 26
+# Time Complexity: O(n + 2 * k) ==> O(n)
+# Space Complexity: O(k) ==> O(1)
