@@ -340,6 +340,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/2824.count_pairs_whose_sum_is_less_than_target.py">2824.count_pairs_whose_sum_is_less_than_target.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/283.move_zeroes.py">283.move_zeroes.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/344.reverse_string.py">344.reverse_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/345.reverse_vowels_of_a_string.py">345.reverse_vowels_of_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/3467.transform_array_by_parity.py">3467.transform_array_by_parity.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/541.reverse_string_ii.py">541.reverse_string_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/88.merge_sorted_array.py">88.merge_sorted_array.py</a>
