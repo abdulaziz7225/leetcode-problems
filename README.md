@@ -296,6 +296,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/1422.maximum_score_after_splitting_a_string.py">1422.maximum_score_after_splitting_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/1446.consecutive_characters.py">1446.consecutive_characters.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/1678.goal_parser_interpretation.py">1678.goal_parser_interpretation.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/1832.check_if_the_sentence_is_pangram.py">1832.check_if_the_sentence_is_pangram.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/1961.check_if_string_is_a_prefix_of_array.py">1961.check_if_string_is_a_prefix_of_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/2124.check_if_all_as_appears_before_all_bs.py">2124.check_if_all_as_appears_before_all_bs.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/string/easy/2129.capitalize_the_title.py">2129.capitalize_the_title.py</a>
