@@ -344,6 +344,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/345.reverse_vowels_of_a_string.py">345.reverse_vowels_of_a_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/3467.transform_array_by_parity.py">3467.transform_array_by_parity.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/541.reverse_string_ii.py">541.reverse_string_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/844.backspace_string_compare.py">844.backspace_string_compare.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/88.merge_sorted_array.py">88.merge_sorted_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/905.sort_array_by_parity.py">905.sort_array_by_parity.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/922.sort_array_by_parity_ii.py">922.sort_array_by_parity_ii.py</a>
