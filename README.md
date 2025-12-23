@@ -179,10 +179,12 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 linked-list
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/1290.convert_binary_number_in_a_linked_list_to_integer.py">1290.convert_binary_number_in_a_linked_list_to_integer.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/141.linked_list_cycle.py">141.linked_list_cycle.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/206.reverse_linked_list.py">206.reverse_linked_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/83.remove_duplicates_from_sorted_list.py">83.remove_duplicates_from_sorted_list.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/876.middle_of_the_linked_list.py">876.middle_of_the_linked_list.py</a>
 │   ├── 📁 medium
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/142.linked_list_cycle_ii.py">142.linked_list_cycle_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/82.remove_duplicates_from_sorted_list_ii.py">82.remove_duplicates_from_sorted_list_ii.py</a>
 ├── 📁 math
 │   ├── 📁 easy
@@ -331,7 +333,6 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 two-pointers
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/125.valid_palindrome.py">125.valid_palindrome.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/141.linked_list_cycle.py">141.linked_list_cycle.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/1768.merge_strings_alternately.py">1768.merge_strings_alternately.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/202.happy_number.py">202.happy_number.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/easy/2200.find_all_k_distant_indices_in_an_array.py">2200.find_all_k_distant_indices_in_an_array.py</a>
