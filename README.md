@@ -361,6 +361,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/18.4sum.py">18.4sum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/2161.partition_array_according_to_given_pivot.py">2161.partition_array_according_to_given_pivot.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/2563.count_the_number_of_fair_pairs.py">2563.count_the_number_of_fair_pairs.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/581.shortest_unsorted_continuous_subarray.py">581.shortest_unsorted_continuous_subarray.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/75.sort_colors.py">75.sort_colors.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/80.remove_duplicates_from_sorted_array_ii.py">80.remove_duplicates_from_sorted_array_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/986.interval_list_intersections.py">986.interval_list_intersections.py</a>

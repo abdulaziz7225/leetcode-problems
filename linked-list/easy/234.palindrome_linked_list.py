@@ -37,7 +37,9 @@ class Solution:
         middle = self.findMiddleElement(head)
 
         front = head
-        back = self.reverseLinkedList(middle)
+        back = self.reverseLinkedList(middle.next)
+        middle.next = None
+
 
         while front and back:
             if front.val != back.val:
@@ -50,7 +52,7 @@ class Solution:
 
     def findMiddleElement(self, head: Optional[ListNode]) -> Optional[ListNode]:
         slow = head
-        fast = head
+        fast = head.next
 
         while fast and fast.next:
             slow = slow.next
