@@ -186,6 +186,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/876.middle_of_the_linked_list.py">876.middle_of_the_linked_list.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/142.linked_list_cycle_ii.py">142.linked_list_cycle_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/143.reorder_list.py">143.reorder_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/2095.delete_the_middle_node_of_a_linked_list.py">2095.delete_the_middle_node_of_a_linked_list.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/82.remove_duplicates_from_sorted_list_ii.py">82.remove_duplicates_from_sorted_list_ii.py</a>
 ├── 📁 math
