@@ -181,6 +181,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/1290.convert_binary_number_in_a_linked_list_to_integer.py">1290.convert_binary_number_in_a_linked_list_to_integer.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/141.linked_list_cycle.py">141.linked_list_cycle.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/206.reverse_linked_list.py">206.reverse_linked_list.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/234.palindrome_linked_list.py">234.palindrome_linked_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/83.remove_duplicates_from_sorted_list.py">83.remove_duplicates_from_sorted_list.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/876.middle_of_the_linked_list.py">876.middle_of_the_linked_list.py</a>
 │   ├── 📁 medium

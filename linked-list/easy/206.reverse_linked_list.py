@@ -28,23 +28,26 @@ Follow up: A linked list can be reversed either iteratively or recursively. Coul
 
 from typing import Optional
 
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-        
+
+
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev_node = None
-        curr_node = head
-        while curr_node is not None:
-            next_node = curr_node.next
-            curr_node.next = prev_node
-            prev_node = curr_node
-            curr_node = next_node
-        head = prev_node
-        return head
-        
+        prev = None
+        curr = head
+
+        while curr is not None:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+
+        return prev
+
 # Time Complexity: O(n)
 # Space Complexity: O(1)
