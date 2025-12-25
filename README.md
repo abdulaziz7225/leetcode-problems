@@ -261,7 +261,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/2799.count_complete_subarrays_in_an_array.py">2799.count_complete_subarrays_in_an_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/3.longest_substring_without_repeating_characters.py">3.longest_substring_without_repeating_characters.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/3208.alternating_groups_ii.py">3208.alternating_groups_ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/713.subarray_product_less_than_k.py">713.subarray_product_less_than_k.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/713.subarray_product_less_than_k.py">713.subarray_product_less_than_k.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/904.fruit_into_baskets.py">904.fruit_into_baskets.py</a>
 ├── 📁 sorting
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/easy/1636.sort_array_by_increasing_frequency.py">1636.sort_array_by_increasing_frequency.py</a>

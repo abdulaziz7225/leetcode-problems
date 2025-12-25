@@ -32,18 +32,21 @@ from typing import List
 
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        cum_sum, left = 0, 0
-        result = float("inf")
+        left = 0
+        curr_window = 0
+        min_window = float("inf")
 
         for right in range(len(nums)):
-            cum_sum += nums[right]
+            curr_window += nums[right]
 
-            while left <= right and cum_sum >= target:
-                result = min(result, right - left + 1)
-                cum_sum -= nums[left]
+            while left <= right and curr_window >= target:
+                min_window = min(min_window, right - left + 1)
+                curr_window -= nums[left]
                 left += 1
 
-        return result if result != float("inf") else 0
+        if min_window == float("inf"):
+            return 0
+        return min_window
 
 # Time Complexity: O(2 * n) ==> O(n)
 # Space Complexity: O(1)
