@@ -359,6 +359,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/11.container_with_most_water.py">11.container_with_most_water.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/15.3sum.py">15.3sum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/16.3sum_closest.py">16.3sum_closest.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/167.two_sum_ii_input_array_is_sorted.py">167.two_sum_ii_input_array_is_sorted.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/18.4sum.py">18.4sum.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/2161.partition_array_according_to_given_pivot.py">2161.partition_array_according_to_given_pivot.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/2563.count_the_number_of_fair_pairs.py">2563.count_the_number_of_fair_pairs.py</a>
