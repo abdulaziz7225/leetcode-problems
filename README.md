@@ -263,6 +263,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/3.longest_substring_without_repeating_characters.py">3.longest_substring_without_repeating_characters.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/3208.alternating_groups_ii.py">3208.alternating_groups_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/424.longest_repeating_character_replacement.py">424.longest_repeating_character_replacement.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/567.permutation_in_string.py">567.permutation_in_string.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/713.subarray_product_less_than_k.py">713.subarray_product_less_than_k.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/904.fruit_into_baskets.py">904.fruit_into_baskets.py</a>
 ├── 📁 sorting
