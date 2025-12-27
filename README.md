@@ -254,6 +254,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/easy/3206.alternating_groups_i.py">3206.alternating_groups_i.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/easy/643.maximum_average_subarray_i.py">643.maximum_average_subarray_i.py</a>
 │   ├── 📁 medium
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/1004.max_consecutive_ones_iii.py">1004.max_consecutive_ones_iii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/1358.number_of_substrings_containing_all_three_characters.py">1358.number_of_substrings_containing_all_three_characters.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/187.repeated_dna_sequences.py">187.repeated_dna_sequences.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sliding-window/medium/209.minimum_size_subarray_sum.py">209.minimum_size_subarray_sum.py</a>
