@@ -46,6 +46,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/189.rotate_array.py">189.rotate_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/2780.minimum_index_of_a_valid_split.py">2780.minimum_index_of_a_valid_split.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/2874.maximum_value_of_an_ordered_triplet_ii.py">2874.maximum_value_of_an_ordered_triplet_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/57.insert_interval.py">57.insert_interval.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/915.partition_array_into_disjoint_intervals.py">915.partition_array_into_disjoint_intervals.py</a>
 ├── 📁 backtracking
 │   ├── 📁 medium

@@ -29,15 +29,17 @@ from typing import List
 
 class Solution:
     def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
-        count, left = 0, 0
-        cum_prod = 1
+        count = 0
+        left = 0
+        product = 1
 
         for right in range(len(nums)):
-            cum_prod *= nums[right]
+            product *= nums[right]
 
-            while left <= right and cum_prod >= k:
-                cum_prod //= nums[left]
+            while left <= right and product >= k:
+                product //= nums[left]
                 left += 1
+
             count += right - left + 1
 
         return count
