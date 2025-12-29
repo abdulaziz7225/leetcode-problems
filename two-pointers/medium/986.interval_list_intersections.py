@@ -21,10 +21,10 @@ Output: []
 Constraints:
 0 <= firstList.length, secondList.length <= 1000
 firstList.length + secondList.length >= 1
-0 <= starti < endi <= 10^9
-endi < starti+1
-0 <= startj < endj <= 10^9 
-endj < startj+1
+0 <= start[i] < end[i] <= 10^9
+end[i] < start[i]+1
+0 <= start[j] < end[j] <= 10^9 
+end[j] < start[j]+1
 """
 
 from typing import List
@@ -39,7 +39,7 @@ class Solution:
             a_start, a_end = firstList[ptr1]
             b_start, b_end = secondList[ptr2]
 
-            if a_start <= b_end and a_end >= b_start:
+            if a_start <= b_end and b_start <= a_end:
                 result.append([max(a_start, b_start), min(a_end, b_end)])
 
             if a_end <= b_end:

@@ -38,6 +38,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/3105.longest_strictly_increasing_or_strictly_decreasing_subarray.py">3105.longest_strictly_increasing_or_strictly_decreasing_subarray.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/3151.special_array_i.py">3151.special_array_i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/3392.count_subarrays_of_length_three_with_a_condition.py">3392.count_subarrays_of_length_three_with_a_condition.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/448.find_all_numbers_disappeared_in_an_array.py">448.find_all_numbers_disappeared_in_an_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/48.rotate_image.py">48.rotate_image.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/66.plus_one.py">66.plus_one.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/747.largest_number_at_least_twice_of_others.py">747.largest_number_at_least_twice_of_others.py</a>
