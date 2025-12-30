@@ -43,6 +43,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/66.plus_one.py">66.plus_one.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/747.largest_number_at_least_twice_of_others.py">747.largest_number_at_least_twice_of_others.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/easy/896.monotonic_array.py">896.monotonic_array.py</a>
+│   ├── 📁 hard
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/hard/41.first_missing_positive.py">41.first_missing_positive.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/189.rotate_array.py">189.rotate_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/array/medium/2780.minimum_index_of_a_valid_split.py">2780.minimum_index_of_a_valid_split.py</a>
