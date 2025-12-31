@@ -27,6 +27,7 @@
 - 34. Find First and Last Position of Element in Sorted Array
 - 2226. Maximum Candies Allocated to K Children
 - 1385. Find the Distance Value Between Two Arrays
+- 1539. Kth Missing Positive Number
 ```
 
 ### Binary Tree
@@ -70,17 +71,23 @@
 - 9. Palindrome Number
 ```
 
-### Heap Priority Queue
+### Fast and Slow Pointers
 
 ```markdown
-- 2349. Design a Number Container System
-- 2342. Max Sum of a Pair With Equal Sum of Digits
+- 457. Circular Array Loop
 ```
 
 ### Greedy Algorithm
 
 ```markdown
 - 2116. Check if a Parentheses String Can Be Valid
+```
+
+### Heap Priority Queue
+
+```markdown
+- 2349. Design a Number Container System
+- 2342. Max Sum of a Pair With Equal Sum of Digits
 ```
 
 ### Kadane’s Algorithm - Maximum Subarray Sum
