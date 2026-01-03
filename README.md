@@ -230,6 +230,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/easy/1475.final_prices_with_a_special_discount_in_a_shop.py">1475.final_prices_with_a_special_discount_in_a_shop.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/easy/496.next_greater_element_i.py">496.next_greater_element_i.py</a>
 │   ├── 📁 medium
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/2487.remove_nodes_from_linked_list.py">2487.remove_nodes_from_linked_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/503.next_greater_element_ii.py">503.next_greater_element_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/739.daily_temperatures.py">739.daily_temperatures.py</a>
 ├── 📁 prefix-sum
