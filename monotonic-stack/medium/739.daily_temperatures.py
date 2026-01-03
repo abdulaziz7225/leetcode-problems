@@ -35,8 +35,8 @@ class Solution:
 
         for i in range(n):
             while stack and temperatures[i] > temperatures[stack[-1]]:
-                j = stack.pop()
-                result[j] = i - j
+                top_index = stack.pop()
+                result[top_index] = i - top_index
             stack.append(i)
 
         return result

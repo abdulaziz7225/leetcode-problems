@@ -302,6 +302,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/easy/3174.clear_digits.py">3174.clear_digits.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/1081.smallest_subsequence_of_distinct_characters.py">1081.smallest_subsequence_of_distinct_characters.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/1209.remove_all_adjacent_duplicates_in_string_ii.py">1209.remove_all_adjacent_duplicates_in_string_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/150.evaluate_reverse_polish_notation.py">150.evaluate_reverse_polish_notation.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/155.min_stack.py">155.min_stack.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/stack/medium/1910.remove_all_occurrences_of_a_substring.py">1910.remove_all_occurrences_of_a_substring.py</a>

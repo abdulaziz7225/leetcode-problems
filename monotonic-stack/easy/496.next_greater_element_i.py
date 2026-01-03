@@ -38,19 +38,22 @@ from typing import List
 
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        next_greater = dict()
+        stack = []
         result = []
-        stack = [nums2[0]]
-        num_to_next_greater = {}
 
-        for num in nums2[1:]:
+        for num in nums2:
             while stack and num > stack[-1]:
-                num_to_next_greater[stack.pop()] = num
+                top_element = stack.pop()
+                next_greater[top_element] = num
+
             stack.append(num)
 
         for num in nums1:
-            result.append(num_to_next_greater.get(num, -1))
+            result.append(next_greater.get(num, -1))
+
         return result
 
-# N = len(nums1), M = len(nums2) 
-# Time Complexity: O(N + M)
-# Space Complexity: O(N + M)
+# n = len(nums1), m = len(nums2) 
+# Time Complexity: O(n + m)
+# Space Complexity: O(n + m)
