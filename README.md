@@ -232,7 +232,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/2487.remove_nodes_from_linked_list.py">2487.remove_nodes_from_linked_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/503.next_greater_element_ii.py">503.next_greater_element_ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/739.daily_temperatures.py">739.daily_temperatures.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/739.daily_temperatures.py">739.daily_temperatures.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/monotonic-stack/medium/907.sum_of_subarray_minimums.py">907.sum_of_subarray_minimums.py</a>
 ├── 📁 prefix-sum
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/prefix-sum/easy/1854.maximum_population_year.py">1854.maximum_population_year.py</a>
