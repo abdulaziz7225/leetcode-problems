@@ -106,6 +106,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 breadth-first-search
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/102.binary_tree_level_order_traversal.py">102.binary_tree_level_order_traversal.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/103.binary_tree_zigzag_level_order_traversal.py">103.binary_tree_zigzag_level_order_traversal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/107.binary_tree_level_order_traversal_ii.py">107.binary_tree_level_order_traversal_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/515.find_largest_value_in_each_tree_row.py">515.find_largest_value_in_each_tree_row.py</a>
 ├── 📁 counting
