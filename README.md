@@ -111,7 +111,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/1161.maximum_level_sum_of_a_binary_tree.py">1161.maximum_level_sum_of_a_binary_tree.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/1609.even_odd_tree.py">1609.even_odd_tree.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/429.n_ary_tree_level_order_traversal.py">429.n_ary_tree_level_order_traversal.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/515.find_largest_value_in_each_tree_row.py">515.find_largest_value_in_each_tree_row.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/515.find_largest_value_in_each_tree_row.py">515.find_largest_value_in_each_tree_row.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/662.maximum_width_of_binary_tree.py">662.maximum_width_of_binary_tree.py</a>
 ├── 📁 counting
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/easy/1512.number_of_good_pairs.py">1512.number_of_good_pairs.py</a>
