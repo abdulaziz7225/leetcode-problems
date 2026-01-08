@@ -105,6 +105,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_i.py">3191.minimum_operations_to_make_binary_array_elements_equal_to_one_i.py</a>
 ├── 📁 breadth-first-search
 │   ├── 📁 easy
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/easy/111.minimum_depth_of_binary_tree.py">111.minimum_depth_of_binary_tree.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/easy/637.average_of_levels_in_binary_tree.py">637.average_of_levels_in_binary_tree.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/102.binary_tree_level_order_traversal.py">102.binary_tree_level_order_traversal.py</a>
