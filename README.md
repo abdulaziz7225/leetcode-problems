@@ -112,6 +112,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/102.binary_tree_level_order_traversal.py">102.binary_tree_level_order_traversal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/103.binary_tree_zigzag_level_order_traversal.py">103.binary_tree_zigzag_level_order_traversal.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/107.binary_tree_level_order_traversal_ii.py">107.binary_tree_level_order_traversal_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/116.populating_next_right_pointers_in_each_node.py">116.populating_next_right_pointers_in_each_node.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/1161.maximum_level_sum_of_a_binary_tree.py">1161.maximum_level_sum_of_a_binary_tree.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/1609.even_odd_tree.py">1609.even_odd_tree.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/breadth-first-search/medium/429.n_ary_tree_level_order_traversal.py">429.n_ary_tree_level_order_traversal.py</a>
