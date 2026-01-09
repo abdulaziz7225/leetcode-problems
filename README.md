@@ -126,6 +126,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/easy/3442.maximum_difference_between_even_and_odd_frequency_i.py">3442.maximum_difference_between_even_and_odd_frequency_i.py</a>
 │   ├── 📁 medium
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/medium/2131.longest_palindrome_by_concatenating_two_letter_words.py">2131.longest_palindrome_by_concatenating_two_letter_words.py</a>
+├── 📁 depth-first-search
+│   ├── 📁 easy
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/easy/112.path_sum.py">112.path_sum.py</a>
 ├── 📁 design
 │   ├── 📁 hard
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>

@@ -59,18 +59,10 @@ class Solution:
 # Solution 2: Sum of all positive slopes
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        buying_price, selling_price = prices[0], prices[0]
         profit = 0
-
         for i in range(1, len(prices)):
-            if selling_price >= prices[i]:
-                profit += selling_price - buying_price
-                buying_price = selling_price = prices[i]
-            else:
-                selling_price = prices[i]
-
-        profit += selling_price - buying_price
-
+            if prices[i] > prices[i - 1]:
+                profit += prices[i] - prices[i - 1]
         return profit
 
 # Time Complexity: O(n)

@@ -59,14 +59,14 @@ class Solution:
 
 # Solution 3: Memoization(Top-Down) approach
 class Solution:
-    hash_map = {0: 0, 1: 1}
+    dp = {0: 0, 1: 1}
 
     def fib(self, n: int) -> int:
-        if n in self.hash_map:
-            return self.hash_map[n]
+        if n in self.dp:
+            return self.dp[n] 
 
-        self.hash_map[n] = self.fib(n - 1) + self.fib(n - 2)
-        return self.hash_map[n]
+        self.dp[n] = self.fib(n - 1) + self.fib(n - 2)
+        return self.dp[n]  
 
 # Time Complexity: O(n)
 # Space Complexity: O(n)
