@@ -128,7 +128,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/counting/medium/2131.longest_palindrome_by_concatenating_two_letter_words.py">2131.longest_palindrome_by_concatenating_two_letter_words.py</a>
 ├── 📁 depth-first-search
 │   ├── 📁 easy
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/easy/112.path_sum.py">112.path_sum.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/easy/112.path_sum.py">112.path_sum.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/easy/257.binary_tree_paths.py">257.binary_tree_paths.py</a>
 │   ├── 📁 medium
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/113.path_sum_ii.py">113.path_sum_ii.py</a>
 ├── 📁 design
