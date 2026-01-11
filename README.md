@@ -132,7 +132,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/easy/257.binary_tree_paths.py">257.binary_tree_paths.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/113.path_sum_ii.py">113.path_sum_ii.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/129.sum_root_to_leaf_numbers.py">129.sum_root_to_leaf_numbers.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/129.sum_root_to_leaf_numbers.py">129.sum_root_to_leaf_numbers.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/1430.check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path.py">1430.check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path.py</a>
 ├── 📁 design
 │   ├── 📁 hard
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>
