@@ -139,6 +139,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/1430.check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path.py">1430.check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/depth-first-search/medium/437.path_sum_iii.py">437.path_sum_iii.py</a>
 ├── 📁 design
+│   ├── 📁 easy
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/easy/225.implement_stack_using_queues.py">225.implement_stack_using_queues.py</a>
 │   ├── 📁 hard
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>
 │   ├── 📁 medium
