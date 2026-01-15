@@ -106,6 +106,12 @@
 - 28. Find the Index of the First Occurrence in a String
 ```
 
+### Linked List
+
+```markdown
+- 82. Remove Duplicates from Sorted List II
+```
+
 ### Line Sweep Algorithm
 
 ```markdown

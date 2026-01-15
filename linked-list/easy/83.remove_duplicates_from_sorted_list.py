@@ -23,21 +23,25 @@ The list is guaranteed to be sorted in ascending order.
 
 from typing import Optional
 
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-        
+
+
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        curr_node = head
-        while curr_node and curr_node.next:
-            if curr_node.val == curr_node.next.val:
-                curr_node.next = curr_node.next.next
+        curr = head
+
+        while curr and curr.next:
+            if curr.val == curr.next.val:
+                curr.next = curr.next.next
             else:
-                curr_node = curr_node.next
+                curr = curr.next
+
         return head
-        
+
 # Time Complexity: O(n)
 # Space Complexity: O(1)
