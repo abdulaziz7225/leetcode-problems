@@ -10,7 +10,8 @@ For each queries[i]:
 Select a subset of indices within the range [li, ri] in nums.
 Decrement the values at the selected indices by 1.
 A Zero Array is an array where all elements are equal to 0.
-Return true if it is possible to transform nums into a Zero Array after processing all the queries sequentially, otherwise return false.
+Return true if it is possible to transform nums into a Zero Array after processing all
+the queries sequentially, otherwise return false.
   
 Example 1:
 Input: nums = [1,0,1], queries = [[0,2]]

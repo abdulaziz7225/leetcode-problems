@@ -5,7 +5,9 @@ https://leetcode.com/problems/tuple-with-same-product
 
 ********************************************************************************
 
-Given an array nums of distinct positive integers, return the number of tuples (a, b, c, d) such that a * b = c * d where a, b, c, and d are elements of nums, and a != b != c != d.
+Given an array nums of distinct positive integers, return the number of tuples (a, b, c,
+d) such that a * b = c * d where a, b, c, and d are elements of nums, and a != b != c !=
+d.
   
 Example 1:
 Input: nums = [2,3,4,6]

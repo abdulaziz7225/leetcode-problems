@@ -5,8 +5,8 @@ https://leetcode.com/problems/sum-of-all-odd-length-subarrays
 
 ********************************************************************************
 
-Given an array of positive integers arr, return the sum of all possible odd-length subarrays of arr.
-A subarray is a contiguous subsequence of the array.
+Given an array of positive integers arr, return the sum of all possible odd-length
+subarrays of arr. A subarray is a contiguous subsequence of the array.
   
 Example 1:
 Input: arr = [1,4,2,5,3]

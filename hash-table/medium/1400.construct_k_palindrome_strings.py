@@ -5,7 +5,8 @@ https://leetcode.com/problems/construct-k-palindrome-strings
 
 ********************************************************************************
 
-Given a string s and an integer k, return true if you can use all the characters in s to construct k palindrome strings or false otherwise.
+Given a string s and an integer k, return true if you can use all the characters in s to
+construct k palindrome strings or false otherwise.
   
 Example 1:
 Input: s = "annabelle", k = 2

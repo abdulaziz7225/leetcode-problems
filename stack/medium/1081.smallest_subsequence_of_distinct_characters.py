@@ -5,7 +5,8 @@ Link: https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
 
 ********************************************************************************
 
-Given a string s, return the lexicographically smallest subsequence of s that contains all the distinct characters of s exactly once.
+Given a string s, return the lexicographically smallest subsequence of s that contains
+all the distinct characters of s exactly once.
 
 Example 1:
 Input: s = "bcabc"

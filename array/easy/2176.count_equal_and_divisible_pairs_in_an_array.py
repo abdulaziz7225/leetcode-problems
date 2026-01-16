@@ -5,7 +5,9 @@ https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array
 
 ********************************************************************************
 
-Given a 0-indexed integer array nums of length n and an integer k, return the number of pairs (i, j) where 0 <= i < j < n, such that nums[i] == nums[j] and (i * j) is divisible by k.
+Given a 0-indexed integer array nums of length n and an integer k, return the number of
+pairs (i, j) where 0 <= i < j < n, such that nums[i] == nums[j] and (i * j) is divisible
+by k.
   
 Example 1:
 Input: nums = [3,1,2,2,2,1,3], k = 2
@@ -20,7 +22,8 @@ There are 4 pairs that meet all the requirements:
 Example 2:
 Input: nums = [1,2,3,4], k = 1
 Output: 0
-Explanation: Since no value in nums is repeated, there are no pairs (i,j) that meet all the requirements.
+Explanation: Since no value in nums is repeated, there are no pairs (i,j) that meet all
+the requirements.
   
 Constraints:
 1 <= nums.length <= 100
