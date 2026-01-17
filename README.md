@@ -419,6 +419,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/75.sort_colors.py">75.sort_colors.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/80.remove_duplicates_from_sorted_array_ii.py">80.remove_duplicates_from_sorted_array_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/two-pointers/medium/986.interval_list_intersections.py">986.interval_list_intersections.py</a>
+├── 📁 union-find
+│   ├── 📁 medium
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/union-find/medium/200.number_of_islands.py">200.number_of_islands.py</a>
 ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/LICENSE">LICENSE</a>
 ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/README.md">README.md</a>
 ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/TODO.md">TODO.md</a>
