@@ -262,6 +262,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/1254.number_of_closed_islands.py">1254.number_of_closed_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/200.number_of_islands.py">200.number_of_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/2661.first_completely_painted_row_or_column.py">2661.first_completely_painted_row_or_column.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/694.number_of_distinct_islands.py">694.number_of_distinct_islands.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/695.max_area_of_island.py">695.max_area_of_island.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/matrix/medium/73.set_matrix_zeroes.py">73.set_matrix_zeroes.py</a>
 ├── 📁 monotonic-stack

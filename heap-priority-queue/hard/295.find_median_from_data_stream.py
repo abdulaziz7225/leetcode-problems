@@ -47,8 +47,10 @@ from heapq import heappush, heappop, heappushpop
 class MedianFinder:
 
     def __init__(self):
-        self.max_heap = []  # First element is the smallest. Elements are stored with negative sign
-        self.min_heap = []  # First element is the greatest
+        # First element is the greatest. Elements are stored with negative sign
+        self.max_heap = []  
+        # First element is the smallest
+        self.min_heap = []  
 
     def addNum(self, num: int) -> None:
         if len(self.min_heap) == len(self.max_heap):
@@ -72,8 +74,10 @@ class MedianFinder:
 class MedianFinder:
 
     def __init__(self):
-        self.max_heap = []  # First element is the smallest. Elements are stored with negative sign
-        self.min_heap = []  # First element is the greatest
+        # First element is the greatest. Elements are stored with negative sign
+        self.max_heap = []  
+        # First element is the smallest
+        self.min_heap = []  
 
     def addNum(self, num: int) -> None:
         heappush(self.min_heap, num)
