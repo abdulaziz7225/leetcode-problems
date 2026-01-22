@@ -161,6 +161,9 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 geometry
 │   ├── 📁 easy
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/geometry/easy/1232.check_if_it_is_a_straight_line.py">1232.check_if_it_is_a_straight_line.py</a>
+├── 📁 graph
+│   ├── 📁 easy
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/easy/1971.find_if_path_exists_in_graph.py">1971.find_if_path_exists_in_graph.py</a>
 ├── 📁 greedy-algorithm
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/2900.longest_unequal_adjacent_groups_subsequence_i.py">2900.longest_unequal_adjacent_groups_subsequence_i.py</a>
