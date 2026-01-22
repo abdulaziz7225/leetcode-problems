@@ -59,6 +59,12 @@
 - 1980. Find Unique Binary String
 ```
 
+### Disjoint Set
+
+```markdown
+- 547. Number of Provinces
+```
+
 ### Dutch national flag problem
 
 ```markdown

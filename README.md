@@ -164,6 +164,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 graph
 │   ├── 📁 easy
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/easy/1971.find_if_path_exists_in_graph.py">1971.find_if_path_exists_in_graph.py</a>
+│   ├── 📁 medium
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/medium/547.number_of_provinces.py">547.number_of_provinces.py</a>
 ├── 📁 greedy-algorithm
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/greedy-algorithm/easy/2900.longest_unequal_adjacent_groups_subsequence_i.py">2900.longest_unequal_adjacent_groups_subsequence_i.py</a>
