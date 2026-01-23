@@ -11,6 +11,7 @@
 - [Knuth-Morris-Pratt (KMP) Algorithm - Pattern Searching](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 - [Misra–Gries heavy hitters algorithm](https://en.wikipedia.org/wiki/Misra%E2%80%93Gries_heavy_hitters_algorithm)
 - [Rolling Hash Technique and the Rabin-Karp Algorithm - Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+- [Topological Sorting using BFS - Kahn's Algorithm](https://www.geeksforgeeks.org/dsa/topological-sorting-indegree-based-solution/)
 
 ---
 
@@ -186,6 +187,12 @@
 
 ```markdown
 - 3443. Maximum Manhattan Distance After K Changes
+```
+
+### Topological Sorting using BFS - Kahn's Algorithm
+
+```markdown
+- 802. Find Eventual Safe States
 ```
 
 ### Trie
