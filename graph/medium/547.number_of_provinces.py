@@ -63,7 +63,7 @@ class Solution:
 # Space Complexity: O(n)
 
 
-# Solution 1: Iterative BFS
+# Solution 2: Iterative BFS
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         self.size = len(isConnected)
