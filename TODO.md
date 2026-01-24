@@ -84,6 +84,12 @@
 - 457. Circular Array Loop
 ```
 
+### Graph Theory
+
+```markdown
+- 815. Bus Routes
+```
+
 ### Greedy Algorithm
 
 ```markdown

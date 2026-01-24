@@ -164,6 +164,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 graph
 │   ├── 📁 easy
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/easy/1971.find_if_path_exists_in_graph.py">1971.find_if_path_exists_in_graph.py</a>
+│   ├── 📁 hard
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/hard/815.bus_routes.py">815.bus_routes.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/medium/1557.minimum_number_of_vertices_to_reach_all_nodes.py">1557.minimum_number_of_vertices_to_reach_all_nodes.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/graph/medium/547.number_of_provinces.py">547.number_of_provinces.py</a>
