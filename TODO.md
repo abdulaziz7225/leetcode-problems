@@ -102,6 +102,7 @@
 - 2349. Design a Number Container System
 - 2342. Max Sum of a Pair With Equal Sum of Digits
 - 480. Sliding Window Median
+- 436. Find Right Interval
 ```
 
 ### Kadane’s Algorithm - Maximum Subarray Sum

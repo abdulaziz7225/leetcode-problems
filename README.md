@@ -222,6 +222,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/2342.max_sum_of_a_pair_with_equal_sum_of_digits.py">2342.max_sum_of_a_pair_with_equal_sum_of_digits.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/2349.design_a_number_container_system.py">2349.design_a_number_container_system.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/3066.minimum_operations_to_exceed_threshold_value_ii.py">3066.minimum_operations_to_exceed_threshold_value_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/436.find_right_interval.py">436.find_right_interval.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/451.sort_characters_by_frequency.py">451.sort_characters_by_frequency.py</a>
 ├── 📁 linked-list
 │   ├── 📁 easy
