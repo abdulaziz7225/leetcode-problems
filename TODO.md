@@ -26,6 +26,7 @@
 
 ```markdown
 - 90. Subsets II
+- 46. Permutations
 ```
 
 ### Binary Search
