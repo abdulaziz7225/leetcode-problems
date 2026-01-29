@@ -54,6 +54,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 backtracking
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/1980.find_unique_binary_string.py">1980.find_unique_binary_string.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/22.generate_parentheses.py">22.generate_parentheses.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/46.permutations.py">46.permutations.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/78.subsets.py">78.subsets.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/784.letter_case_permutation.py">784.letter_case_permutation.py</a>
