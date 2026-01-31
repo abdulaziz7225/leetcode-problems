@@ -91,6 +91,7 @@
 
 ```markdown
 - 9. Palindrome Number
+- 96. Unique Binary Search Trees
 ```
 
 ### Fast and Slow Pointers
