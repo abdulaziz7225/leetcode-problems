@@ -59,7 +59,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/47.permutations_ii.py">47.permutations_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/78.subsets.py">78.subsets.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/784.letter_case_permutation.py">784.letter_case_permutation.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/90.subsets_ii.py">90.subsets_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/90.subsets_ii.py">90.subsets_ii.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/backtracking/medium/95.unique_binary_search_trees_ii.py">95.unique_binary_search_trees_ii.py</a>
 ├── 📁 binary-search
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/1385.find_the_distance_value_between_two_arrays.py">1385.find_the_distance_value_between_two_arrays.py</a>
