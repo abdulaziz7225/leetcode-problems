@@ -33,18 +33,17 @@ from typing import List
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        start_index, end_index = 0, len(nums) - 1
+        left = 0
+        right = len(nums)
 
-        while start_index <= end_index:
-            mid = (end_index + start_index) // 2
-            if nums[mid] == target:
-                return mid
-            elif nums[mid] < target:
-                start_index = mid + 1
+        while left < right:
+            middle = (left + right) // 2
+            if nums[middle] < target:
+                left = middle + 1
             else:
-                end_index = mid - 1
+                right = middle
 
-        return start_index
+        return left
 
 # Time Complexity: O(log(n))
 # Space Complexity: O(1)

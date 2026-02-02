@@ -72,7 +72,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/367.valid_perfect_square.py">367.valid_perfect_square.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/374.guess_number_higher_or_lower.py">374.guess_number_higher_or_lower.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/69.sqrtx.py">69.sqrtx.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/704.binary_search.py">704.binary_search.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/704.binary_search.py">704.binary_search.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/easy/744.find_smallest_letter_greater_than_target.py">744.find_smallest_letter_greater_than_target.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/153.find_minimum_in_rotated_sorted_array.py">153.find_minimum_in_rotated_sorted_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/1838.frequency_of_the_most_frequent_element.py">1838.frequency_of_the_most_frequent_element.py</a>
