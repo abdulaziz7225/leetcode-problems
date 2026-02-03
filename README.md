@@ -84,6 +84,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/33.search_in_rotated_sorted_array.py">33.search_in_rotated_sorted_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/3356.zero_array_transformation_ii.py">3356.zero_array_transformation_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/34.find_first_and_last_position_of_element_in_sorted_array.py">34.find_first_and_last_position_of_element_in_sorted_array.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/702.search_in_a_sorted_array_of_unknown_size.py">702.search_in_a_sorted_array_of_unknown_size.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/74.search_a_2d_matrix.py">74.search_a_2d_matrix.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/binary-search/medium/875.koko_eating_bananas.py">875.koko_eating_bananas.py</a>
 ├── 📁 binary-tree

@@ -39,6 +39,7 @@
 - 2226. Maximum Candies Allocated to K Children
 - 1385. Find the Distance Value Between Two Arrays
 - 1539. Kth Missing Positive Number
+- 702. Search in a Sorted Array of Unknown Size
 ```
 
 ### Binary Tree
