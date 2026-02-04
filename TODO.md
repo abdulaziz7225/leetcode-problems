@@ -36,6 +36,8 @@
 
 ```markdown
 - 34. Find First and Last Position of Element in Sorted Array
+- 33. Search in Rotated Sorted Array
+- 81. Search in Rotated Sorted Array II
 - 2226. Maximum Candies Allocated to K Children
 - 1385. Find the Distance Value Between Two Arrays
 - 1539. Kth Missing Positive Number
