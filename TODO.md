@@ -42,6 +42,8 @@
 - 1385. Find the Distance Value Between Two Arrays
 - 1539. Kth Missing Positive Number
 - 702. Search in a Sorted Array of Unknown Size
+- 153. Find Minimum in Rotated Sorted Array
+- 154. Find Minimum in Rotated Sorted Array II
 ```
 
 ### Binary Tree
