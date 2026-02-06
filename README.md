@@ -158,6 +158,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/medium/146.lru_cache.py">146.lru_cache.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/medium/2502.design_memory_allocator.py">2502.design_memory_allocator.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/medium/380.insert_delete_getrandom_o1.py">380.insert_delete_getrandom_o1.py</a>
 ├── 📁 divide-and-conquer
 │   ├── 📁 easy

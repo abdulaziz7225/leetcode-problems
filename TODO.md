@@ -81,6 +81,13 @@
 - 22. Generate Parentheses
 ```
 
+### Design
+
+```markdown
+- 146. LRU Cache
+- 2502. Design Memory Allocator
+```
+
 ### Disjoint Set
 
 ```markdown
