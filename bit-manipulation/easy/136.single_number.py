@@ -32,10 +32,10 @@ from typing import List
 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        single_num = 0
+        result = 0
         for num in nums:
-            single_num ^= num
-        return single_num
+            result ^= num
+        return result
 
 # Time Complexity: O(n)
 # Space Complexity: O(1)

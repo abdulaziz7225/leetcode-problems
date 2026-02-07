@@ -113,6 +113,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2401.longest_nice_subarray.py">2401.longest_nice_subarray.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2425.bitwise_xor_of_all_pairings.py">2425.bitwise_xor_of_all_pairings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2429.minimize_xor.py">2429.minimize_xor.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/260.single_number_iii.py">260.single_number_iii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2683.neighboring_bitwise_xor.py">2683.neighboring_bitwise_xor.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_i.py">3191.minimum_operations_to_make_binary_array_elements_equal_to_one_i.py</a>
 ├── 📁 breadth-first-search
