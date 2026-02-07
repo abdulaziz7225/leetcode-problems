@@ -61,6 +61,7 @@
 - 2429. Minimize XOR
 - 342. Power of Four
 - 367. Valid Perfect Square
+- 137. Single Number II
 - 260. Single Number III
 ```
 

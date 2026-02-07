@@ -110,6 +110,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/389.find_the_difference.py">389.find_the_difference.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/476.number_complement.py">476.number_complement.py</a>
 │   ├── 📁 medium
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/137.single_number_ii.py">137.single_number_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2401.longest_nice_subarray.py">2401.longest_nice_subarray.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2425.bitwise_xor_of_all_pairings.py">2425.bitwise_xor_of_all_pairings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2429.minimize_xor.py">2429.minimize_xor.py</a>
