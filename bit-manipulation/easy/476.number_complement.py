@@ -28,11 +28,25 @@ Note: This question is the same as 1009: https://leetcode.com/problems/complemen
 """
 
 
+# Solution 1
 class Solution:
     def findComplement(self, num: int) -> int:
-        bit_length = num.bit_length()
-        mask = (1 << bit_length) - 1
-        return num ^ mask
+        mask = 1
+        while mask < num:
+            mask = 2 * mask + 1
+        return mask - num
+
+# Time Complexity: O(log(n))
+# Space Complexity: O(1)
+
+
+# Solution 2
+class Solution:
+    def findComplement(self, num: int) -> int:
+        mask = 1
+        while mask < num:
+            mask = (mask << 1) + 1
+        return mask ^ num
 
 # Time Complexity: O(log(n))
 # Space Complexity: O(1)

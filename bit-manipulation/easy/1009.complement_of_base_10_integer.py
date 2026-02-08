@@ -31,13 +31,25 @@ Constraints:
 """
 
 
+# Solution 1
 class Solution:
-    def bitwiseComplement(self, n: int) -> int:
-        if n == 0:
-            return 1
+    def bitwiseComplement(self, num: int) -> int:
+        mask = 1
+        while mask < num:
+            mask = 2 * mask + 1
+        return mask - num
 
-        bit_length = n.bit_length()
-        return n ^ (2**bit_length - 1)
+# Time Complexity: O(log(n))
+# Space Complexity: O(1)
+
+
+# Solution 2
+class Solution:
+    def bitwiseComplement(self, num: int) -> int:
+        mask = 1
+        while mask < num:
+            mask = (mask << 1) + 1
+        return mask ^ num
 
 # Time Complexity: O(log(n))
 # Space Complexity: O(1)
