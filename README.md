@@ -108,7 +108,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/3304.find_the_k_th_character_in_string_game_i.py">3304.find_the_k_th_character_in_string_game_i.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/342.power_of_four.py">342.power_of_four.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/389.find_the_difference.py">389.find_the_difference.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/476.number_complement.py">476.number_complement.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/476.number_complement.py">476.number_complement.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/easy/832.flipping_an_image.py">832.flipping_an_image.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/137.single_number_ii.py">137.single_number_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/bit-manipulation/medium/2401.longest_nice_subarray.py">2401.longest_nice_subarray.py</a>
