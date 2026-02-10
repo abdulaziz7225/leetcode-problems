@@ -240,7 +240,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/2349.design_a_number_container_system.py">2349.design_a_number_container_system.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/3066.minimum_operations_to_exceed_threshold_value_ii.py">3066.minimum_operations_to_exceed_threshold_value_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/436.find_right_interval.py">436.find_right_interval.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/451.sort_characters_by_frequency.py">451.sort_characters_by_frequency.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/451.sort_characters_by_frequency.py">451.sort_characters_by_frequency.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/973.k_closest_points_to_origin.py">973.k_closest_points_to_origin.py</a>
 ├── 📁 linked-list
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/1290.convert_binary_number_in_a_linked_list_to_integer.py">1290.convert_binary_number_in_a_linked_list_to_integer.py</a>
