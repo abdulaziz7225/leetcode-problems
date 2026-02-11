@@ -240,6 +240,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/2342.max_sum_of_a_pair_with_equal_sum_of_digits.py">2342.max_sum_of_a_pair_with_equal_sum_of_digits.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/2349.design_a_number_container_system.py">2349.design_a_number_container_system.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/3066.minimum_operations_to_exceed_threshold_value_ii.py">3066.minimum_operations_to_exceed_threshold_value_ii.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/347.top_k_frequent_elements.py">347.top_k_frequent_elements.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/436.find_right_interval.py">436.find_right_interval.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/451.sort_characters_by_frequency.py">451.sort_characters_by_frequency.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/973.k_closest_points_to_origin.py">973.k_closest_points_to_origin.py</a>
@@ -364,7 +365,6 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3169.count_days_without_meetings.py">3169.count_days_without_meetings.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3394.check_if_grid_can_be_cut_into_sections.py">3394.check_if_grid_can_be_cut_into_sections.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/3443.maximum_manhattan_distance_after_k_changes.py">3443.maximum_manhattan_distance_after_k_changes.py</a>
-│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/347.top_k_frequent_elements.py">347.top_k_frequent_elements.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/442.find_all_duplicates_in_an_array.py">442.find_all_duplicates_in_an_array.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/462.minimum_moves_to_equal_array_elements_ii.py">462.minimum_moves_to_equal_array_elements_ii.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/sorting/medium/56.merge_intervals.py">56.merge_intervals.py</a>

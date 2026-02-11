@@ -28,7 +28,7 @@ It is guaranteed that the answer is unique.
 
 Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 """
-from heapq import nlargest
+from heapq import heappush, heappop, nlargest
 from typing import List
 
 
@@ -50,10 +50,10 @@ class Solution:
 # Time Complexity: O(n + m * log(m) + k) ==> O(n + m * log(m))
 # In Python, the sort() method sorts a list using the Timsort algorithm which is a combination
 # of Merge Sort and Insertion Sort and has O(n) additional space.
-# Space Complexity: O(2 * m + k) ==> O(m)
+# Space Complexity: O(2 * m + k) ==> O(m + k)
 
 
-# Solution 2: Heap Priority Queue
+# Solution 2: Heap Priority Queue built-in nlargest method
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         count = dict()
@@ -64,7 +64,26 @@ class Solution:
         return result
 
 # n = len(nums), m = count of unique numbers
-# Time Complexity: O(n + m * log(m) + k) ==> O(n + m * log(m))
-# In Python, the sort() method sorts a list using the Timsort algorithm which is a combination
-# of Merge Sort and Insertion Sort and has O(n) additional space.
-# Space Complexity: O(2 * m + k) ==> O(m)
+# Time Complexity: O(n + m * log(k) + k) ==> O(n + m * log(m))
+# Space Complexity: O(2 * m + k) ==> O(m + k)
+
+
+# Solution 3: Heap Priority Queue user-defined nlargest method
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        count = dict()
+        for num in nums:
+            count[num] = count.get(num, 0) + 1
+
+        min_freq_heap = []
+        for num, freq in count.items():
+            heappush(min_freq_heap, (freq, num))
+            if len(min_freq_heap) > k:
+                heappop(min_freq_heap)
+
+        result = [num for _, num in min_freq_heap]
+        return result
+
+# n = len(nums), m = count of unique numbers
+# Time Complexity: O(n + m * log(k) + k) ==> O(n + m * log(m))
+# Space Complexity: O(m + 2 * k) ==> O(m + k)
