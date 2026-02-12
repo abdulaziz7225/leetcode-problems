@@ -39,13 +39,13 @@ from heapq import heappush, heappop
 class Solution:
     def frequencySort(self, string: str) -> str:
         result = []
-        counter = dict()
+        count = dict()
 
         for char in string:
-            counter[char] = counter.get(char, 0) + 1
+            count[char] = count.get(char, 0) + 1
 
         sorted_pairs = sorted(
-            counter.items(), key=lambda x: x[1], reverse=True)
+            count.items(), key=lambda x: x[1], reverse=True)
         for char, freq in sorted_pairs:
             result.append(char * freq)
 
@@ -60,13 +60,13 @@ class Solution:
 class Solution:
     def frequencySort(self, string: str) -> str:
         result = []
-        counter = dict()
+        count = dict()
 
         for char in string:
-            counter[char] = counter.get(char, 0) + 1
+            count[char] = count.get(char, 0) + 1
 
         max_heap = []
-        for char, freq in counter.items():
+        for char, freq in count.items():
             heappush(max_heap, [-freq, char])
 
         while max_heap:
@@ -84,20 +84,19 @@ class Solution:
 class Solution:
     def frequencySort(self, string: str) -> str:
         result = []
-        counter = dict()
-
+        count = dict()
         for char in string:
-            counter[char] = counter.get(char, 0) + 1
+            count[char] = count.get(char, 0) + 1
 
-        max_freq = max(counter.values())
-        freq_bucket = [[] for _ in range(max_freq)]
+        max_freq = max(count.values())
+        freq_bucket = [[] for _ in range(max_freq + 1)]
 
-        for char, freq in counter.items():
-            freq_bucket[freq - 1].append(char)
+        for char, freq in count.items():
+            freq_bucket[freq].append(char)
 
-        for i in range(len(freq_bucket) - 1, -1, -1):
-            for char in freq_bucket[i]:
-                result.append(char * (i + 1))
+        for freq in range(max_freq, -1, -1):
+            for char in freq_bucket[freq]:
+                result.append(char * freq)
 
         return "".join(result)
 

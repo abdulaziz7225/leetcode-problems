@@ -231,7 +231,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 ├── 📁 heap-priority-queue
 │   ├── 📁 easy
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/easy/2558.take_gifts_from_the_richest_pile.py">2558.take_gifts_from_the_richest_pile.py</a>
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/easy/3065.minimum_operations_to_exceed_threshold_value_i.py">3065.minimum_operations_to_exceed_threshold_value_i.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/easy/3065.minimum_operations_to_exceed_threshold_value_i.py">3065.minimum_operations_to_exceed_threshold_value_i.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/easy/703.kth_largest_element_in_a_stream.py">703.kth_largest_element_in_a_stream.py</a>
 │   ├── 📁 hard
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/hard/295.find_median_from_data_stream.py">295.find_median_from_data_stream.py</a>
 │   ├── 📁 medium
