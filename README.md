@@ -172,6 +172,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/dynamic-programming/medium/122.best_time_to_buy_and_sell_stock_ii.py">122.best_time_to_buy_and_sell_stock_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/dynamic-programming/medium/1749.maximum_absolute_sum_of_any_subarray.py">1749.maximum_absolute_sum_of_any_subarray.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/dynamic-programming/medium/241.different_ways_to_add_parentheses.py">241.different_ways_to_add_parentheses.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/dynamic-programming/medium/53.maximum_subarray.py">53.maximum_subarray.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/dynamic-programming/medium/96.unique_binary_search_trees.py">96.unique_binary_search_trees.py</a>
 ├── 📁 geometry

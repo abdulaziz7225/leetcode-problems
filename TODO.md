@@ -108,6 +108,7 @@
 ```markdown
 - 9. Palindrome Number
 - 96. Unique Binary Search Trees
+- 241. Different Ways to Add Parentheses
 ```
 
 ### Fast and Slow Pointers
