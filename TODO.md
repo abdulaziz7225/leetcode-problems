@@ -45,6 +45,7 @@
 - 702. Search in a Sorted Array of Unknown Size
 - 153. Find Minimum in Rotated Sorted Array
 - 154. Find Minimum in Rotated Sorted Array II
+- 658. Find K Closest Elements
 ```
 
 ### Binary Tree
