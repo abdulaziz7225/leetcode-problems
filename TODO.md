@@ -137,6 +137,7 @@
 - 2342. Max Sum of a Pair With Equal Sum of Digits
 - 480. Sliding Window Median
 - 436. Find Right Interval
+- 1481. Least Number of Unique Integers after K Removals
 ```
 
 ### Kadane’s Algorithm - Maximum Subarray Sum
