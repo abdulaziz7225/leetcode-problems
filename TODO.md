@@ -138,6 +138,7 @@
 - 480. Sliding Window Median
 - 436. Find Right Interval
 - 1481. Least Number of Unique Integers after K Removals
+- 767. Reorganize String
 ```
 
 ### Kadane’s Algorithm - Maximum Subarray Sum
