@@ -52,5 +52,6 @@ class Solution:
             return ""
         return "".join(result)
 
-# Time Complexity: O(2 * n * log(n) + 2 * n) ==> O(n * log(n))
-# Space Complexity: O(4 * n) ==> O(n)
+# n = len(s), m = number of unique characters
+# Time Complexity: O(n + (n + m) * log(m)) ==> O(n * log(m))
+# Space Complexity: O(n + 2 * m) ==> O(n)

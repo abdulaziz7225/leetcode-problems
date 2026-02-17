@@ -236,7 +236,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/easy/3065.minimum_operations_to_exceed_threshold_value_i.py">3065.minimum_operations_to_exceed_threshold_value_i.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/easy/703.kth_largest_element_in_a_stream.py">703.kth_largest_element_in_a_stream.py</a>
 │   ├── 📁 hard
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/hard/295.find_median_from_data_stream.py">295.find_median_from_data_stream.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/hard/295.find_median_from_data_stream.py">295.find_median_from_data_stream.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/hard/358.rearrange_string_k_distance_apart.py">358.rearrange_string_k_distance_apart.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/1167.minimum_cost_to_connect_sticks.py">1167.minimum_cost_to_connect_sticks.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/1481.least_number_of_unique_integers_after_k_removals.py">1481.least_number_of_unique_integers_after_k_removals.py</a>
