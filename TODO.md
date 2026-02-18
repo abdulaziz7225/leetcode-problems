@@ -140,6 +140,7 @@
 - 1481. Least Number of Unique Integers after K Removals
 - 767. Reorganize String
 - 358. Rearrange String k Distance Apart
+- 621. Task Scheduler
 ```
 
 ### Kadane’s Algorithm - Maximum Subarray Sum

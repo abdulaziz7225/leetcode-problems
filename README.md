@@ -248,6 +248,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/347.top_k_frequent_elements.py">347.top_k_frequent_elements.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/436.find_right_interval.py">436.find_right_interval.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/451.sort_characters_by_frequency.py">451.sort_characters_by_frequency.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/621.task_scheduler.py">621.task_scheduler.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/767.reorganize_string.py">767.reorganize_string.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/973.k_closest_points_to_origin.py">973.k_closest_points_to_origin.py</a>
 ├── 📁 linked-list
