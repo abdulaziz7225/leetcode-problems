@@ -90,6 +90,7 @@
 ```markdown
 - 146. LRU Cache
 - 2502. Design Memory Allocator
+- 895. Maximum Frequency Stack
 ```
 
 ### Disjoint Set

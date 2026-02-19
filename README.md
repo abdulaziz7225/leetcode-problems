@@ -159,7 +159,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/easy/225.implement_stack_using_queues.py">225.implement_stack_using_queues.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/easy/232.implement_queue_using_stacks.py">232.implement_queue_using_stacks.py</a>
 │   ├── 📁 hard
-│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/381.insert_delete_getrandom_o1_duplicates_allowed.py">381.insert_delete_getrandom_o1_duplicates_allowed.py</a>
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/hard/895.maximum_frequency_stack.py">895.maximum_frequency_stack.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/medium/146.lru_cache.py">146.lru_cache.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/design/medium/2502.design_memory_allocator.py">2502.design_memory_allocator.py</a>
