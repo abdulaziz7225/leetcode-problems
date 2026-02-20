@@ -261,6 +261,8 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/234.palindrome_linked_list.py">234.palindrome_linked_list.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/83.remove_duplicates_from_sorted_list.py">83.remove_duplicates_from_sorted_list.py</a>
 │   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/easy/876.middle_of_the_linked_list.py">876.middle_of_the_linked_list.py</a>
+│   ├── 📁 hard
+│   │   └── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/hard/23.merge_k_sorted_lists.py">23.merge_k_sorted_lists.py</a>
 │   ├── 📁 medium
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/142.linked_list_cycle_ii.py">142.linked_list_cycle_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/linked-list/medium/143.reorder_list.py">143.reorder_list.py</a>
