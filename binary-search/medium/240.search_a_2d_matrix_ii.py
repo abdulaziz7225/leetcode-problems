@@ -56,19 +56,19 @@ class Solution:
 # Solution 2: Efficient Traversal
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        row_len = len(matrix)
-        col_len = len(matrix[0])
+        n = len(matrix)
+        m = len(matrix[0])
 
-        row_idx = row_len - 1
-        col_idx = 0
+        rowID = n - 1
+        colID = 0
 
-        while row_idx >= 0 and col_idx < col_len:
-            if matrix[row_idx][col_idx] == target:
+        while rowID >= 0 and colID < m:
+            if matrix[rowID][colID] == target:
                 return True
-            elif matrix[row_idx][col_idx] < target:
-                col_idx += 1
+            elif matrix[rowID][colID] < target:
+                colID += 1
             else:
-                row_idx -= 1
+                rowID -= 1
 
         return False
 

@@ -247,6 +247,7 @@ This repository contains 🌟 **solutions** to various data structure and algori
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/2349.design_a_number_container_system.py">2349.design_a_number_container_system.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/3066.minimum_operations_to_exceed_threshold_value_ii.py">3066.minimum_operations_to_exceed_threshold_value_ii.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/347.top_k_frequent_elements.py">347.top_k_frequent_elements.py</a>
+│   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/378.kth_smallest_element_in_a_sorted_matrix.py">378.kth_smallest_element_in_a_sorted_matrix.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/436.find_right_interval.py">436.find_right_interval.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/451.sort_characters_by_frequency.py">451.sort_characters_by_frequency.py</a>
 │   │   ├── <a href="https://github.com/abdulaziz7225/leetcode-problems/blob/main/heap-priority-queue/medium/621.task_scheduler.py">621.task_scheduler.py</a>
