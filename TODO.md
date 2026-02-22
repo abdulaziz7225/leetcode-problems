@@ -47,6 +47,7 @@
 - 154. Find Minimum in Rotated Sorted Array II
 - 658. Find K Closest Elements
 - 378. Kth Smallest Element in a Sorted Matrix
+- 4. Median of Two Sorted Arrays
 ```
 
 ### Binary Tree
